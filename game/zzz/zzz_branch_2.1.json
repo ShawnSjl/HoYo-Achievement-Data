@@ -1,0 +1,25 @@
+{
+  "name": "zzz_branch_2.1",
+  "type": "data",
+  "depends": [
+    "zzz_achievement_2.1"
+  ],
+  "payload": {
+    "operations": [
+      {
+        "action": "insert",
+        "table": "zzz_branch",
+        "values": [
+          {
+            "branch_id": 1,
+            "achievement_id": 1008538
+          },
+          {
+            "branch_id": 1,
+            "achievement_id": 1008539
+          }
+        ]
+      }
+    ]
+  }
+}
