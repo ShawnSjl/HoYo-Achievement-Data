@@ -1,0 +1,35 @@
+{
+  "name": "sr_branch_2.1",
+  "type": "data",
+  "depends": [ "sr_achievement_2.1" ],
+  "payload": {
+    "operations": [
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 22,
+            "achievement_id": 8009008
+          },
+          {
+            "branch_id": 22,
+            "achievement_id": 8009009
+          },
+          {
+            "branch_id": 22,
+            "achievement_id": 8009010
+          },
+          {
+            "branch_id": 23,
+            "achievement_id": 8009016
+          },
+          {
+            "branch_id": 23,
+            "achievement_id": 8009017
+          }
+        ]
+      }
+    ]
+  }
+}
