@@ -2151,15 +2151,6 @@
     "game_version": "1.0"
   },
   {
-    "achievement_id": 3001015,
-    "class_id": 4001,
-    "name": "完美闪避",
-    "description": "在「危机丛生之地」中，不触发任何陷阱并完成委托。",
-    "reward_level": 1,
-    "hidden": 2,
-    "game_version": "1.0"
-  },
-  {
     "achievement_id": 3001016,
     "class_id": 4001,
     "name": "业余黑客",
