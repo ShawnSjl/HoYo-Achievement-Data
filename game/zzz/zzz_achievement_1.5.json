@@ -16,7 +16,6 @@
             "name": "被嘉音包围了！",
             "description": "在丽都各处，寻找并拍摄5张耀嘉音主演的影片、广告和演唱会的海报。",
             "reward_level": 1,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -25,7 +24,6 @@
             "name": "关于致富的尝试",
             "description": "在星环电视塔的VIP包厢中，「试坐」一下昂贵的沙发。",
             "reward_level": 1,
-            "hidden": 1,
             "game_version": "1.5"
           },
           {
@@ -34,7 +32,6 @@
             "name": "另一颗星星",
             "description": "在星环电视塔，「碰巧」听到一些关于莫妮卡女士的聊天。",
             "reward_level": 1,
-            "hidden": 1,
             "game_version": "1.5"
           },
           {
@@ -43,7 +40,6 @@
             "name": "眺望拂晓的天光",
             "description": "在星环电视塔，「碰巧」找到一些关于「妄想天使」的消息。",
             "reward_level": 1,
-            "hidden": 1,
             "game_version": "1.5"
           },
           {
@@ -52,7 +48,6 @@
             "name": "聚光灯外的人生",
             "description": "耀嘉音对绳匠的信赖达到4阶。",
             "reward_level": 1,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -61,7 +56,6 @@
             "name": "不设防的线",
             "description": "伊芙琳对绳匠的信赖达到4阶。",
             "reward_level": 1,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -70,7 +64,6 @@
             "name": "与你跌落梦境",
             "description": "在「密友同行」中，和任意代理人一起玩「怪奇旅伴」。",
             "reward_level": 1,
-            "hidden": 1,
             "game_version": "1.5"
           },
           {
@@ -79,7 +72,6 @@
             "name": "直到梦魇尽头",
             "description": "在「密友同行」中，和任意代理人一起玩「怪奇旅伴」并存活15波以上。",
             "reward_level": 1,
-            "hidden": 1,
             "game_version": "1.5"
           },
           {
@@ -88,7 +80,6 @@
             "name": "谁点亮了小夜灯",
             "description": "在「密友同行」中，和安比、莱卡恩、浅羽悠真一起玩「怪奇旅伴」，且存活均超过5波。",
             "reward_level": 1,
-            "hidden": 1,
             "game_version": "1.5"
           },
           {
@@ -97,7 +88,6 @@
             "name": "这只鲨鲨不太冷",
             "description": "完成艾莲的代理人秘闻「我是艾莲，在忙，有事留言」。",
             "reward_level": 2,
-            "hidden": 1,
             "game_version": "1.5"
           },
           {
@@ -106,7 +96,6 @@
             "name": "乘着歌声的翅膀",
             "description": "完成耀嘉音的独家视界「闪耀的此刻」。",
             "reward_level": 3,
-            "hidden": 1,
             "game_version": "1.5"
           },
           {
@@ -115,7 +104,6 @@
             "name": "大师赛一号种子",
             "description": "在「厄匹斯极钓大师赛」中，完成比赛。",
             "reward_level": 1,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -124,7 +112,6 @@
             "name": "钓鱼佬闲话集",
             "description": "在「厄匹斯极钓大师赛」中，完成所有「港口逸事」。",
             "reward_level": 1,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -133,7 +120,6 @@
             "name": "绝不！空军！",
             "description": "在「厄匹斯极钓大师赛」的「垂钓图鉴」中，集齐77颗星星。",
             "reward_level": 1,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -142,7 +128,6 @@
             "name": "什么都能钓到，除了…",
             "description": "在「厄匹斯极钓大师赛」的「垂钓图鉴」中，集齐所有杂物。",
             "reward_level": 1,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -151,7 +136,6 @@
             "name": "什么都能钓到，包括鱼！",
             "description": "在「厄匹斯极钓大师赛」的「垂钓图鉴」中，集齐所有鱼类。",
             "reward_level": 1,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -160,7 +144,6 @@
             "name": "瓶中的心愿",
             "description": "在「厄匹斯极钓大师赛」中，完成委托「奇迹从不迟到」。",
             "reward_level": 1,
-            "hidden": 1,
             "game_version": "1.5"
           },
           {
@@ -169,7 +152,6 @@
             "name": "保持风格！",
             "description": "在「如愿璀璨之日」中，穿着非关卡主题的装扮赢下「丽都有布」的任意关卡。",
             "reward_level": 1,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -178,7 +160,6 @@
             "name": "舞蹈练习生",
             "description": "在「如愿璀璨之日」中，完成「丽都有布」的所有「加练」关卡并获得S级评分。",
             "reward_level": 1,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -187,7 +168,6 @@
             "name": "舞所布能",
             "description": "在「如愿璀璨之日」中，完成「丽都有布」的所有「精进」关卡并获得S级评分。",
             "reward_level": 1,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -196,7 +176,6 @@
             "name": "缪斯的衣橱",
             "description": "在「如愿璀璨之日」的「伊埃斯梦工场」中，集齐所有演出服装。",
             "reward_level": 1,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -205,7 +184,6 @@
             "name": "世间并无穷途",
             "description": "在「鏖战试炼·末路」中，通关第100层。",
             "reward_level": 3,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -214,7 +192,6 @@
             "name": "踏上末路…之前呢？",
             "description": "在「鏖战试炼·末路」中，发现隐藏层。",
             "reward_level": 1,
-            "hidden": 1,
             "game_version": "1.5"
           },
           {
@@ -223,7 +200,6 @@
             "name": "魔王预备役",
             "description": "在「鏖战试炼·末路」中，获得1个「『魔王』奖章」。",
             "reward_level": 2,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -232,7 +208,6 @@
             "name": "魔王优等生",
             "description": "在「鏖战试炼·末路」中，累计获得10个「『魔王』奖章」。",
             "reward_level": 3,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -241,7 +216,6 @@
             "name": "港口环保大师",
             "description": "完成厄匹斯港区域的3个拉力委托，并全部获得S级评价。",
             "reward_level": 2,
-            "hidden": 2,
             "game_version": "1.5"
           },
           {
@@ -250,7 +224,6 @@
             "name": "全量回收确认",
             "description": "在厄匹斯港区域的3个拉力委托中，找到所有隐藏的小卡格车。",
             "reward_level": 1,
-            "hidden": 2,
             "game_version": "1.5"
           }
         ]
