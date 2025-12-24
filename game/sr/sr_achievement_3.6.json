@@ -131,6 +131,14 @@
             "game_version": "3.6"
           },
           {
+            "achievement_id": 7022001,
+            "class_name": "瞬息欢愉",
+            "name": "这不是旋转门",
+            "description": "未使用「暂停时间」的方法通过排气扇并且失败",
+            "reward_level": 1,
+            "game_version": "3.6"
+          },
+          {
             "achievement_id": 8022001,
             "class_name": "与你同行的回忆",
             "name": "今已亭亭如盖",
@@ -293,21 +301,13 @@
           {
             "achievement_id": 9022006,
             "class_name": "众秘探奇",
-            "name": "这不是旋转门",
-            "description": "未使用「暂停时间」的方法通过排气扇并且失败",
-            "reward_level": 1,
-            "game_version": "3.6"
-          },
-          {
-            "achievement_id": 9022007,
-            "class_name": "众秘探奇",
             "name": "食物泡与溶酶体",
             "description": "使用巴特鲁斯的视角，吞掉一只宝箱",
             "reward_level": 1,
             "game_version": "3.6"
           },
           {
-            "achievement_id": 9022008,
+            "achievement_id": 9022007,
             "class_name": "众秘探奇",
             "name": "扎格列斯的神威",
             "description": "使用巴特鲁斯的视角，通过攻击消灭一只怪物",
@@ -315,7 +315,7 @@
             "game_version": "3.6"
           },
           {
-            "achievement_id": 9022009,
+            "achievement_id": 9022008,
             "class_name": "众秘探奇",
             "name": "被偷走的流体力学",
             "description": "使用巴特鲁斯的视角，在水中游泳5秒以上",
@@ -323,7 +323,7 @@
             "game_version": "3.6"
           },
           {
-            "achievement_id": 9022010,
+            "achievement_id": 9022009,
             "class_name": "众秘探奇",
             "name": "存钱罐的自我修养",
             "description": "使用巴特鲁斯的视角，完成隐藏的终极挑战",
@@ -331,7 +331,7 @@
             "game_version": "3.6"
           },
           {
-            "achievement_id": 9022011,
+            "achievement_id": 9022010,
             "class_name": "众秘探奇",
             "name": "我在树庭修文物",
             "description": "使用「欧洛尼斯祷言」恢复被震碎的小雕像",
@@ -339,7 +339,7 @@
             "game_version": "3.6"
           },
           {
-            "achievement_id": 9022012,
+            "achievement_id": 9022011,
             "class_name": "众秘探奇",
             "name": "下勾拳",
             "description": "别以为躲在外侧扇区就没事了…※使用扎格列斯之手的冲拳动作，击败「全世矩阵」无名泰坦大墓角落处的敌人",
@@ -347,7 +347,7 @@
             "game_version": "3.6"
           },
           {
-            "achievement_id": 9022013,
+            "achievement_id": 9022012,
             "class_name": "众秘探奇",
             "name": "记忆分类回收",
             "description": "在「全世矩阵」无名泰坦大墓，发现一只似曾相识的桶",
@@ -355,7 +355,7 @@
             "game_version": "3.6"
           },
           {
-            "achievement_id": 9022014,
+            "achievement_id": 9022013,
             "class_name": "众秘探奇",
             "name": "猪！猪！猪！",
             "description": "在「全世矩阵」无名泰坦大墓，发现一个似曾相识的画框",
@@ -363,7 +363,7 @@
             "game_version": "3.6"
           },
           {
-            "achievement_id": 9022015,
+            "achievement_id": 9022014,
             "class_name": "众秘探奇",
             "name": "虫鸣秘闻：四者之系",
             "description": "正确的四者是哪四者？※解开「全世矩阵」无名泰坦大墓的预言谜题",
@@ -371,7 +371,7 @@
             "game_version": "3.6"
           },
           {
-            "achievement_id": 9022016,
+            "achievement_id": 9022015,
             "class_name": "众秘探奇",
             "name": "虫鸣秘闻：囹圄之悟",
             "description": "如何供奉无限？※解开「辉痕圣林」神悟树庭的预言谜题",

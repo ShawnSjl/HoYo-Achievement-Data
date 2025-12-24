@@ -139,6 +139,22 @@
             "game_version": "3.5"
           },
           {
+            "achievement_id": 7021001,
+            "class_name": "瞬息欢愉",
+            "name": "未来水世界",
+            "description": "法吉娜的祭司常说，不要在冥河水里游泳…※在翁法罗斯探索过程中，被卷入水体的变动",
+            "reward_level": 1,
+            "game_version": "3.5"
+          },
+          {
+            "achievement_id": 7021002,
+            "class_name": "瞬息欢愉",
+            "name": "埃斯库罗斯之死",
+            "description": "法吉娜的祭司常说，要小心高空坠物…※在翁法罗斯探索过程中，被倒塌的吊灯天顶砸中",
+            "reward_level": 1,
+            "game_version": "3.5"
+          },
+          {
             "achievement_id": 8021001,
             "class_name": "与你同行的回忆",
             "name": "追忆似酒年华",
@@ -261,29 +277,13 @@
           {
             "achievement_id": 9021003,
             "class_name": "众秘探奇",
-            "name": "未来水世界",
-            "description": "法吉娜的祭司常说，不要在冥河水里游泳…※在翁法罗斯探索过程中，被卷入水体的变动",
-            "reward_level": 1,
-            "game_version": "3.5"
-          },
-          {
-            "achievement_id": 9021004,
-            "class_name": "众秘探奇",
-            "name": "埃斯库罗斯之死",
-            "description": "法吉娜的祭司常说，要小心高空坠物…※在翁法罗斯探索过程中，被倒塌的吊灯天顶砸中",
-            "reward_level": 1,
-            "game_version": "3.5"
-          },
-          {
-            "achievement_id": 9021005,
-            "class_name": "众秘探奇",
             "name": "海底二十米",
             "description": "在「酣歌海垠」斯缇科西亚内，借助场景中的机关完成挑战，并获取战利品",
             "reward_level": 1,
             "game_version": "3.5"
           },
           {
-            "achievement_id": 9021006,
+            "achievement_id": 9021004,
             "class_name": "众秘探奇",
             "name": "墨西拿盐度危机",
             "description": "在「酣歌海垠」斯缇科西亚内，让王宫的水位褪至最下方",
@@ -291,7 +291,7 @@
             "game_version": "3.5"
           },
           {
-            "achievement_id": 9021007,
+            "achievement_id": 9021005,
             "class_name": "众秘探奇",
             "name": "忘海潜将",
             "description": "在「酣歌海垠」斯缇科西亚内，踏入被尘封的水底秘迹",
@@ -299,7 +299,7 @@
             "game_version": "3.5"
           },
           {
-            "achievement_id": 9021008,
+            "achievement_id": 9021006,
             "class_name": "众秘探奇",
             "name": "所罗门王的地毯",
             "description": "在「酣歌海垠」斯缇科西亚内，通过乘坐荷叶的方式移动至下层",
@@ -307,7 +307,7 @@
             "game_version": "3.5"
           },
           {
-            "achievement_id": 9021009,
+            "achievement_id": 9021007,
             "class_name": "众秘探奇",
             "name": "最孤独者",
             "description": "此刻，白昼厌倦了白昼，小溪又开始淙淙吟唱※踏入时光在歌声中凝固的莹骨海床",
@@ -315,7 +315,7 @@
             "game_version": "3.5"
           },
           {
-            "achievement_id": 9021010,
+            "achievement_id": 9021008,
             "class_name": "众秘探奇",
             "name": "何必、何必你自己饮酒？",
             "description": "是一切高度的下坠，是一切深度的泄漏，是一切醉者的沉醉※在斯缇科西亚的幻境中，将满溢之杯里的黑潮释放",
@@ -323,7 +323,7 @@
             "game_version": "3.5"
           },
           {
-            "achievement_id": 9021011,
+            "achievement_id": 9021009,
             "class_name": "众秘探奇",
             "name": "向着新的海洋",
             "description": "万物闪着常新的光华，在空间和时间上面午睡沉沉…※借助「贼灵」巴特鲁斯归还的灵水盆前往创世涡心",
@@ -331,7 +331,7 @@
             "game_version": "3.5"
           },
           {
-            "achievement_id": 9021012,
+            "achievement_id": 9021010,
             "class_name": "众秘探奇",
             "name": "海洋球乐园",
             "description": "在「酣歌海垠」斯缇科西亚中，完成所有「雅努斯迷津」的谜题",
@@ -339,7 +339,7 @@
             "game_version": "3.5"
           },
           {
-            "achievement_id": 9021013,
+            "achievement_id": 9021011,
             "class_name": "众秘探奇",
             "name": "虫鸣秘闻：未竟之业",
             "description": "推石上山的若虫经历了多少次失败？※解开「酣歌海垠」斯缇科西亚的预言谜题",
@@ -347,7 +347,7 @@
             "game_version": "3.5"
           },
           {
-            "achievement_id": 9021014,
+            "achievement_id": 9021012,
             "class_name": "众秘探奇",
             "name": "并非所有葡萄都适合酿酒",
             "description": "到葡萄池边寻找一位寂寞的老友",
@@ -355,7 +355,7 @@
             "game_version": "3.5"
           },
           {
-            "achievement_id": 9021015,
+            "achievement_id": 9021013,
             "class_name": "众秘探奇",
             "name": "古董局中局",
             "description": "在时间的最深处找回一只失窃的水盆",
