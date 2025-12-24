@@ -9,7 +9,7 @@
         "action": "insert",
         "table": "server_info",
         "values": [
-          { "server_version": "2.0.0", "zzz_version": "2.3", "sr_version": "3.7", "update_description": "此为HoYo Achievement Server的2.0版本，后端代码使用Java重构，并引入了更多的功能。\n主要变化：服务器添加了管理界面。除了常规的管理用户功能外，管理员可以手动添加版本更新的文件，从而避免每次版本更新时重新编译并重启前后端。" }
+          { "server_version": "2.0.0", "zzz_version": "2.4", "sr_version": "3.8", "update_description": "此为HoYo Achievement Server的2.0版本，后端代码使用Java重构，并引入了更多的功能。\n主要变化：服务器添加了管理界面。除了常规的管理用户功能外，管理员可以手动添加版本更新的文件，从而避免每次版本更新时重新编译并重启前后端。" }
         ]
       }
     ]
