@@ -1,0 +1,22 @@
+{
+  "name": "patch_2.0.2",
+  "type": "patch",
+  "depends": [
+    "patch_2.0.0",
+    "sr_achievement_3.8"
+  ],
+  "payload": {
+    "operations": [
+      {
+        "action": "update",
+        "table": "sr_achievement",
+        "values": [
+          { "record_id": 9024001, "achievement_id": 8024006 },
+          { "record_id": 9024002, "achievement_id": 9024001 },
+          { "record_id": 9024003, "achievement_id": 9024002 },
+          { "record_id": 9024004, "achievement_id": 9024003 }
+        ]
+      }
+    ]
+  }
+}
