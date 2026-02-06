@@ -1,0 +1,281 @@
+{
+  "name": "zzz_achievement_2.6",
+  "type": "data",
+  "depends": [
+    "zzz_achievement_2.5"
+  ],
+  "payload": {
+    "operations": [
+      {
+        "action": "insert",
+        "table": "zzz_achievement",
+        "values": [
+          {
+            "achievement_id": 1005524,
+            "class_id": 1001,
+            "name": "栖于妄想之声",
+            "description": "完成法厄同纪事「旧梦的安可曲」。",
+            "reward_level": 3,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 1004567,
+            "class_id": 1004,
+            "name": "帷幕前的盛夏",
+            "description": "千夏对绳匠的信赖达到4阶。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 1004568,
+            "class_id": 1004,
+            "name": "偶像的「幕后」",
+            "description": "爱芮对绳匠的信赖达到4阶。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 1008553,
+            "class_id": 1005,
+            "name": "人类进化的第一步",
+            "description": "在任意「闪耀乐章」或「独奏音符」关卡中，取得1次S+评价。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 1008554,
+            "class_id": 1005,
+            "name": "大家我都喜欢哦",
+            "description": "在「闪耀乐章」或「独奏音符」关卡中，使用3位不同的代理人担任中心位各3次。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 1008555,
+            "class_id": 1005,
+            "name": "「妄想」的新航路",
+            "description": "见证「妄想天使」的新愿望。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 1008556,
+            "class_id": 1005,
+            "name": "完美节拍",
+            "description": "在「妄想协鸣于此刻」中，所有「竞演对决」关卡获得S评级。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 1009515,
+            "class_id": 1006,
+            "name": "挖洞技术哪家强",
+            "description": "在绳网回复帖子「算我求你了白祇重工」。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 1009516,
+            "class_id": 1006,
+            "name": "激烈的「404」斗争",
+            "description": "在「404」中，见证三只加班布因信仰、歌曲和偶像而起的斗争。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 1009517,
+            "class_id": 1006,
+            "name": "正青春",
+            "description": "在凌晨的「404」中遇见正在直播的伊芙奶奶。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4001520,
+            "class_id": 2001,
+            "name": "精选后的新世界",
+            "description": "在绳网上阅读并回复1条「Fairy精选」帖子。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4001521,
+            "class_id": 2001,
+            "name": "精选帖核心受众",
+            "description": "在绳网上阅读并回复10条「Fairy精选」帖子",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4002502,
+            "class_id": 2002,
+            "name": "鸡蛋的魅力时刻",
+            "description": "在「404」帮助路过的老奶奶领到鸡蛋。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4002503,
+            "class_id": 2002,
+            "name": "天气晴朗，宜观演",
+            "description": "与「妄想天使」的成员一起观看「天气预报」的演出。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4002504,
+            "class_id": 2002,
+            "name": "本场演出暂不开票",
+            "description": "按照爱芮的提示，在早上来到「404」听塞西莉亚的独唱。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4002505,
+            "class_id": 2002,
+            "name": "还要再听亿次！",
+            "description": "于早上的「404」中，再一次听塞西莉亚的独唱。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4002506,
+            "class_id": 2002,
+            "name": "Call声嘹亮",
+            "description": "在「404」的门口，见到没能进场却依然热情十足的粉丝。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4002507,
+            "class_id": 2002,
+            "name": "邦布自有高招",
+            "description": "在邦布演出日，找到自带垫脚物的鲨牙布和工程布。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4002508,
+            "class_id": 2002,
+            "name": "易拉宝巡礼",
+            "description": "在「404」中，分别查看四个偶像组合的海报架。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4002509,
+            "class_id": 2002,
+            "name": "谁会不喜欢邦布呢？",
+            "description": "在「satellite」的合影会上，与组合成员拍摄大合照。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4002510,
+            "class_id": 2002,
+            "name": "核心粉丝的基本操作",
+            "description": "参加「天气预报」的合影会，分别与三名成员合照。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4002511,
+            "class_id": 2002,
+            "name": "我什么都不缺了！",
+            "description": "参加「妄想天使」的合影会，分别与三名成员合照。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4002512,
+            "class_id": 2002,
+            "name": "「天气预报」的絮语",
+            "description": "在下午时段的「404」中，累计触发7段与「天气预报」成员的对话。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 4002513,
+            "class_id": 2002,
+            "name": "好多熟人呀",
+            "description": "与来到「404」观看演出的代理人们聊天。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 1001172,
+            "class_id": 2005,
+            "name": "有借无还",
+            "description": "找南升询问典藏版「铅黄都市」的下落，得到租借小票/得到南升送来的典藏版「铅黄都市」录像带的租借小票。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 2005532,
+            "class_id": 3001,
+            "name": "空洞消费主义陷阱",
+            "description": "通关[矩阵行动·消费陷阱]时，花费的齿轮硬币数量超过6000枚。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 2005533,
+            "class_id": 3001,
+            "name": "玻璃大炮",
+            "description": "通关[矩阵行动·风中残烛]时，无任何代理人陷入不可战斗状态。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 2005534,
+            "class_id": 3001,
+            "name": "生命化作筹码",
+            "description": "通关[矩阵行动·猩红渴求]时，在邦布商店购买的商品数量不少于10件。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 2005535,
+            "class_id": 3001,
+            "name": "空洞漫步享受者",
+            "description": "通关[矩阵行动·以和为贵]时，经过的非战斗区域大于10个。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 2005536,
+            "class_id": 3001,
+            "name": "纵有万难仍抵巅峰",
+            "description": "在[以太活性 12]的难度下，通关任意主题的[矩阵行动]。",
+            "reward_level": 3,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 2005537,
+            "class_id": 3001,
+            "name": "多样化解题思路",
+            "description": "通关全部9种不同主题的[矩阵行动]。",
+            "reward_level": 2,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 2003520,
+            "class_id": 3004,
+            "name": "贯穿拦截大师",
+            "description": "与[叛律孤歌·薇丝珀]作战时，使用[招架支援]完美反制控制技。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          },
+          {
+            "achievement_id": 2003521,
+            "class_id": 3004,
+            "name": "40米激光大剑",
+            "description": "在[终曲之愿]或[幻矢单元]释放控制技时，触发完美反制。",
+            "reward_level": 1,
+            "game_version": "2.6"
+          }
+        ]
+      }
+    ]
+  }
+}
