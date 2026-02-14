@@ -1,0 +1,19 @@
+{
+  "name": "patch_2.0.4",
+  "type": "patch",
+  "depends": [
+    "patch_2.0.2",
+    "sr_achievement_4.0"
+  ],
+  "payload": {
+    "operations": [
+      {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          { "record_id": 1, "sr_version": "4.0" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,993 @@
+{
+  "name": "sr_achievement_4.0",
+  "type": "data",
+  "depends": [
+    "sr_achievement_3.8"
+  ],
+  "payload": {
+    "operations": [
+      {
+        "action": "insert",
+        "table": "sr_achievement",
+        "values": [
+          {
+            "achievement_id": 2025001,
+            "class_name": "通往群星的轨道",
+            "name": "此地是神不在的乐园",
+            "description": "见证阿哈赐福之地的景象※在二维市登陆",
+            "reward_level": 2,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 2025002,
+            "class_name": "通往群星的轨道",
+            "name": "银河战力党",
+            "description": "焚风到底能接黄泉几刀啊？※体验卡牌游戏《银河战力党》",
+            "reward_level": 2,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 2025003,
+            "class_name": "通往群星的轨道",
+            "name": "对不起青春",
+            "description": "谁能拒绝重温青葱岁月？※在绘世学院度过快乐的学年尾声",
+            "reward_level": 2,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 2025004,
+            "class_name": "通往群星的轨道",
+            "name": "变相怪杰",
+            "description": "这个女孩，绝对是个灵魂画手！※得到谒者的面具…虽然工艺很粗糙",
+            "reward_level": 2,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 2025005,
+            "class_name": "通往群星的轨道",
+            "name": "编辑部的故事",
+            "description": "八卦与流言，臆想和编派，普罗大众的最爱※接手《狸狸周刊》，成为总编",
+            "reward_level": 2,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 2025006,
+            "class_name": "通往群星的轨道",
+            "name": "醉乡路稳宜频到",
+            "description": "此处并非世界尽头，处处皆是世界尽头※来到「世界尽头」酒馆",
+            "reward_level": 2,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 2025007,
+            "class_name": "通往群星的轨道",
+            "name": "笑的燃点",
+            "description": "你先看到了一点火花，然后是背后喧闹的黑暗※见证火花诞生的起源",
+            "reward_level": 2,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 2025008,
+            "class_name": "通往群星的轨道",
+            "name": "覆面的时刻",
+            "description": "你，已是假面愚者※令「极乐之星」为你敞开",
+            "reward_level": 2,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 2025009,
+            "class_name": "通往群星的轨道",
+            "name": "神之果实",
+            "description": "乐园里还有其他水果吗？※这香蕉…我曾见过的。",
+            "reward_level": 2,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 2025010,
+            "class_name": "通往群星的轨道",
+            "name": "是退网了，不是落网了！",
+            "description": "本想大闹一场，但留在场上的却不是我…※结束「火花大会」的直播",
+            "reward_level": 2,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 2025011,
+            "class_name": "通往群星的轨道",
+            "name": "夏天、花火、某人的尸体",
+            "description": "谒见神明的仪式总要有祭品※见证幻月游戏的残酷开场",
+            "reward_level": 2,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025001,
+            "class_name": "战意奔涌",
+            "name": "红红火火恍恍惚惚",
+            "description": "单场战斗中，使用我方角色火花发动【互动陷阱】累计获得9个【红红火火】",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025002,
+            "class_name": "战意奔涌",
+            "name": "连环计",
+            "description": "单次行动中，使用我方角色火花累计发动10次【互动陷阱】",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025003,
+            "class_name": "战意奔涌",
+            "name": "图个吉利",
+            "description": "单场战斗中，使用我方角色爻光累计触发18次【大吉大利】",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025004,
+            "class_name": "战意奔涌",
+            "name": "恭喜发财，红包拿来",
+            "description": "通过爻光的秘技【浮光过隙，百无禁忌】累计获得8个【红包】",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025005,
+            "class_name": "战意奔涌",
+            "name": "染上你的颜色",
+            "description": "在与「画板孔雀」的战斗中，使其在【无色】状态下收集到4种不同的【颜料】并进入【色彩】状态",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025006,
+            "class_name": "战意奔涌",
+            "name": "最上镜一刻",
+            "description": "在与「狸猫记者」的战斗中，在被抓拍照片时获得最高评价",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025007,
+            "class_name": "战意奔涌",
+            "name": "敬业记者",
+            "description": "「狸猫记者」在自己的回合开始时被消灭并触发【丑照特写】",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025008,
+            "class_name": "战意奔涌",
+            "name": "摇滚已死",
+            "description": "在与「摇滚狂徒」的战斗中，发动阿哈时刻打断其蓄力状态",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025009,
+            "class_name": "战意奔涌",
+            "name": "火上浇油",
+            "description": "在与「摇滚狂徒」的战斗中，触发【燥起来吧！】的欢愉效果",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025010,
+            "class_name": "战意奔涌",
+            "name": "双赢就是赢两次",
+            "description": "在与「火花大会@Official」的战斗中，在两个阶段的「连麦PK」中都取得胜利",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025011,
+            "class_name": "战意奔涌",
+            "name": "耻辱下播",
+            "description": "在与「火花大会@Official」的战斗中，在两个阶段的「连麦PK」中都未曾胜利",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025012,
+            "class_name": "战意奔涌",
+            "name": "节目效果",
+            "description": "阿哈施放【阿哈时刻】只造成了0点伤害",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025013,
+            "class_name": "战意奔涌",
+            "name": "找点乐子",
+            "description": "阿哈施放【阿哈时刻】",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 3025014,
+            "class_name": "战意奔涌",
+            "name": "笑啊，怎么不笑了？",
+            "description": "阿哈施放【要有笑声】消灭1名敌人",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 7025001,
+            "class_name": "瞬息欢愉",
+            "name": "猫是液体",
+            "description": "在「二次元JUMP！」中被猫形机关挤压导致游戏失败",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 7025002,
+            "class_name": "瞬息欢愉",
+            "name": "道路千万条，安全第一条",
+            "description": "在二维市马路中央与汽车亲密接触",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 7025003,
+            "class_name": "瞬息欢愉",
+            "name": "去新世界",
+            "description": "在「二次元JUMP！」中遭到水上飞车撞击",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025001,
+            "class_name": "与你同行的回忆",
+            "name": "现在是悄悄话时间",
+            "description": "潜入首席执行官的会谈室",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025002,
+            "class_name": "与你同行的回忆",
+            "name": "众神静默如谜",
+            "description": "鉴赏酒馆里众神的画像",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025003,
+            "class_name": "与你同行的回忆",
+            "name": "愚者与炼金术士之门",
+            "description": "培养一个属于你的元素马桶",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025004,
+            "class_name": "与你同行的回忆",
+            "name": "堵住亚空间",
+            "description": "探寻黄金王座的奥秘",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025005,
+            "class_name": "与你同行的回忆",
+            "name": "头条在这里…狸！",
+            "description": "成为杂志社老板的第一步：多发头条！※发布第一期《乐园头条》",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025006,
+            "class_name": "与你同行的回忆",
+            "name": "用人之道",
+            "description": "成为杂志社老板的第二步：精通管理！※在杂志社经营中，触发招聘新员工事件",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025007,
+            "class_name": "与你同行的回忆",
+            "name": "美好青春岁月",
+            "description": "一切源于渴求天下之人※完成「上骰了！战力党！」的所有剧情对战",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025008,
+            "class_name": "与你同行的回忆",
+            "name": "她们在过去重逢",
+            "description": "幸福怎会离间我和我的所爱…※见证珀葵最终回到电视机内",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025009,
+            "class_name": "与你同行的回忆",
+            "name": "若我能将幸福带给你",
+            "description": "我就完成了自己的使命※见证珀葵与火箭缔结成为家人的约定",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025010,
+            "class_name": "与你同行的回忆",
+            "name": "冷硬派侦探",
+            "description": "「侦探」的本质，是对真相脚踏实地的调查，以及对邪恶锲而不舍地追索※与不死途一起，用传统且有效的方式，阻止「千禧杀手」的暴行",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025011,
+            "class_name": "与你同行的回忆",
+            "name": "安乐椅侦探",
+            "description": "「侦探」？「调查真相」？「追索邪恶」？我？哈哈，你莫不是在开玩笑吧？※与火花一起，用最新最in的现代化手段，让「千禧杀手」自食其果",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025012,
+            "class_name": "与你同行的回忆",
+            "name": "罪名为「爱」",
+            "description": "最终，平静的日常归于平静※让修仁江接受法律的制裁",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025013,
+            "class_name": "与你同行的回忆",
+            "name": "蒲公英的审判",
+            "description": "下个银杏季，不会再有蒲公英飘散了※让沙蒲完成她们的夙愿",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025014,
+            "class_name": "与你同行的回忆",
+            "name": "未完待续…",
+            "description": "「…哈哈，什么嘛，这结局不是很好吗？」※见证《迷局游戏》的完结",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025015,
+            "class_name": "与你同行的回忆",
+            "name": "站着挣钱",
+            "description": "选择将飞机像素游戏售卖给公司",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025016,
+            "class_name": "与你同行的回忆",
+            "name": "与仙人同行",
+            "description": "拒绝公司对飞机像素游戏的收购",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025017,
+            "class_name": "与你同行的回忆",
+            "name": "并非兔子洞",
+            "description": "从「黄金告解室」的王座内平安归来※并改变一个帝国的命运",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025018,
+            "class_name": "与你同行的回忆",
+            "name": "落日六号",
+            "description": "实现克拉肯遨游天外的心愿",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025019,
+            "class_name": "与你同行的回忆",
+            "name": "顺着电话线来找你了",
+            "description": "接听玛丽电话亭的来电",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025020,
+            "class_name": "与你同行的回忆",
+            "name": "妄想代理人",
+            "description": "通过黑猫拍立得进入妄想剧场",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025021,
+            "class_name": "与你同行的回忆",
+            "name": "精神分析引论",
+            "description": "发现病帘背后的怪奇事件",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025022,
+            "class_name": "与你同行的回忆",
+            "name": "阿——门！",
+            "description": "在酒馆与门匠对话",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025023,
+            "class_name": "与你同行的回忆",
+            "name": "尊敬的大会员",
+            "description": "成为二维市任意一家商店的会员",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025024,
+            "class_name": "与你同行的回忆",
+            "name": "雷打不动",
+            "description": "与盘踞在二维市生态链顶端的存在对话",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025025,
+            "class_name": "与你同行的回忆",
+            "name": "火车火车呜呜响",
+            "description": "与疾锋龙列车对话",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025026,
+            "class_name": "与你同行的回忆",
+            "name": "出仙入画",
+            "description": "与疑似视肉的涂鸦对话",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025027,
+            "class_name": "与你同行的回忆",
+            "name": "个人的一小步",
+            "description": "与啵啵娃老师对话",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025028,
+            "class_name": "与你同行的回忆",
+            "name": "此地仅宜酒留",
+            "description": "在酒馆与钟珊对话",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025029,
+            "class_name": "与你同行的回忆",
+            "name": "天降正义",
+            "description": "在桥上经历过一次雷击",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025030,
+            "class_name": "与你同行的回忆",
+            "name": "回你的二次元去吧",
+            "description": "把酒馆画廊的幻造种重新封印回画中",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025031,
+            "class_name": "与你同行的回忆",
+            "name": "今日说法",
+            "description": "把诈骗取款机及其同伙移交给执法部门",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025032,
+            "class_name": "与你同行的回忆",
+            "name": "转角遇到爱",
+            "description": "在街角见证两位路人命中注定的偶遇",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025033,
+            "class_name": "与你同行的回忆",
+            "name": "骗术大全",
+            "description": "1信用点也没有！※严词拒绝巧舌如簧的灵月大师",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025034,
+            "class_name": "与你同行的回忆",
+            "name": "孤注一掷",
+            "description": "我「这么大」个弟子的名分呢？※一掷千金，成为灵月大师座下唯一被骗大弟子",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025035,
+            "class_name": "与你同行的回忆",
+            "name": "经济学理性人",
+            "description": "沉没成本不参与重大决策！※面对巧舌如簧的灵月大师及时抽身",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025036,
+            "class_name": "与你同行的回忆",
+            "name": "骰骰是道",
+            "description": "在银河战力党玩法中，累计投掷骰子到达20次",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025037,
+            "class_name": "与你同行的回忆",
+            "name": "骰子收藏家",
+            "description": "在银河战力党玩法中，累计收集「基础包」与「扩展包•1」中的19个曜彩骰",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025038,
+            "class_name": "与你同行的回忆",
+            "name": "纳努克与电饭煲",
+            "description": "在银河战力党玩法中，维持满生命值状态击败一名对手",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025039,
+            "class_name": "与你同行的回忆",
+            "name": "干脆开个店吧",
+            "description": "收集26张银河战力党卡牌，并将它们全部镀闪至最高稀有度",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025040,
+            "class_name": "与你同行的回忆",
+            "name": "今天就要以大欺小",
+            "description": "在「上骰了！战力党！」中，击败虎克",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 8025041,
+            "class_name": "与你同行的回忆",
+            "name": "街骰人",
+            "description": "在「上骰了！战力党！」中，击败「四大天王」",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025001,
+            "class_name": "众秘探奇",
+            "name": "乐园的纪念品",
+            "description": "开启120次二相乐园战利品",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025002,
+            "class_name": "众秘探奇",
+            "name": "欢迎来到二次元",
+            "description": "在「二次元JUMP！」的任意一个小游戏中游玩120秒",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025003,
+            "class_name": "众秘探奇",
+            "name": "身外之物",
+            "description": "在「二次元JUMP！」的任意一个小游戏中坚持40秒不获得像素金币",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025004,
+            "class_name": "众秘探奇",
+            "name": "二次元发烧友",
+            "description": "在「二次元JUMP！」的三个尘灵小游戏中都获得1500分",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025005,
+            "class_name": "众秘探奇",
+            "name": "妈妈我有膝盖了",
+            "description": "第一次进入「二次元JUMP！」",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025006,
+            "class_name": "众秘探奇",
+            "name": "二次元高手",
+            "description": "在「二次元JUMP！」的冰面上连续滑行20秒",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025007,
+            "class_name": "众秘探奇",
+            "name": "我已经理解了一切！",
+            "description": "在「二次元JUMP！」中完成训练关的隐藏挑战",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025008,
+            "class_name": "众秘探奇",
+            "name": "大地是我的琴键",
+            "description": "在二维市地铁站的「二次元JUMP！」中把所有音乐地砖全部踩一遍",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025009,
+            "class_name": "众秘探奇",
+            "name": "左脚踩右脚",
+            "description": "在「二次元JUMP！」中解锁三段跳",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025010,
+            "class_name": "众秘探奇",
+            "name": "开拓妖精，进化！",
+            "description": "在「二次元JUMP！」中首次解锁专属能力",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025011,
+            "class_name": "众秘探奇",
+            "name": "还说你没开挂？",
+            "description": "在「二次元JUMP！」中使用射击一次性获得6个及以上的像素金币",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025012,
+            "class_name": "众秘探奇",
+            "name": "飞翔的开拓者",
+            "description": "在「二次元JUMP！」中操作开拓妖精维持滞空状态8秒以上",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025013,
+            "class_name": "众秘探奇",
+            "name": "乐园变奏：兔子坡",
+            "description": "演奏奇异乐章，找到藏在二维市的迷之生物",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025014,
+            "class_name": "众秘探奇",
+            "name": "乐园变奏：温蒂尼",
+            "description": "演奏奇异乐章，找到藏在绘世学院的迷之生物",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025015,
+            "class_name": "众秘探奇",
+            "name": "乐园变奏：刺猬汉斯",
+            "description": "演奏奇异乐章，找到藏在鸽川区的迷之生物",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025016,
+            "class_name": "众秘探奇",
+            "name": "乐园变奏：幽灵贡多拉",
+            "description": "演奏奇异乐章，找到藏在「世界尽头」的迷之生物",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025017,
+            "class_name": "众秘探奇",
+            "name": "好朋友的秘密基地",
+            "description": "进去玩具琴中的秘密空间",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025018,
+            "class_name": "众秘探奇",
+            "name": "铁人模式又如何",
+            "description": "在「星轨之兔」的地狱模式中一次达成三个挑战目标",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025019,
+            "class_name": "众秘探奇",
+            "name": "打满模组再开玩",
+            "description": "在「星轨之兔」的作弊模式中一次达成三个挑战目标",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025020,
+            "class_name": "众秘探奇",
+            "name": "尝试输入指令",
+            "description": "在「星轨之兔」的游戏首页按出传说中的万能秘笈※在「星轨之兔」的游戏首页按出「上上下下左右左右 返回 确认」",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025021,
+            "class_name": "众秘探奇",
+            "name": "金色梦乡",
+            "description": "累计召集60个无名尘灵",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025022,
+            "class_name": "众秘探奇",
+            "name": "大地上的灯",
+            "description": "首次完成浮脂溯源",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025023,
+            "class_name": "众秘探奇",
+            "name": "诗歌总集",
+            "description": "收集到任意一篇「浮脂记事」",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025024,
+            "class_name": "众秘探奇",
+            "name": "我不是徒然呼唤16进制",
+            "description": "在「浮脂记事」的相关玩法中连续向同一方向旋转16下",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025025,
+            "class_name": "众秘探奇",
+            "name": "哈托彼亚的风语者",
+            "description": "在「浮脂记事」的相关玩法中于跳起的状态下旋转",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025026,
+            "class_name": "众秘探奇",
+            "name": "二相乐园的四次方",
+            "description": "在「浮脂记事」的相关玩法中，连续进行「左右左右左右左右」的方向切换",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025027,
+            "class_name": "众秘探奇",
+            "name": "强尼来喽！",
+            "description": "在二相乐园中找到11只不务正业的狸猫",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025028,
+            "class_name": "众秘探奇",
+            "name": "你为什么穿着我的衣服？",
+            "description": "在二相乐园第一次和狸猫战斗",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025029,
+            "class_name": "众秘探奇",
+            "name": "二相捕手",
+            "description": "在「二次元JUMP」中，第一次捉住狸猫",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025030,
+            "class_name": "众秘探奇",
+            "name": "伪装者",
+            "description": "在二相乐园第一次识破狸猫的伪装",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025031,
+            "class_name": "众秘探奇",
+            "name": "幻月何年初照人",
+            "description": "登上二维市的@门，观赏幻月",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025032,
+            "class_name": "众秘探奇",
+            "name": "登上开拓之癫",
+            "description": "攀登至二维市的开拓者海报顶端",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025033,
+            "class_name": "众秘探奇",
+            "name": "凯瑟琳",
+            "description": "被火花抓入二次元后，成功获得新形态，逃出生天",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025034,
+            "class_name": "众秘探奇",
+            "name": "请扶稳站好，不要看手机",
+            "description": "在二相乐园使用一次电动扶梯",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025035,
+            "class_name": "众秘探奇",
+            "name": "危险动作，请勿模仿",
+            "description": "逆着扶梯前进10秒以上",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025036,
+            "class_name": "众秘探奇",
+            "name": "乒乓",
+            "description": "在泊地站「二次元JUMP！」的「Jump时刻」中反复改变重力，让尘灵来回跳动",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025037,
+            "class_name": "众秘探奇",
+            "name": "秘密储物间",
+            "description": "进入绘世学院室内体育馆的秘密房间",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025038,
+            "class_name": "众秘探奇",
+            "name": "窗边的小豆豆",
+            "description": "在绘世学院挑战最难获取的奖励※获取窗户上的金币",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025039,
+            "class_name": "众秘探奇",
+            "name": "穿越时空的开拓者",
+            "description": "时间旅行，大多数时候是骗局…※揭穿「十五年前旧校舍」的真相",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025040,
+            "class_name": "众秘探奇",
+            "name": "别回头，是…",
+            "description": "忘带厕纸的怨念积聚在此，盘桓不散※来到疑似闹鬼的厕所",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025041,
+            "class_name": "众秘探奇",
+            "name": "所有桥都孤独",
+            "description": "在二维市鸽川大桥的「二次元JUMP！」中，抵达隐藏位面",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025042,
+            "class_name": "众秘探奇",
+            "name": "一颗破碎的心",
+            "description": "在鸽川的「二次元JUMP！」中，将拼好的心形图案重新扯开",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025043,
+            "class_name": "众秘探奇",
+            "name": "鸽子的视角",
+            "description": "在鸽川的「二次元JUMP！」中，抵达可以俯视街区的高台",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025044,
+            "class_name": "众秘探奇",
+            "name": "带刺的假面",
+            "description": "在挑逗酒馆的愚者面具后，成功生存下来",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025045,
+            "class_name": "众秘探奇",
+            "name": "超级电灯泡",
+            "description": "见证纸鹤的爱情",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025046,
+            "class_name": "众秘探奇",
+            "name": "你说你惹它干嘛",
+            "description": "击倒在酒馆中奔跑的广告牌",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025047,
+            "class_name": "众秘探奇",
+            "name": "恶龙曾在此，今不复存焉",
+            "description": "找到藏在「大秘宝」尽头的宝藏",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025048,
+            "class_name": "众秘探奇",
+            "name": "这儿就别开拓了吧",
+            "description": "打开「黄金告解室」的密室",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025049,
+            "class_name": "众秘探奇",
+            "name": "发出一声怀念的*啾*",
+            "description": "在酒馆找到一根熟悉的羽毛",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025050,
+            "class_name": "众秘探奇",
+            "name": "老二次元了",
+            "description": "完成「极乐之星」上的终极二次元挑战",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025051,
+            "class_name": "众秘探奇",
+            "name": "会转弯的箭",
+            "description": "在「二次元JUMP！」中，射出的箭转弯了",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025052,
+            "class_name": "众秘探奇",
+            "name": "弹簧腿杰克",
+            "description": "在入门训练的蹦床中来回弹射10次",
+            "reward_level": 1,
+            "game_version": "4.0"
+          },
+          {
+            "achievement_id": 9025053,
+            "class_name": "众秘探奇",
+            "name": "去唱卡拉OK吧！",
+            "description": "在二维市或鸽川区的卡拉OK店前，偷听里面传来的美妙歌声",
+            "reward_level": 1,
+            "game_version": "4.0"
+          }
+        ]
+      }
+    ]
+  }
+}
