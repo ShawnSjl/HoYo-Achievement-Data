@@ -1,0 +1,89 @@
+{
+  "name": "zzz_achievement_2.7",
+  "type": "data",
+  "depends": [
+    "zzz_achievement_2.6"
+  ],
+  "payload": {
+    "operations": [
+      {
+        "action": "insert",
+        "table": "zzz_achievement",
+        "values": [
+          {
+            "achievement_id": 1005525,
+            "class_id": 1001,
+            "name": "黑羽落于棋局",
+            "description": "完成法厄同纪事「新·艾利都日落时 上」。",
+            "reward_level": 3,
+            "game_version": "2.7"
+          },
+          {
+            "achievement_id": 1004569,
+            "class_id": 1004,
+            "name": "梦中的羽翼如此清晰",
+            "description": "南宫羽对绳匠的信赖达到4阶。",
+            "reward_level": 1,
+            "game_version": "2.7"
+          },
+          {
+            "achievement_id": 1004570,
+            "class_id": 1004,
+            "name": "不许把我赶出家门",
+            "description": "希希芙对绳匠的信赖达到4阶。",
+            "reward_level": 1,
+            "game_version": "2.7"
+          },
+          {
+            "achievement_id": 2003522,
+            "class_id": 3004,
+            "name": "遛狗专家",
+            "description": "在与[猎血清道夫]的战斗中，连续发动[极限支援]，打断其穿梭技能。",
+            "reward_level": 1,
+            "game_version": "2.7"
+          },
+          {
+            "achievement_id": 1008557,
+            "class_id": 1005,
+            "name": "千锤百炼",
+            "description": "在「滚烫寻鲜记」中，在白祇重工的帮助下完成糍粑制作。",
+            "reward_level": 1,
+            "game_version": "2.7"
+          },
+          {
+            "achievement_id": 1008558,
+            "class_id": 1005,
+            "name": "料理鼠鼠",
+            "description": "在「滚烫寻鲜记」中，了解到史蒂芬与鼠鼠的前尘往事。",
+            "reward_level": 1,
+            "game_version": "2.7"
+          },
+          {
+            "achievement_id": 1008559,
+            "class_id": 1005,
+            "name": "没有火锅解决不了的事",
+            "description": "在「滚烫寻鲜记」中，完成所有「寻鲜鉴品」关卡。",
+            "reward_level": 1,
+            "game_version": "2.7"
+          },
+          {
+            "achievement_id": 1008560,
+            "class_id": 1005,
+            "name": "我是：火锅王",
+            "description": "在「滚烫寻鲜记」中，「精致食味」的任意关卡美味值达到60000。",
+            "reward_level": 1,
+            "game_version": "2.7"
+          },
+          {
+            "achievement_id": 1009518,
+            "class_id": 1006,
+            "name": "吃着火锅唱着歌",
+            "description": "深夜在「煮釜」火锅店附近，发现一群自发合唱《原色》的耀嘉音粉丝。",
+            "reward_level": 1,
+            "game_version": "2.7"
+          }
+        ]
+      }
+    ]
+  }
+}
