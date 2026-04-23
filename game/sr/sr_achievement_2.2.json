@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "2.2"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -609,6 +619,28 @@
             "description": "帮助家族成员追回所有赃物",
             "reward_level": 1,
             "game_version": "2.2"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 24,
+            "achievement_id": 2010005
+          },
+          {
+            "branch_id": 24,
+            "achievement_id": 2010006
+          },
+          {
+            "branch_id": 25,
+            "achievement_id": 8010005
+          },
+          {
+            "branch_id": 25,
+            "achievement_id": 8010006
           }
         ]
       }

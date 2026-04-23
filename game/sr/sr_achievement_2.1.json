@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "2.1"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -369,6 +379,32 @@
             "description": "击碎克劳克影视乐园迷宫花园中的所有可破坏物",
             "reward_level": 1,
             "game_version": "2.1"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 22,
+            "achievement_id": 8009008
+          },
+          {
+            "branch_id": 22,
+            "achievement_id": 8009009
+          },
+          {
+            "branch_id": 22,
+            "achievement_id": 8009010
+          },
+          {
+            "branch_id": 23,
+            "achievement_id": 8009016
+          },
+          {
+            "branch_id": 23,
+            "achievement_id": 8009017
           }
         ]
       }

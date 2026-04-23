@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "2.3"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -361,6 +371,36 @@
             "description": "拯救晖长石号上的迷钟「老大」",
             "reward_level": 1,
             "game_version": "2.3"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 26,
+            "achievement_id": 2011001
+          },
+          {
+            "branch_id": 26,
+            "achievement_id": 2011002
+          },
+          {
+            "branch_id": 27,
+            "achievement_id": 2011003
+          },
+          {
+            "branch_id": 27,
+            "achievement_id": 2011004
+          },
+          {
+            "branch_id": 28,
+            "achievement_id": 7011001
+          },
+          {
+            "branch_id": 28,
+            "achievement_id": 7011002
           }
         ]
       }

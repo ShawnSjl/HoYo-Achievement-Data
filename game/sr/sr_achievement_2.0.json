@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "2.0"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -777,6 +787,32 @@
             "description": "收集15件来自匹诺康尼的阅读物",
             "reward_level": 1,
             "game_version": "2.0"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 20,
+            "achievement_id": 8008002
+          },
+          {
+            "branch_id": 20,
+            "achievement_id": 8008003
+          },
+          {
+            "branch_id": 21,
+            "achievement_id": 8008016
+          },
+          {
+            "branch_id": 21,
+            "achievement_id": 8008017
+          },
+          {
+            "branch_id": 21,
+            "achievement_id": 8008018
           }
         ]
       }

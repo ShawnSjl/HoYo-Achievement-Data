@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "2.5"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -345,6 +355,20 @@
             "description": "在竞锋舰上，通过机巧鸟进入泊船区深处",
             "reward_level": 1,
             "game_version": "2.5"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 31,
+            "achievement_id": 8013011
+          },
+          {
+            "branch_id": 31,
+            "achievement_id": 8013012
           }
         ]
       }

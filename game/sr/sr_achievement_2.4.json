@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "2.4"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -305,6 +315,28 @@
             "description": "利用机巧鸟进入隐藏房间",
             "reward_level": 1,
             "game_version": "2.4"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 29,
+            "achievement_id": 2012002
+          },
+          {
+            "branch_id": 29,
+            "achievement_id": 2012003
+          },
+          {
+            "branch_id": 30,
+            "achievement_id": 8012014
+          },
+          {
+            "branch_id": 30,
+            "achievement_id": 8012015
           }
         ]
       }
