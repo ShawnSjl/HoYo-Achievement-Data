@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "3.4"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -361,6 +371,24 @@
             "description": "为织者们建立一座大型乐园※搜集190只创生若虫的赐福",
             "reward_level": 1,
             "game_version": "3.4"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 38,
+            "achievement_id": 3020003
+          },
+          {
+            "branch_id": 38,
+            "achievement_id": 3020004
+          },
+          {
+            "branch_id": 38,
+            "achievement_id": 3020005
           }
         ]
       }

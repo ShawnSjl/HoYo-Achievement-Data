@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "3.8"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -209,6 +219,20 @@
             "description": "在「橡木鸣蛀之梦」的未走之路中，沿着另一条道路前进",
             "reward_level": 1,
             "game_version": "3.8"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 41,
+            "achievement_id": 2024005
+          },
+          {
+            "branch_id": 41,
+            "achievement_id": 2024006
           }
         ]
       }

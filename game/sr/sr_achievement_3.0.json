@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "3.0"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -1105,6 +1115,40 @@
             "description": "在黄金短矛的指引下获得1个战利品",
             "reward_level": 1,
             "game_version": "3.0"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 35,
+            "achievement_id": 2016004
+          },
+          {
+            "branch_id": 35,
+            "achievement_id": 2016005
+          },
+          {
+            "branch_id": 36,
+            "achievement_id": 8016020
+          },
+          {
+            "branch_id": 36,
+            "achievement_id": 8016021
+          },
+          {
+            "branch_id": 37,
+            "achievement_id": 8016059
+          },
+          {
+            "branch_id": 37,
+            "achievement_id": 8016060
+          },
+          {
+            "branch_id": 37,
+            "achievement_id": 8016061
           }
         ]
       }

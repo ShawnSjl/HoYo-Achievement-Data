@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "3.5"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -361,6 +371,20 @@
             "description": "在时间的最深处找回一只失窃的水盆",
             "reward_level": 1,
             "game_version": "3.5"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 39,
+            "achievement_id": 3021005
+          },
+          {
+            "branch_id": 39,
+            "achievement_id": 3021006
           }
         ]
       }
