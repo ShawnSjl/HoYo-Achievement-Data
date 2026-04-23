@@ -1,0 +1,501 @@
+{
+  "name": "sr_achievement_4.2",
+  "type": "data",
+  "depends": [
+    "sr_achievement_4.1"
+  ],
+  "payload": {
+    "operations": [
+      {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "4.2"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_achievement",
+        "values": [
+          {
+            "achievement_id": 1027001,
+            "class_name": "我，开拓者",
+            "name": "于是，要有笑声",
+            "description": "开拓者踏上「欢愉」命途",
+            "reward_level": 3,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 2027001,
+            "class_name": "通往群星的轨道",
+            "name": "通勤旅行",
+            "description": "就没有什么特别的移动方式吗？※搭乘电车去拯救世界",
+            "reward_level": 2,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 2027002,
+            "class_name": "通往群星的轨道",
+            "name": "裁决者的判词",
+            "description": "裁决者身份的象征※绯英取回了她的尺刀",
+            "reward_level": 2,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 2027003,
+            "class_name": "通往群星的轨道",
+            "name": "乐园精神病人",
+            "description": "没人关心你想什么，直到你决定摧毁世界※踏入满愿心中的「裂缝」。",
+            "reward_level": 2,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 2027004,
+            "class_name": "通往群星的轨道",
+            "name": "娱乐至死",
+            "description": "要么欢笑，要么去死※目睹幻造瘟疫「乐变化天人」爆发",
+            "reward_level": 2,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 2027005,
+            "class_name": "通往群星的轨道",
+            "name": "银河头号玩家",
+            "description": "与其被混球夸赞，不如战死在它手中※其实，也没人想战死在混球手里",
+            "reward_level": 2,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 2027006,
+            "class_name": "通往群星的轨道",
+            "name": "告死魔之死",
+            "description": "宣告死亡者，死亡亦宣告其名※击败新「告死魔」",
+            "reward_level": 2,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 2027007,
+            "class_name": "通往群星的轨道",
+            "name": "花信风过",
+            "description": "她如风花飘然而过※接下绯英的嘱托",
+            "reward_level": 2,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 3027001,
+            "class_name": "战意奔涌",
+            "name": "谁都别板着脸",
+            "description": "单场战斗中，使用「欢愉」命途开拓者累计对4名不同队友各施放过一次终结技",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 3027002,
+            "class_name": "战意奔涌",
+            "name": "感谢打赏",
+            "description": "单次战斗中，使用「欢愉」命途开拓者对火花累计施放5次终结技",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 3027003,
+            "class_name": "战意奔涌",
+            "name": "众筹五百强",
+            "description": "单场战斗中，绯英通过天赋【青春•韶华无限】从其他队友身上获得【好活当赏】的总数超过500",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 3027004,
+            "class_name": "战意奔涌",
+            "name": "好活不怕多",
+            "description": "使用我方角色绯英在【好活当赏】数量达到999的情况下施放终结技",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 3027005,
+            "class_name": "战意奔涌",
+            "name": "别闹了，卡芙卡女士",
+            "description": "触发银狼LV.999的【999安全卫士】，解除「星核猎手•卡芙卡」施加的【支配】状态",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 3027006,
+            "class_name": "战意奔涌",
+            "name": "装备列表",
+            "description": "单个回合中，队友触发了银狼LV.999的3种不同的【头号补给盲盒】",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 3027007,
+            "class_name": "战意奔涌",
+            "name": "金融街之狼",
+            "description": "使用银狼LV.999的秘技【朋友，这才是T0级秘技】一次性吃到8枚金币",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 3027008,
+            "class_name": "战意奔涌",
+            "name": "喜人奇妙日",
+            "description": "在上场4名欢愉命途角色的情况下获得战斗胜利",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 3027009,
+            "class_name": "战意奔涌",
+            "name": "生化危机",
+            "description": "在与「极乐颠倒·邪愿莲华主」的战斗中，我方角色被转化为【幸福傀儡】后造成【会心一击】击败了任意目标",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 3027010,
+            "class_name": "战意奔涌",
+            "name": "SAN值全满",
+            "description": "在与「极乐颠倒·邪愿莲华主」的战斗中，没有角色因为触发【幸福】被转化为【幸福傀儡】",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 3027011,
+            "class_name": "战意奔涌",
+            "name": "乐子的终结",
+            "description": "在与「乐变化天人」的战斗中，单次攻击同时消灭4个及以上的「乐变化天人•终」",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027001,
+            "class_name": "与你同行的回忆",
+            "name": "虽远必诛",
+            "description": "将杀害斯科特的凶手交给仙舟联盟※希望她能习惯幽囚狱的伙食",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027002,
+            "class_name": "与你同行的回忆",
+            "name": "属地原则",
+            "description": "将杀害斯科特的凶手交给战略投资部※就像什么都没发生过一样",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027003,
+            "class_name": "与你同行的回忆",
+            "name": "江湖恩怨",
+            "description": "将杀害斯科特的凶手交给公义※「她要是不体面，你就帮她体面。」",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027004,
+            "class_name": "与你同行的回忆",
+            "name": "未知记忆",
+            "description": "完成水上列车站台的调查",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027005,
+            "class_name": "与你同行的回忆",
+            "name": "逆模因部不存在",
+            "description": "调查电视台仓库里的电脑",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027006,
+            "class_name": "与你同行的回忆",
+            "name": "何为英雄",
+            "description": "在电视台与灰烬战士重逢",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027007,
+            "class_name": "与你同行的回忆",
+            "name": "演员的自我修养",
+            "description": "完成噗噜一家的初见对话",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027008,
+            "class_name": "与你同行的回忆",
+            "name": "所以爱会消失对吗",
+            "description": "聆听路人为逃避见家长而编造的借口",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027009,
+            "class_name": "与你同行的回忆",
+            "name": "九子夺嫡时代",
+            "description": "咱们真是越来越狸丁兴旺了哩！※《狸狸周刊》正式拥有了9名常驻狸猫记者",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027010,
+            "class_name": "与你同行的回忆",
+            "name": "世界中的另一个我",
+            "description": "在联机派对车厢中，与其他开拓者相遇",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027011,
+            "class_name": "与你同行的回忆",
+            "name": "开拓车友会",
+            "description": "拜访5位其他开拓者的联机派对车厢",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027012,
+            "class_name": "与你同行的回忆",
+            "name": "喵喵咪咪「开拓」令使",
+            "description": "获得「阿基喵利」的馈赠",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027013,
+            "class_name": "与你同行的回忆",
+            "name": "派对猎手",
+            "description": "从派对车厢里的每处躲藏点都抓到过造物",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027014,
+            "class_name": "与你同行的回忆",
+            "name": "最后的晚餐",
+            "description": "在造物布设区摆放13只相同造物",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027015,
+            "class_name": "与你同行的回忆",
+            "name": "博物学家",
+            "description": "集齐「造物观察记录」中的27只造物",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027016,
+            "class_name": "与你同行的回忆",
+            "name": "好彩骰！好彩头！",
+            "description": "在银河战力党玩法中，累计收集「扩展包•2」中的6个曜彩骰",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027017,
+            "class_name": "与你同行的回忆",
+            "name": "你的骰子很想来我家",
+            "description": "在「又上骰了！战力党！」中，累计交换骰子42次",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027018,
+            "class_name": "与你同行的回忆",
+            "name": "一键三连",
+            "description": "在「又上骰了！战力党！」中，一回合内连续使用3张战术卡",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027019,
+            "class_name": "与你同行的回忆",
+            "name": "伤害超大杯",
+            "description": "在「又上骰了！战力党！」中，一回合内造成30点伤害",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027020,
+            "class_name": "与你同行的回忆",
+            "name": "《狸狸周刊》向前冲",
+            "description": "在「又上骰了！战力党！」中，代表《狸狸周刊》击败海原市商业街排行榜前五名：「海原五杰」",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 8027021,
+            "class_name": "与你同行的回忆",
+            "name": "银河第一骰",
+            "description": "在「又上骰了！战力党！」中，完成与银狼LV.999的最终对决",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027001,
+            "class_name": "众秘探奇",
+            "name": "余生皆假期",
+            "description": "累计收集120个「星轨之兔」的无名尘灵",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027002,
+            "class_name": "众秘探奇",
+            "name": "伽利略的铁球",
+            "description": "完成电视台顶的「Jump时刻」，从顶层跳至采访大厅",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027003,
+            "class_name": "众秘探奇",
+            "name": "塔上钢琴师",
+            "description": "在电视台顶的「Jump时刻」中，拿到所有音符",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027004,
+            "class_name": "众秘探奇",
+            "name": "并非刺客，不是信条",
+            "description": "抵达海原电视塔的最高处",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027005,
+            "class_name": "众秘探奇",
+            "name": "被重力束缚的灵魂",
+            "description": "在「二次元JUMP！」保持不落地的状态并连续触碰10次重力线",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027006,
+            "class_name": "众秘探奇",
+            "name": "保龄球大师",
+            "description": "在「二次元JUMP！」用机械小帮手撞飞刺猬灵或者飘浮灵",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027007,
+            "class_name": "众秘探奇",
+            "name": "为你的眼眸干杯",
+            "description": "在海原电视塔的「二次元JUMP！」中完成调饮关卡",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027008,
+            "class_name": "众秘探奇",
+            "name": "海的那边是邻居",
+            "description": "在「二次元JUMP！」中抵达海对岸的居民区",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027009,
+            "class_name": "众秘探奇",
+            "name": "奥菲斯的弦歌",
+            "description": "在「二次元JUMP！」中吹奏乐曲，驱散神秘小岛上的迷雾",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027010,
+            "class_name": "众秘探奇",
+            "name": "划水就是上班",
+            "description": "在「二次元JUMP！」中搭乘机械小帮手滑行水面",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027011,
+            "class_name": "众秘探奇",
+            "name": "不可承受之重",
+            "description": "在「二次元JUMP！」中被汪墩墩或皮皮豚挤压导致游戏失败",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027012,
+            "class_name": "众秘探奇",
+            "name": "夺岛奇兵",
+            "description": "在海原市「二次元JUMP！」的影子竞速赛中最先登顶神秘小岛",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027013,
+            "class_name": "众秘探奇",
+            "name": "回旋镖",
+            "description": "在「二次元JUMP！」射出弓箭，命中自己",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027014,
+            "class_name": "众秘探奇",
+            "name": "终极驾驶机器",
+            "description": "在「二次元JUMP！」搭乘小帮手通过刺状障碍物",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027015,
+            "class_name": "众秘探奇",
+            "name": "小帮手，进化！",
+            "description": "在「二次元JUMP！」解锁机械小帮手专属能力",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027016,
+            "class_name": "众秘探奇",
+            "name": "乐园变奏：圆球公主",
+            "description": "演奏奇异乐章，找到藏在海原电视塔的迷之生物",
+            "reward_level": 1,
+            "game_version": "4.2"
+          },
+          {
+            "achievement_id": 9027017,
+            "class_name": "众秘探奇",
+            "name": "乐园变奏：水豚之歌",
+            "description": "演奏奇异乐章，找到藏在海原市的迷之生物",
+            "reward_level": 1,
+            "game_version": "4.2"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 49,
+            "achievement_id": 8027001
+          },
+          {
+            "branch_id": 49,
+            "achievement_id": 8027002
+          },
+          {
+            "branch_id": 49,
+            "achievement_id": 8027003
+          }
+        ]
+      }
+    ]
+  }
+}
