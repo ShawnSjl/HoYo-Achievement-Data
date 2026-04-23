@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "1.3"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -657,6 +667,20 @@
             "description": "见证永仁隐藏身份的故事",
             "reward_level": 1,
             "game_version": "1.3"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 11,
+            "achievement_id": 8004006
+          },
+          {
+            "branch_id": 11,
+            "achievement_id": 8004007
           }
         ]
       }

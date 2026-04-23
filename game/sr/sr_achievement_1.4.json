@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "1.4"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -361,6 +371,36 @@
             "description": "在「冬兵进行曲」难度Ⅲ击败门后的杰帕德",
             "reward_level": 1,
             "game_version": "1.4"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 12,
+            "achievement_id": 8005002
+          },
+          {
+            "branch_id": 12,
+            "achievement_id": 8005003
+          },
+          {
+            "branch_id": 13,
+            "achievement_id": 8005008
+          },
+          {
+            "branch_id": 13,
+            "achievement_id": 8005009
+          },
+          {
+            "branch_id": 14,
+            "achievement_id": 8005025
+          },
+          {
+            "branch_id": 14,
+            "achievement_id": 8005026
           }
         ]
       }

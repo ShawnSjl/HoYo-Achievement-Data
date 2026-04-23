@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "1.2"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -249,6 +259,36 @@
             "description": "没有比你更靠谱的快递安检工作者了",
             "reward_level": 1,
             "game_version": "1.2"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 8,
+            "achievement_id": 8003002
+          },
+          {
+            "branch_id": 8,
+            "achievement_id": 8003003
+          },
+          {
+            "branch_id": 9,
+            "achievement_id": 8003008
+          },
+          {
+            "branch_id": 9,
+            "achievement_id": 8003009
+          },
+          {
+            "branch_id": 10,
+            "achievement_id": 8003004
+          },
+          {
+            "branch_id": 10,
+            "achievement_id": 8001042
           }
         ]
       }

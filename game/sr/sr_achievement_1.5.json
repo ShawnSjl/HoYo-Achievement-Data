@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "1.5"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -345,6 +355,52 @@
             "description": "穿过铜镜，打开藏在浮空岛上的战利品",
             "reward_level": 1,
             "game_version": "1.5"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 15,
+            "achievement_id": 8006005
+          },
+          {
+            "branch_id": 15,
+            "achievement_id": 8006006
+          },
+          {
+            "branch_id": 16,
+            "achievement_id": 8006010
+          },
+          {
+            "branch_id": 16,
+            "achievement_id": 8006011
+          },
+          {
+            "branch_id": 17,
+            "achievement_id": 8006012
+          },
+          {
+            "branch_id": 17,
+            "achievement_id": 8006013
+          },
+          {
+            "branch_id": 18,
+            "achievement_id": 8006018
+          },
+          {
+            "branch_id": 18,
+            "achievement_id": 8006019
+          },
+          {
+            "branch_id": 18,
+            "achievement_id": 8006020
+          },
+          {
+            "branch_id": 18,
+            "achievement_id": 8006021
           }
         ]
       }

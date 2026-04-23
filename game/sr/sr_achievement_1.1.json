@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "1.1"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -137,6 +147,20 @@
             "description": "累计在战斗中捕捉迷路的扑满1次",
             "reward_level": 1,
             "game_version": "1.1"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 7,
+            "achievement_id": 8002008
+          },
+          {
+            "branch_id": 7,
+            "achievement_id": 8002009
           }
         ]
       }
