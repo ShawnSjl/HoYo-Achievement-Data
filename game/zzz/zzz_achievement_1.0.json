@@ -1,9 +1,21 @@
 {
   "name": "zzz_achievement_1.0",
   "type": "data",
-  "depends": [],
+  "depends": [
+    "patch_2.0.0"
+  ],
   "payload": {
     "operations": [
+      {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "zzz_version": "1.0"
+          }
+        ]
+      },
       {
         "action": "insert",
         "table": "zzz_achievement",

@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "zzz_version": "2.1"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "zzz_achievement",
         "values": [
@@ -281,6 +291,20 @@
             "description": "在航天城中，对[社区储运站]的探索进度达到100%。",
             "reward_level": 1,
             "game_version": 2.1
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "zzz_branch",
+        "values": [
+          {
+            "branch_id": 1,
+            "achievement_id": 1008538
+          },
+          {
+            "branch_id": 1,
+            "achievement_id": 1008539
           }
         ]
       }

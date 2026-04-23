@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "zzz_version": "1.4"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "zzz_achievement",
         "values": [
