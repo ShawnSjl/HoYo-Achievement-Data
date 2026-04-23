@@ -10,7 +10,10 @@
         "action": "update",
         "table": "server_info",
         "values": [
-          { "record_id": 1, "sr_version": "4.1" }
+          {
+            "record_id": 1,
+            "sr_version": "4.1"
+          }
         ]
       },
       {
@@ -328,6 +331,28 @@
             "description": "演奏奇异乐章，找到藏在观览云岛站的迷之生物",
             "reward_level": 1,
             "game_version": "4.1"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 47,
+            "achievement_id": 8026001
+          },
+          {
+            "branch_id": 47,
+            "achievement_id": 8026002
+          },
+          {
+            "branch_id": 48,
+            "achievement_id": 8026003
+          },
+          {
+            "branch_id": 48,
+            "achievement_id": 8026004
           }
         ]
       }

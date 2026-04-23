@@ -7,6 +7,16 @@
   "payload": {
     "operations": [
       {
+        "action": "update",
+        "table": "server_info",
+        "values": [
+          {
+            "record_id": 1,
+            "sr_version": "4.0"
+          }
+        ]
+      },
+      {
         "action": "insert",
         "table": "sr_achievement",
         "values": [
@@ -985,6 +995,56 @@
             "description": "在二维市或鸽川区的卡拉OK店前，偷听里面传来的美妙歌声",
             "reward_level": 1,
             "game_version": "4.0"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "sr_branch",
+        "values": [
+          {
+            "branch_id": 42,
+            "achievement_id": 8025008
+          },
+          {
+            "branch_id": 42,
+            "achievement_id": 8025009
+          },
+          {
+            "branch_id": 43,
+            "achievement_id": 8025010
+          },
+          {
+            "branch_id": 43,
+            "achievement_id": 8025011
+          },
+          {
+            "branch_id": 44,
+            "achievement_id": 8025012
+          },
+          {
+            "branch_id": 44,
+            "achievement_id": 8025013
+          },
+          {
+            "branch_id": 45,
+            "achievement_id": 8025015
+          },
+          {
+            "branch_id": 45,
+            "achievement_id": 8025016
+          },
+          {
+            "branch_id": 46,
+            "achievement_id": 8025033
+          },
+          {
+            "branch_id": 46,
+            "achievement_id": 8025034
+          },
+          {
+            "branch_id": 46,
+            "achievement_id": 8025035
           }
         ]
       }
