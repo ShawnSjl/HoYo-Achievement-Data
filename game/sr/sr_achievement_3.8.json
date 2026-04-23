@@ -189,7 +189,7 @@
             "game_version": "3.8"
           },
           {
-            "achievement_id": 9024001,
+            "achievement_id": 8024006,
             "class_name": "与你同行的回忆",
             "name": "奥赫玛地区冠军",
             "description": "在「黄金嗷呜大师赛」中，击败黄金对决模式中的所有奇美拉训练家",
@@ -197,7 +197,7 @@
             "game_version": "3.8"
           },
           {
-            "achievement_id": 9024002,
+            "achievement_id": 9024001,
             "class_name": "众秘探奇",
             "name": "钟末视界",
             "description": "修复「橡木鸣蛀之梦」中所有坏掉的梦境迷钟",
@@ -205,7 +205,7 @@
             "game_version": "3.8"
           },
           {
-            "achievement_id": 9024003,
+            "achievement_id": 9024002,
             "class_name": "众秘探奇",
             "name": "我罪常在我前",
             "description": "在「橡木鸣蛀之梦」的未走之路中，得到梦主的信件",
@@ -213,7 +213,7 @@
             "game_version": "3.8"
           },
           {
-            "achievement_id": 9024004,
+            "achievement_id": 9024003,
             "class_name": "众秘探奇",
             "name": "歧路唯余倒影",
             "description": "在「橡木鸣蛀之梦」的未走之路中，沿着另一条道路前进",
