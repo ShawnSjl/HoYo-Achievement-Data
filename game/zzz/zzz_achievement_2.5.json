@@ -129,7 +129,7 @@
             "class_id": 2003,
             "name": "一屋传家宝",
             "description": "获得所有「不掩」文玩小铺的收集品。",
-            "reward_level": 1,
+            "reward_level": 2,
             "game_version": "2.5"
           },
           {
