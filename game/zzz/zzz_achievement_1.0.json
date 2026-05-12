@@ -1,18 +1,16 @@
 {
   "name": "zzz_achievement_1.0",
   "type": "data",
-  "depends": [
-    "patch_2.0.0"
-  ],
+  "depends": [],
   "payload": {
     "operations": [
       {
-        "action": "update",
-        "table": "server_info",
+        "action": "insert",
+        "table": "game_info",
         "values": [
           {
-            "record_id": 1,
-            "zzz_version": "1.0"
+            "game_id": "zzz",
+            "game_version": "1.0"
           }
         ]
       },

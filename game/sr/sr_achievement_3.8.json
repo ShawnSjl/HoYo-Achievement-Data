@@ -8,11 +8,11 @@
     "operations": [
       {
         "action": "update",
-        "table": "server_info",
+        "table": "game_info",
         "values": [
           {
-            "record_id": 1,
-            "sr_version": "3.8"
+            "record_id": "hsr",
+            "game_version": "3.8"
           }
         ]
       },
