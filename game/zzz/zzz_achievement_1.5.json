@@ -11,7 +11,9 @@
         "table": "game_info",
         "values": [
           {
-            "record_id": "ZZZ",
+            "target": {
+              "game_id": "ZZZ"
+            },
             "game_version": "1.5"
           }
         ]

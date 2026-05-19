@@ -11,8 +11,9 @@
         "table": "game_info",
         "values": [
           {
-            "record_id": "HSR",
-            "branch_id": 0,
+            "target": {
+              "game_id": "HSR"
+            },
             "game_version": "4.1"
           }
         ]

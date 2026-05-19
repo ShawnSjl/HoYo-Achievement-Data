@@ -11,7 +11,9 @@
         "table": "game_info",
         "values": [
           {
-            "record_id": "HSR",
+            "target": {
+              "game_id": "HSR"
+            },
             "game_version": "1.2"
           }
         ]
@@ -327,8 +329,10 @@
         "table": "achievement",
         "values": [
           {
-            "game_id": "HSR",
-            "achievement_id": 8001042,
+            "target": {
+              "game_id": "HSR",
+              "achievement_id": 8001042
+            },
             "branch_id": 10
           }
         ]
