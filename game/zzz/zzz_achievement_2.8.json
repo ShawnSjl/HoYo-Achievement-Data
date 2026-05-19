@@ -11,82 +11,91 @@
         "table": "game_info",
         "values": [
           {
-            "record_id": "zzz",
+            "record_id": "ZZZ",
             "game_version": "2.8"
           }
         ]
       },
       {
         "action": "insert",
-        "table": "zzz_achievement",
+        "table": "achievement",
         "values": [
           {
+            "game_id": "ZZZ",
             "achievement_id": 1005526,
-            "class_id": 1001,
+            "category": "法厄同纪事",
             "name": "白翼织自云端",
             "description": "完成法厄同纪事「新·艾利都日落时 下」。",
             "reward_level": 3,
             "game_version": "2.8"
           },
           {
+            "game_id": "ZZZ",
             "achievement_id": 1004571,
-            "class_id": 1004,
+            "category": "代理人信赖",
             "name": "震耳欲聋的沉默心声",
             "description": "普罗米娅对绳匠的信赖达到4阶。",
             "reward_level": 1,
             "game_version": "2.8"
           },
           {
+            "game_id": "ZZZ",
             "achievement_id": 2003523,
-            "class_id": 3004,
+            "category": "敌对目标",
             "name": "「不可直视太阳！」",
             "description": "与[焚昼余火·法厄同]作战时，使用[招架支援]成功应对其幻化出的所有敌方单位的任一招式。",
             "reward_level": 1,
             "game_version": "2.8"
           },
           {
+            "game_id": "ZZZ",
             "achievement_id": 1009519,
-            "class_id": 1006,
+            "category": "绳网热议",
             "name": "「锅狩」的诞生",
             "description": "在「煮釜」火锅店附近，见证一位传奇美食家获得「锅狩」的称号。",
             "reward_level": 1,
             "game_version": "2.8"
           },
           {
+            "game_id": "ZZZ",
             "achievement_id": 1009520,
-            "class_id": 1006,
+            "category": "绳网热议",
             "name": "《星徽别传之宿命回环》",
             "description": "在「引力」电影院，偶遇与同好讨论「骑士杯」的比利，并了解《星徽骑士》的创作往事。",
             "reward_level": 1,
             "game_version": "2.8"
           },
           {
+            "game_id": "ZZZ",
             "achievement_id": 1009521,
-            "class_id": 1006,
+            "category": "绳网热议",
             "name": "恐惧来源于火力不足",
             "description": "在「Random Play」门前，旁听三只「虚狩级邦布」关于行动中「缺少输出」的讨论。",
             "reward_level": 1,
             "game_version": "2.8"
           },
           {
+            "game_id": "ZZZ",
             "achievement_id": 1009522,
-            "class_id": 1006,
+            "category": "绳网热议",
             "name": "站点之妙用！",
             "description": "在光映广场的地铁口附近，见证两位绳匠通过站点寻回失物的故事。",
             "reward_level": 1,
             "game_version": "2.8"
           },
           {
+            "game_id": "ZZZ",
             "achievement_id": 1009523,
-            "class_id": 1006,
+            "category": "绳网热议",
             "name": "「退坑神游」",
             "description": "在绳网回复帖子「《怪奇旅伴》维护公告」。",
             "reward_level": 1,
             "game_version": "2.8"
           },
           {
+            "game_id": "ZZZ",
             "achievement_id": 1009524,
-            "class_id": 1006,
+            "category": "绳网热议",
             "name": "一个平凡的晚上",
             "description": "在「金手指」电玩店门前，聆听一位《怪奇旅伴》玩家的絮语。",
             "reward_level": 1,
