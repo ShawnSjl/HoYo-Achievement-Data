@@ -29,7 +29,6 @@
             "name": "西比尔，你要什么？",
             "description": "好运会引领赌徒走向何方？ ※见证「卡卡瓦夏」的人生",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -39,7 +38,6 @@
             "name": "烈酒一滴",
             "description": "向美梦与做梦的人致意！ ※获得加拉赫的专属特调",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -49,7 +47,6 @@
             "name": "她回答说，我要死亡",
             "description": "在最佳位置，观赏演出盛大的落幕 ※击败「石心十人」砂金",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -59,7 +56,6 @@
             "name": "致伊卡洛斯",
             "description": "在他乡异地重闻旧事 ※聆听黄泉与瓦尔特的对话",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -69,7 +65,6 @@
             "name": "双六",
             "description": "在和「石心十人」诡弈砂金的战斗中，单次攻击使至少2个「所有或一无所有」同时掷出6点",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -79,7 +74,6 @@
             "name": "All my people, all my people…",
             "description": "在和「石心十人」诡弈砂金的战斗中，队伍中4名角色在同一次赌局中全部获胜",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -89,7 +83,6 @@
             "name": "修罗雪姬",
             "description": "在单场战斗中，使用黄泉的终结技「残梦尽染，一刀缭断」消灭所有敌人并获得战斗胜利",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -99,7 +92,6 @@
             "name": "偷盲注",
             "description": "单场战斗中，「盲注」为0时，使用砂金的终结技「轮盘勋爵」获得7点「盲注」",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -109,7 +101,6 @@
             "name": "泻泻火",
             "description": "在一次弱点击破中清除忆域迷因「狂怒褪去之壳」满层的「无明火」",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -119,7 +110,6 @@
             "name": "硬碰硬",
             "description": "单场战斗中，不造成弱点击破的情况下击败忆域迷因「狂怒褪去之壳」",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -129,7 +119,6 @@
             "name": "绩效面谈",
             "description": "使用我方角色砂金对战资深员工•组长时完成制胜一击",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -139,7 +128,6 @@
             "name": "天斩无斩",
             "description": "在探索中，使用黄泉秘技「四相断我」连续消灭5个敌人",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -149,7 +137,6 @@
             "name": "折纸鸟为什么那么大？",
             "description": "在「朝露公馆」拔出折纸大鸟",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -159,7 +146,6 @@
             "name": "上座率，零",
             "description": "令光明飞车失去它的粉丝",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -169,7 +155,6 @@
             "name": "鸟，艺术，人生",
             "description": "在朝露公馆成为观鸟大师",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -179,7 +164,6 @@
             "name": "谷多益善",
             "description": "获得全部4款钟表小子周边",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -189,7 +173,6 @@
             "name": "林中小屋",
             "description": "在克劳克影视乐园的某处见证五人组的离奇经历",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -199,7 +182,6 @@
             "name": "证明与反驳",
             "description": "在交谈中以高价购买某位餐车老板的商品",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -209,7 +191,6 @@
             "name": "以「我」为名的变奏曲",
             "description": "在克劳克影视乐园与一位身形奇特的「侦探」相识",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -219,7 +200,6 @@
             "name": "金衣女子",
             "description": "调查朝露公馆中某位知名艺人的画像",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -259,7 +239,6 @@
             "name": "大人物！",
             "description": "在「惊梦酒吧」留下属于你的特调",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -269,7 +248,6 @@
             "name": "快乐美梦速速达",
             "description": "帮助「惊梦酒吧」里的所有怪物解决情绪困扰",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -279,7 +257,6 @@
             "name": "各饮所需",
             "description": "为顾客提供正确饮品的次数达到10次",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -289,7 +266,6 @@
             "name": "Omakase",
             "description": "为顾客提供错误饮品的次数达到5次",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -299,7 +275,6 @@
             "name": "梦核朋克酒保行动",
             "description": "完成「惊梦酒吧」全部配方推导",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -329,7 +304,6 @@
             "name": "小鬼当家",
             "description": "在一次《小小哈努行动》中一次性击败3个石头老板的爪牙",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -339,7 +313,6 @@
             "name": "逆球",
             "description": "打破克劳克影视乐园中的特殊石头老板气球",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -349,7 +322,6 @@
             "name": "梦都风云录",
             "description": "打破朝露公馆中的特殊石头老板气球",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -359,7 +331,6 @@
             "name": "安全车",
             "description": "在《钟表小子》外传的任意模式中，无伤完成拍摄",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -369,7 +340,6 @@
             "name": "非标准赛车线",
             "description": "在《钟表小子》外传的任意模式中，持续停留在轨道中间10秒",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -379,7 +349,6 @@
             "name": "Pole To Win",
             "description": "在《钟表小子》外传的任意模式中，「坚果冲刺」或「哈努时间」持续期间再次积满能量",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -389,7 +358,6 @@
             "name": "DRS最大受益者",
             "description": "在《钟表小子》外传的《速度与坚果》中，连续完成10次「极限超车」，中间没有失误中断",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -399,7 +367,6 @@
             "name": "地狱低速公路",
             "description": "在《钟表小子》外传的《狼之道》中，消灭所有出现的敌人",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -409,7 +376,6 @@
             "name": "梦幻的小镇，橡木乐园！",
             "description": "首次闯入朝露公馆的微缩沙盘",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -419,7 +385,6 @@
             "name": "筑梦工业化",
             "description": "完成朝露公馆的梦客漫步挑战，赚取外快",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -429,7 +394,6 @@
             "name": "石中榨血",
             "description": "变成哈努兄弟后首次使用「哈努飞弹」击败石头老板的爪牙",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -439,7 +403,6 @@
             "name": "狼伴归途",
             "description": "收集《小小哈努行动•中篇》全集",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -449,7 +412,6 @@
             "name": "火力全开",
             "description": "在《小小哈努行动》中「哈努飞弹」弹药达到上限",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -459,7 +421,6 @@
             "name": "秘密派对",
             "description": "通过气泡弹珠发现克劳克影视乐园的隐藏区域",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           },
           {
@@ -469,7 +430,6 @@
             "name": "《吃豆人》",
             "description": "击碎克劳克影视乐园迷宫花园中的所有可破坏物",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.1"
           }
         ]

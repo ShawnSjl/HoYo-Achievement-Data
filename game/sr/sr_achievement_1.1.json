@@ -29,7 +29,6 @@
             "name": "脆弱之身",
             "description": "单场战斗中，使用我方角色银狼为同一敌方单体累计添加3次不同属性的弱点",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "1.1"
           },
           {
@@ -39,7 +38,6 @@
             "name": "猎手何苦为难猎手",
             "description": "使用我方角色银狼在对战卡芙卡时，单场战斗中累计为卡芙卡添加2个弱点",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "1.1"
           },
           {
@@ -49,7 +47,6 @@
             "name": "畅聊之火",
             "description": "回复10条角色闲聊短信",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "1.1"
           },
           {
@@ -59,7 +56,6 @@
             "name": "友谊之船",
             "description": "回复60条角色闲聊短信",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "1.1"
           },
           {
@@ -69,7 +65,6 @@
             "name": "尘世百态",
             "description": "使用我方角色罗刹提供治疗时，触发10句不同的回复生命语音",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "1.1"
           },
           {
@@ -79,7 +74,6 @@
             "name": "星穹折剑",
             "description": "使用同时包含罗刹、素裳、彦卿的队伍配置取得1场战斗的胜利",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "1.1"
           },
           {
@@ -89,7 +83,6 @@
             "name": "完美无缺的名侦探",
             "description": "完成同行任务「异邦骑士」",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "1.1"
           },
           {
@@ -99,7 +92,6 @@
             "name": "剑中魁首",
             "description": "完成同行任务「霜刃一试」",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "1.1"
           },
           {
@@ -109,7 +101,6 @@
             "name": "再见，朋克洛德！",
             "description": "完成同行任务「朋克洛德精神」",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "1.1"
           },
           {
@@ -119,7 +110,6 @@
             "name": "棺材舞者",
             "description": "见证罗刹的不为人知的一面 ※查看修复后的影像，听到罗刹的独白",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "1.1"
           },
           {
@@ -129,7 +119,6 @@
             "name": "今日免费开放",
             "description": "开启贝洛伯格历史文化博物馆的综合展区",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "1.1"
           },
           {
@@ -139,7 +128,6 @@
             "name": "猫鼠游戏",
             "description": "开启贝洛伯格历史文化博物馆的三个展区",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "1.1"
           },
           {
@@ -149,7 +137,6 @@
             "name": "你应该待在博物馆里！",
             "description": "收集贝洛伯格历史文化博物馆的全部展品",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "1.1"
           },
           {
@@ -179,7 +166,6 @@
             "name": "自投罗网",
             "description": "累计在战斗中捕捉迷路的扑满1次",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "1.1"
           }
         ]

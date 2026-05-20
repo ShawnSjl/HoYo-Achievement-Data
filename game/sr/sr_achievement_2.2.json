@@ -29,7 +29,6 @@
             "name": "今夜无人入眠",
             "description": "开拓者踏上「同谐」命途",
             "reward_level": 3,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -39,7 +38,6 @@
             "name": "最后的大亨",
             "description": "觐见「钟表匠」 ※与匹诺康尼的第一位无名客相会",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -49,7 +47,6 @@
             "name": "自由，一如我们的父辈",
             "description": "继承「钟表匠」的遗产 ※继续匹诺康尼最后一位无名客未尽的旅途",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -59,7 +56,6 @@
             "name": "我们若在光明中行",
             "description": "如愿踏上新的「开拓」之旅 ※击败「齐响诗班」多米尼克斯…",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -69,7 +65,6 @@
             "name": "最后，我们从梦中醒来",
             "description": "见证匹诺康尼的第一缕曙光 ※击败「哲学的胎儿」星期日",
             "reward_level": 3,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -99,7 +94,6 @@
             "name": "JACKPOT！",
             "description": "使「惊梦剧团的幸运贩售」摇出一次「出货！」",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -109,7 +103,6 @@
             "name": "肥皂剧",
             "description": "在与「同音共律的来日」战斗时，4名角色均进入过睡眠状态",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -119,7 +112,6 @@
             "name": "受难剧",
             "description": "用一名角色承受「身陷樊笼的往昔」技能「笼中传福音」的全部伤害，且没有被击败",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -129,7 +121,6 @@
             "name": "群像剧",
             "description": "在「昔在、今在、永在的剧目」第一阶段时，让3名敌人轮流成为一次【司律】",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -139,7 +130,6 @@
             "name": "独幕剧",
             "description": "在「昔在、今在、永在的剧目」第二阶段时，敌方至多施放一次「为同一律献舞」",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -149,7 +139,6 @@
             "name": "断章",
             "description": "在「醉于盛会的此刻」进入蓄力状态后，打断其蓄力",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -159,7 +148,6 @@
             "name": "一首歌的时间",
             "description": "聆听知更鸟的歌声 ※战斗中，施放知更鸟的终结技「千音迭奏，群星赋格」后，在战斗实况观看知更鸟10秒以上",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -169,7 +157,6 @@
             "name": "哈梅尔的吹笛手",
             "description": "探索中使用知更鸟秘技「酣醉序曲」后，吸引6个及以上的敌方跟随",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -179,7 +166,6 @@
             "name": "舞力全开！",
             "description": "战斗中，利用开拓者•同谐的终结技「喧嚣的舞灯巡游」的【伴舞】效果消灭一个精英敌人",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -189,7 +175,6 @@
             "name": "赌命大赛",
             "description": "战斗中，我方角色波提欧在一回合内累计获得3层【优势口袋】",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -199,7 +184,6 @@
             "name": "神不在的工作日",
             "description": "在「齐响诗班」神主日施放「翩翩起舞的」或「狂风骤雨的」之前，击破所有旧梦的回声",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -209,7 +193,6 @@
             "name": "然后，是星期一…",
             "description": "累积足够的护盾，完全抵挡「哲学的胎儿」星期日技能「太初有为」造成的伤害",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -219,7 +202,6 @@
             "name": "三思而后行",
             "description": "在筑梦模块上放置梦泡桥梁后，未通过梦泡桥梁就挪走筑梦模块",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -229,7 +211,6 @@
             "name": "AA制",
             "description": "让波提欧和砂金抢着买单 ※在同一场战斗中触发砂金「战技•一」语音与波提欧「战斗开始•弱点击破」语音",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -239,7 +220,6 @@
             "name": "把历史装进瓶子",
             "description": "在热砂海选会场探秘汽水地窖的四大珍藏",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -249,7 +229,6 @@
             "name": "糖浆药水的故事",
             "description": "在热砂海选会场找到汽水地窖最珍贵的窖藏",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -259,7 +238,6 @@
             "name": "黄金与机械…表？",
             "description": "在热砂海选会场发现钟表小子化石为金的奥秘",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -269,7 +247,6 @@
             "name": "只是一道行走的影子",
             "description": "聆听匹诺康尼大剧院舞台边八位人偶的故事",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -299,7 +276,6 @@
             "name": "哈努工会的诞生",
             "description": "在《美梦往事》的广告片《哈努兄弟大劫案》中带领所有广告牌员工逃脱",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -309,7 +285,6 @@
             "name": "苏乐达代言人",
             "description": "在《美梦往事》的广告片《爱汽水的钟表小子》中踏遍所有场景中的「苏乐达地板」",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -319,7 +294,6 @@
             "name": "美梦小镇的魔术师",
             "description": "在《美梦往事》的广告片《美梦仙踪》中所有镜头都完美达到导演要求",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -329,7 +303,6 @@
             "name": "钟表小子和他的伙伴们",
             "description": "帮助《美梦往事》的动画师制作所有动画外传",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -339,7 +312,6 @@
             "name": "Railboard100",
             "description": "成功获得知更鸟的唱片",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -349,7 +321,6 @@
             "name": "怒「海」求生",
             "description": "帮助想要成为巨星的苏乐达",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -359,7 +330,6 @@
             "name": "流梦学习小组",
             "description": "为流浪者们创造一个新家",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -369,7 +339,6 @@
             "name": "天使的呢喃",
             "description": "见证「桶的令使」的结局",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -379,7 +348,6 @@
             "name": "他落下的羽毛",
             "description": "帮助知更鸟找到星期日的线索",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -389,7 +357,6 @@
             "name": "永久性车票",
             "description": "乘坐球笼车抵达流梦礁的神秘车站",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -399,7 +366,6 @@
             "name": "总而言之，很酷",
             "description": "在流梦礁找到七个特别的井盖",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -409,7 +375,6 @@
             "name": "前有绝景，所以悲伤",
             "description": "在流梦礁的电梯井内找到钟表小子的痕迹",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -419,7 +384,6 @@
             "name": "时间何其妙",
             "description": "完成冒险任务「曾经，在美梦小镇…」",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -429,7 +393,6 @@
             "name": "所有的往事",
             "description": "在《美梦往事》中完成所有结局的剪辑",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -439,7 +402,6 @@
             "name": "梦境TOP100",
             "description": "在《美梦往事》中总集篇中观众评分达到2000分",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -449,7 +411,6 @@
             "name": "溢出镜头的情感",
             "description": "在《美梦往事》中三种观众情绪同时高于50",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -459,7 +420,6 @@
             "name": "迷惘的一代",
             "description": "在《美梦往事》中进入一次特殊剧情分支",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -469,7 +429,6 @@
             "name": "高成本影片",
             "description": "在《美梦往事》中同一回合至少获得3个及以上的时间骰子6",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -479,7 +438,6 @@
             "name": "0点妖",
             "description": "在《美梦往事》中进行试映会评审时，所需情绪恰好等于评审要求",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -489,7 +447,6 @@
             "name": "Rail Road, Take Me Home",
             "description": "在流梦礁中，通过「钟表匠」的梦泡进入稚子的梦",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -499,7 +456,6 @@
             "name": "米哈伊尔，你要去哪儿？",
             "description": "应行的路，我已行尽 ※一切尘埃落定后，重回稚子的赏月地",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -509,7 +465,6 @@
             "name": "箱梯游戏",
             "description": "在流梦礁登上木箱堆叠的高山",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -519,7 +474,6 @@
             "name": "等待戈多",
             "description": "耐心等待幽灵列车的到来",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -529,7 +483,6 @@
             "name": "可以坐一下午",
             "description": "在流梦礁的沙发上享受片刻的歇息时间",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -539,7 +492,6 @@
             "name": "爱遇之城",
             "description": "帮助广告牌「爱遇见」给它的爱人传话",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -549,7 +501,6 @@
             "name": "往日气球",
             "description": "打破流梦礁中的特殊石头老板气球",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -559,7 +510,6 @@
             "name": "第二只气球",
             "description": "打破热砂海选会场中的特殊石头老板气球",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -569,7 +519,6 @@
             "name": "后气球书",
             "description": "打破匹诺康尼大剧院中的特殊石头老板气球",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -579,7 +528,6 @@
             "name": "新匹诺康尼梦",
             "description": "开启300次匹诺康尼战利品",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -589,7 +537,6 @@
             "name": "速度加快，血糖升高",
             "description": "在位于热砂海选会场的《速度与坚果》挑战中吃到所有的苏乐达道具",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -599,7 +546,6 @@
             "name": "啾…不动了",
             "description": "帮助100只折纸小鸟回到「大树」",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -609,7 +555,6 @@
             "name": "海选妙妙屋",
             "description": "在「海选特快」的界面中发现任意一个隐藏挑战",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -619,7 +564,6 @@
             "name": "传奇海选王",
             "description": "成功触发共6个「海选特快」的隐藏挑战",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -629,7 +573,6 @@
             "name": "取消参赛资格！",
             "description": "打破海选广场处的所有石头老板气球",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -639,7 +582,6 @@
             "name": "第一滴血",
             "description": "首次完成「哈努战线」的挑战",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -649,7 +591,6 @@
             "name": "如狼",
             "description": "在任意《狼之道•终》关卡里，反弹了石头老板的每一枚硬币",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -659,7 +600,6 @@
             "name": "暮狼归乡",
             "description": "完成所有《狼之道•终》关卡",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -669,7 +609,6 @@
             "name": "如狼见参",
             "description": "在任意《狼之道•终》关卡里，没有反弹一次硬币攻击就打败了石头老板",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -679,7 +618,6 @@
             "name": "第十五滴血",
             "description": "完成「哈努战线」的所有挑战",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -689,7 +627,6 @@
             "name": "第几滴血？",
             "description": "完美通关「哈努战线」的所有挑战",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -699,7 +636,6 @@
             "name": "穿甲弹",
             "description": "在「哈努战线」中一枪命中7个靶子",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -709,7 +645,6 @@
             "name": "鳄鱼公敌",
             "description": "在《小小哈努行动》的结局关卡中击败「钢铁鳄鱼」",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -719,7 +654,6 @@
             "name": "再见，哈努努",
             "description": "收集所有《小小哈努行动》故事书",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -729,7 +663,6 @@
             "name": "最后的血",
             "description": "在「哈努战线」中首次命中所有靶子",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -739,7 +672,6 @@
             "name": "哈努的遗产",
             "description": "在盛会海选中找到「枪火的试炼」中的隐藏密宝",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -749,7 +681,6 @@
             "name": "给我停止吧！",
             "description": "在「哈努战线」中通过「钟表时间」命中20个靶子",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -759,7 +690,6 @@
             "name": "饱和式轰炸",
             "description": "在一次《小小哈努行动》中一次性击败5个石头老板的爪牙",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           },
           {
@@ -769,7 +699,6 @@
             "name": "家族的名义",
             "description": "帮助家族成员追回所有赃物",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "2.2"
           }
         ]

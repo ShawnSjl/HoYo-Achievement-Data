@@ -29,7 +29,6 @@
             "name": "高尚者的墓志铭",
             "description": "坚持信念的代价，总是迷失返回的路※流萤视角下，与AR-214重逢",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -39,7 +38,6 @@
             "name": "过去是未来的倒影",
             "description": "时间在刀尖上舞蹈，只有光能刺向未来※见证「终末」与「开拓」的交汇",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -49,7 +47,6 @@
             "name": "飞翔无需理由",
             "description": "哪怕一切为时已晚，我们还是能去唱，自己能唱的歌※见证逐梦者的谐乐大典",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -59,7 +56,6 @@
             "name": "生是与死擦肩而过",
             "description": "焚烧众生者是时间，时间又使其熄灭※揭晓关于末王的真相",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -89,7 +85,6 @@
             "name": "弃旧，恋新",
             "description": "战斗胜利时，大丽花的【共舞者】队友与战斗开始时不为同一人",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -99,7 +94,6 @@
             "name": "你和你的掩体一样可笑",
             "description": "在敌方目标处于韧性保护状态时，使用超击破伤害将其消灭",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -109,7 +103,6 @@
             "name": "舞！舞！舞！",
             "description": "单场战斗中，「同谐」命途开拓者、忘归人和大丽花全部施放过终结技",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -119,7 +112,6 @@
             "name": "逆卡巴拉计数器",
             "description": "在与「巨剑守护」任意难度的战斗中，我方角色累计回复12次【生命计数】",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -129,7 +121,6 @@
             "name": "超越射击",
             "description": "在与「狮震八方」任意难度的战斗中，我方目标累计消灭15个【后排目标】",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -139,7 +130,6 @@
             "name": "疯狂钻石",
             "description": "在与「蚀心影魔」噩梦难度的战斗中，我方全体角色【负载生命值】均不超过8000并通关",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -149,7 +139,6 @@
             "name": "无暇赴死",
             "description": "在与「戮力双雄」任意难度的战斗中，触发一次敌方首领的【戮力同心】",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -159,7 +148,6 @@
             "name": "塞壬之泪",
             "description": "在与「哀歌塞壬」任意难度的战斗中，我方「致幻人鱼」受到一次致命伤害",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -169,7 +157,6 @@
             "name": "乌合之虫",
             "description": "在与「示死祸源：深魇蝗灾」的战斗中，通过消灭所有「幼蛰虫」使其退出【基因复制】状态",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -179,7 +166,6 @@
             "name": "擒虫先擒蝗",
             "description": "在与「示死祸源：深魇蝗灾」的战斗中，在尚未消灭所有「幼蛰虫」时击破「示死祸源：深魇蝗灾」，且在未退出【基因复制】状态时恢复韧性",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -189,7 +175,6 @@
             "name": "长眠之梦的呓语",
             "description": "在「橡木鸣蛀之梦」中，重温昔日旧梦",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -199,7 +184,6 @@
             "name": "大满贯",
             "description": "在「黄金嗷呜大师赛」中，单场赛事累计获得8次胜利",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -209,7 +193,6 @@
             "name": "奇美拉大师",
             "description": "在「黄金嗷呜大师赛」中，赛事段位达到黄金",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -219,7 +202,6 @@
             "name": "赢在起跑线",
             "description": "在「黄金嗷呜大师赛」中，完成奇美拉世界锦标赛的定级赛",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -229,7 +211,6 @@
             "name": "传奇挑战者",
             "description": "在「黄金嗷呜大师赛」中，与玩家对战获得8场全胜",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -239,7 +220,6 @@
             "name": "奥赫玛地区冠军",
             "description": "在「黄金嗷呜大师赛」中，击败黄金对决模式中的所有奇美拉训练家",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -249,7 +229,6 @@
             "name": "钟末视界",
             "description": "修复「橡木鸣蛀之梦」中所有坏掉的梦境迷钟",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -259,7 +238,6 @@
             "name": "我罪常在我前",
             "description": "在「橡木鸣蛀之梦」的未走之路中，得到梦主的信件",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           },
           {
@@ -269,7 +247,6 @@
             "name": "歧路唯余倒影",
             "description": "在「橡木鸣蛀之梦」的未走之路中，沿着另一条道路前进",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "3.8"
           }
         ]

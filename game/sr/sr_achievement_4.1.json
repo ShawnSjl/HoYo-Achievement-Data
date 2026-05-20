@@ -29,7 +29,6 @@
             "name": "父亲的荣耀",
             "description": "所有孩子的噩梦：向父辈介绍自己的工作※带领姬子的父亲游览列车",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -39,7 +38,6 @@
             "name": "猫鼠游戏",
             "description": "社会身份，不过是人类佩戴的无穷面具中的一个※与虚照小姐合影",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -49,7 +47,6 @@
             "name": "我来组成头部！",
             "description": "机铠，屹立于大地之上※拼装属于自己的大型机铠，并与破晓战队交手",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -59,7 +56,6 @@
             "name": "当幸福来敲门",
             "description": "人人追求幸福，但谁定义了幸福？※完成对慈善组织「幸福微笑研究会」的调查",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -69,7 +65,6 @@
             "name": "食梦者",
             "description": "创作者是在醒时造梦的动物※在杂志社揭晓《苍天航路绒绒号》的作者真面目",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -79,7 +74,6 @@
             "name": "开往地狱的列车",
             "description": "？？？※抵达不为人知的废站空间",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -89,7 +83,6 @@
             "name": "幸运筹码",
             "description": "感谢那位赠予筹码的友人※在真珠的帮助下返回现实",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -99,7 +92,6 @@
             "name": "幻月的狂言",
             "description": "祂就这么一说，你就这么一听※聆听幻月发表狂乱的宣言",
             "reward_level": 2,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -109,7 +101,6 @@
             "name": "三个火枪手",
             "description": "使用同时包含不死途、乱破、波提欧的队伍获得1场战斗的胜利",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -119,7 +110,6 @@
             "name": "不是不报，时辰未到",
             "description": "累计5次我方队友攻击【饲饵】目标未触发不死途的追加攻击",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -129,7 +119,6 @@
             "name": "一击双吃",
             "description": "使用我方角色不死途在单次追加攻击中同时消灭2名敌人",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -139,7 +128,6 @@
             "name": "太阳立刻升起",
             "description": "在与「破晓战队」的战斗中，使其处于【破晓力场】状态时受到特定属性攻击而触发立即行动",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -149,7 +137,6 @@
             "name": "乱拳打死老师傅",
             "description": "在与「SD民用机铠」的战斗中，使其消灭1名敌方目标",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -159,7 +146,6 @@
             "name": "节约用水",
             "description": "在与「合金机铠•帕姆王」的战斗中，解除其【蒸汽洗涤】状态",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -169,7 +155,6 @@
             "name": "泡沫弄潮儿",
             "description": "在与「合金机铠•帕姆王」的单场战斗中，至少触发3次【强效肥皂泡】的【锃亮】效果",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -219,7 +204,6 @@
             "name": "人靠衣装马靠鞍",
             "description": "在机铠改造室前，给犹豫的机铠提供建议",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -229,7 +213,6 @@
             "name": "恶人自有恶人嬷",
             "description": "分别与凯妮斯SP、雷光主二人对话",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -239,7 +222,6 @@
             "name": "乐园时期的爱情",
             "description": "在街头见证路人向彼此传递心意",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -249,7 +231,6 @@
             "name": "天下无敌",
             "description": "在「社团对决」中战胜所有对手",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -259,7 +240,6 @@
             "name": "三军听令！",
             "description": "在「整军强化」中解锁了所有能力",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -269,7 +249,6 @@
             "name": "天上来敌",
             "description": "通关「魔王挑战」模式",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -279,7 +258,6 @@
             "name": "名叫乐园的土地",
             "description": "集齐《浮脂记事》存世的六页内容，并完成二维市内「浮脂记事」的世界中的所有收集要素",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -289,7 +267,6 @@
             "name": "青莲地心火",
             "description": "在观览云岛的「Jump时刻」中，撞碎所有的岁阳",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -299,7 +276,6 @@
             "name": "然后，是工作日",
             "description": "在观览云岛的「Jump时刻」中再度「击败」神主日",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -309,7 +285,6 @@
             "name": "「请勿入内」",
             "description": "溜进珠星大厦的员工办公室",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -319,7 +294,6 @@
             "name": "斯金纳的鸽子",
             "description": "在「二次元JUMP！」中，连续触发会弹出金币的按钮10次",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -329,7 +303,6 @@
             "name": "现在！合体！",
             "description": "打开隐藏道路，抵达魔动机铠的胸前",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -339,7 +312,6 @@
             "name": "珠星火控阵列",
             "description": "在珠星大厦的「二次元JUMP！」中击败巨型刺猬灵",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -349,7 +321,6 @@
             "name": "猫咪的黄金律",
             "description": "在机铠拼装时，接住猫咪抛下的所有像素金币",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -359,7 +330,6 @@
             "name": "超机铠之世纪必杀阵",
             "description": "在机铠对战的摄影棚中，击碎全部的可破坏建筑",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -369,7 +339,6 @@
             "name": "超级机铠星探",
             "description": "找到四位「相貌奇特」的机铠",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -379,7 +348,6 @@
             "name": "热血难凉",
             "description": "完成「星铁FES」炎枪冲锋的挑战",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -389,7 +357,6 @@
             "name": "或跃在渊",
             "description": "在「星铁FES」的仙舟展区重现「开海」",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -399,7 +366,6 @@
             "name": "乐园变奏：铁皮人",
             "description": "演奏奇异乐章，找到藏在珠星大厦的迷之生物",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           },
           {
@@ -409,7 +375,6 @@
             "name": "乐园变奏：百变狸猫",
             "description": "演奏奇异乐章，找到藏在观览云岛站的迷之生物",
             "reward_level": 1,
-            "branch_id": 0,
             "game_version": "4.1"
           }
         ]
