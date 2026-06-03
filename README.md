@@ -19,8 +19,9 @@ HoYo-Achievement 项目的核心数据仓库。
         "table": "achievement",
         "values": [
           {
+            "game_id": "game1",
             "achievement_id": 1001001,
-            "class_name": "成就类别",
+            "category": "成就类别",
             "name": "成就名称",
             "description": "达成该成就的具体描述...",
             "reward_level": 1,
