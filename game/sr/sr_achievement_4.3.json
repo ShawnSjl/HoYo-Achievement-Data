@@ -1,0 +1,301 @@
+{
+  "name": "sr_achievement_4.3",
+  "type": "data",
+  "depends": [
+    "sr_achievement_4.2"
+  ],
+  "payload": {
+    "operations": [
+      {
+        "action": "update",
+        "table": "game_info",
+        "values": [
+          {
+            "target": {
+              "game_id": "HSR"
+            },
+            "game_version": "4.3"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "achievement",
+        "values": [
+          {
+            "game_id": "HSR",
+            "achievement_id": 2028001,
+            "category": "通往群星的轨道",
+            "name": "禁忌推理",
+            "description": "推理要在碰杯之后※前往「酒馆」调查关于归寂存在的线索",
+            "reward_level": 2,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2028002,
+            "category": "通往群星的轨道",
+            "name": "点亮旧日的灯火",
+            "description": "出来打雪仗哟！※以过去的约定方式唤来绘世",
+            "reward_level": 2,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2028003,
+            "category": "通往群星的轨道",
+            "name": "驻足彼岸一刻",
+            "description": "跳下去吧，融化在那片蓝洞里※目睹刃前往画中世界的尽头",
+            "reward_level": 2,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2028004,
+            "category": "通往群星的轨道",
+            "name": "刃之为物",
+            "description": "何物为刃？何物消磨自身，撕碎敌雠？※刃得到了他的答案",
+            "reward_level": 2,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2028005,
+            "category": "通往群星的轨道",
+            "name": "归于空寂的玩笑",
+            "description": "解释笑话，是最恶劣的行为※目睹归寂揭晓自己的真面目",
+            "reward_level": 2,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3028001,
+            "category": "战意奔涌",
+            "name": "炉火不熄，百炼成兵",
+            "description": "战斗胜利时，千冶•刃的剩余生命值为1",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3028002,
+            "category": "战意奔涌",
+            "name": "刀声剑声打铁声，声声入耳",
+            "description": "单个回合中，使用我方角色千冶•刃施放4次【刃下，归葬】",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3028003,
+            "category": "战意奔涌",
+            "name": "万劫不复",
+            "description": "使用我方角色千冶•刃，在单次【无量忿怒】持续期间施放6次【千冶铸一，万劫烬灭】",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3028004,
+            "category": "战意奔涌",
+            "name": "炎炎消防队长",
+            "description": "在与「始作画者，无量塔绘世」的战斗中，在自身生命值较低且灭火成功率最低的情况下选择【扑灭火焰】，并成功解除【怨火灼身】状态",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3028005,
+            "category": "战意奔涌",
+            "name": "肠胃清道夫",
+            "description": "在与「吞神子嗣」的战斗中，使用我方攻击力最高的角色解除【吞噬】状态并获得额外攻击力加成",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 7028001,
+            "category": "瞬息欢愉",
+            "name": "你想堆雪人吗",
+            "description": "在「二次元JUMP！」中，被冻进冰块里",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8028001,
+            "category": "与你同行的回忆",
+            "name": "出发！星穹巴士！",
+            "description": "向虚照了解《幻月新游戏》的故事",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8028002,
+            "category": "与你同行的回忆",
+            "name": "无尽传说",
+            "description": "支持《星轨之兔》继续研发",
+            "reward_level": 1,
+            "branch_id": 50,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8028003,
+            "category": "与你同行的回忆",
+            "name": "从此，它幸福直到永远…",
+            "description": "反对《星轨之兔》继续研发",
+            "reward_level": 1,
+            "branch_id": 50,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8028004,
+            "category": "与你同行的回忆",
+            "name": "画界的守护者",
+            "description": "在渡画泉隐的法阵中召唤出「绘世」",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8028005,
+            "category": "与你同行的回忆",
+            "name": "高精力人士",
+            "description": "在鸽川区和渡画泉隐两度遇见暗布雷拉，并与其对话",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8028006,
+            "category": "与你同行的回忆",
+            "name": "银杏树之恋",
+            "description": "在车站前见证两位路人依依惜别",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8028007,
+            "category": "与你同行的回忆",
+            "name": "最终决战兵器",
+            "description": "在「像素飞机大乱斗」中，首次将一个核心装备升到三星",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8028008,
+            "category": "与你同行的回忆",
+            "name": "续火花之歌",
+            "description": "在「像素飞机大乱斗」中，使用「赛道魔术」击败火花",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8028009,
+            "category": "与你同行的回忆",
+            "name": "蓝天之下的约定",
+            "description": "在「像素飞机大乱斗」中，解锁全部像素飞机",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8028010,
+            "category": "与你同行的回忆",
+            "name": "王牌空战",
+            "description": "在「像素飞机大乱斗」中，在没有生命损失的情况下赢得巅峰对决",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8028011,
+            "category": "与你同行的回忆",
+            "name": "毕业套",
+            "description": "在「像素飞机大乱斗」中，在单局内同时拥有7个三星级装备",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8028012,
+            "category": "与你同行的回忆",
+            "name": "全机型制霸",
+            "description": "在「像素飞机大乱斗」中，使用每一架飞机赢得过比赛",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9028001,
+            "category": "众秘探奇",
+            "name": "孤高之人",
+            "description": "完成渡画泉隐的「Jump时刻」",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9028002,
+            "category": "众秘探奇",
+            "name": "躲避刺客",
+            "description": "在不被刺猬灵碰到的情况下通关渡画泉隐的「Jump时刻」",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9028003,
+            "category": "众秘探奇",
+            "name": "最后的冰霜巨人",
+            "description": "击晕卡斯佩",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9028004,
+            "category": "众秘探奇",
+            "name": "雪国",
+            "description": "在「二次元JUMP！」和卡斯佩打雪仗时，找到城堡中的隐藏宝箱",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9028005,
+            "category": "众秘探奇",
+            "name": "欢迎来到蒸汽平台",
+            "description": "在渡画泉隐的雪地温泉里泡澡",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9028006,
+            "category": "众秘探奇",
+            "name": "无头骑士逸闻录",
+            "description": "踢飞渡画泉隐所有「平平无奇的雪人」的头",
+            "reward_level": 1,
+            "game_version": "4.3"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9028007,
+            "category": "众秘探奇",
+            "name": "乐园变奏：雪孩子",
+            "description": "演奏奇异乐章，找到藏在渡画泉隐的迷之生物",
+            "reward_level": 1,
+            "game_version": "4.3"
+          }
+        ]
+      }
+    ]
+  }
+}
