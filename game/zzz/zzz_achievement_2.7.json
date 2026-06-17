@@ -60,7 +60,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008557,
+            "achievement_id": 1008059,
             "category": "际会之时",
             "name": "千锤百炼",
             "description": "在「滚烫寻鲜记」中，在白祇重工的帮助下完成糍粑制作。",
@@ -69,7 +69,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008558,
+            "achievement_id": 1008060,
             "category": "际会之时",
             "name": "料理鼠鼠",
             "description": "在「滚烫寻鲜记」中，了解到史蒂芬与鼠鼠的前尘往事。",
@@ -78,7 +78,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008559,
+            "achievement_id": 1008061,
             "category": "际会之时",
             "name": "没有火锅解决不了的事",
             "description": "在「滚烫寻鲜记」中，完成所有「寻鲜鉴品」关卡。",
@@ -87,7 +87,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008560,
+            "achievement_id": 1008062,
             "category": "际会之时",
             "name": "我是：火锅王",
             "description": "在「滚烫寻鲜记」中，「精致食味」的任意关卡美味值达到60000。",

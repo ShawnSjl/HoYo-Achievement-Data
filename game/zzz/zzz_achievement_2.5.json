@@ -204,7 +204,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008548,
+            "achievement_id": 1008050,
             "category": "际会之时",
             "name": "青溟过客",
             "description": "在「空明寻剑录」中，集齐试炼所指引的三把剑，得到青溟剑的认可。",
@@ -213,7 +213,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008549,
+            "achievement_id": 1008051,
             "category": "际会之时",
             "name": "墨中真意",
             "description": "在「空明寻剑录」中，集齐所有「剑之追忆」，还原三名剑士的过往故事。",
@@ -222,7 +222,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008550,
+            "achievement_id": 1008052,
             "category": "际会之时",
             "name": "剑主的全力！",
             "description": "在「空明寻剑录」中，通关「剑主试炼」与「梦魇连战」的所有关卡。",
@@ -231,7 +231,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008551,
+            "achievement_id": 1008053,
             "category": "际会之时",
             "name": "彼岸的故人",
             "description": "在「空明寻剑录」中，找到「仪绛」遗落的三份手记。",
@@ -240,7 +240,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008552,
+            "achievement_id": 1008054,
             "category": "际会之时",
             "name": "不再晦暗的续篇",
             "description": "在「空明寻剑录」中，帮助神秘的老者找回他缺失的故事草稿。",
