@@ -24,7 +24,7 @@
         "values": [
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005519,
+            "achievement_id": 1005021,
             "category": "法厄同纪事",
             "name": "追上光芒",
             "description": "接住下落的叶瞬光。",
@@ -33,7 +33,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005520,
+            "achievement_id": 1005022,
             "category": "法厄同纪事",
             "name": "第一缕晨曦",
             "description": "与叶瞬光和照一同调查莱姆尼安空洞的异状。",
@@ -42,7 +42,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005521,
+            "achievement_id": 1005023,
             "category": "法厄同纪事",
             "name": "光的温度",
             "description": "帮助叶瞬光重拾五感。",
@@ -51,7 +51,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005522,
+            "achievement_id": 1005024,
             "category": "法厄同纪事",
             "name": "云霾散尽叩清溟",
             "description": "击败植根于莱姆尼安空洞深处的祸乱根源。",
@@ -60,7 +60,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005523,
+            "achievement_id": 1005025,
             "category": "法厄同纪事",
             "name": "「一直记得你」",
             "description": "完成法厄同纪事「微光引灯时」。",

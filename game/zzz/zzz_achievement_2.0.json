@@ -24,7 +24,7 @@
         "values": [
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005511,
+            "achievement_id": 1005011,
             "category": "法厄同纪事",
             "name": "初入卫非地",
             "description": "在「云霞同归处」中，与橘福福一起走遍[辉瓷集市]。",
@@ -33,7 +33,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005512,
+            "achievement_id": 1005012,
             "category": "法厄同纪事",
             "name": "卫非地急救大师",
             "description": "在「云霞同归处」中，与仪玄一同拯救卫非地。",
@@ -42,7 +42,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005513,
+            "achievement_id": 1005013,
             "category": "法厄同纪事",
             "name": "今宵旧梦无缺",
             "description": "和云岿山的众人一起，化解卫非地所面对的危机。",

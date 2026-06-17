@@ -24,16 +24,37 @@
         "values": [
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005514,
+            "achievement_id": 1005014,
             "category": "法厄同纪事",
-            "name": "直觉的选择·柚叶/爱丽丝/走为上",
-            "description": "在「迟吟的浪涌」中，在牢房中寻找通风口时，先与现场的柚叶/爱丽丝/不与其他人交换情报。",
+            "name": "直觉的选择·柚叶",
+            "description": "在「迟吟的浪涌」中，在牢房中寻找通风口时，先与现场的柚叶交换情报。",
             "reward_level": 1,
+            "branch_id": 1,
             "game_version": 2.1
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005515,
+            "achievement_id": 1005015,
+            "category": "法厄同纪事",
+            "name": "直觉的选择·爱丽丝",
+            "description": "在「迟吟的浪涌」中，在牢房中寻找通风口时，先与现场的爱丽丝交换情报。",
+            "reward_level": 1,
+            "branch_id": 1,
+            "game_version": 2.1
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1005016,
+            "category": "法厄同纪事",
+            "name": "直觉的选择·走为上",
+            "description": "在「迟吟的浪涌」中，在牢房中寻找通风口时，不与其他人交换情报。",
+            "reward_level": 1,
+            "branch_id": 1,
+            "game_version": 2.1
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1005017,
             "category": "法厄同纪事",
             "name": "归岸的航程",
             "description": "完成法厄同纪事「迟吟的浪涌」。",
@@ -146,7 +167,7 @@
             "name": "相聚一刻",
             "description": "在「仲夏游梦绮谭」中，在音乐节举行前后，与视频通话过的老朋友们见面。",
             "reward_level": 1,
-            "branch_id": 1,
+            "branch_id": 2,
             "game_version": 2.1
           },
           {
@@ -156,7 +177,7 @@
             "name": "相聚一刻",
             "description": "在「仲夏游梦绮谭」中，在音乐节举行前后，与所有抵达度假村的老朋友们见面。",
             "reward_level": 1,
-            "branch_id": 1,
+            "branch_id": 2,
             "game_version": 2.1
           },
           {
