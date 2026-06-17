@@ -144,7 +144,7 @@
             "achievement_id": 3003036,
             "category": "勘域探境",
             "name": "Link Start！！",
-            "description": "在「空域监测」玩法中，找到并破坏所有的便携数据库",
+            "description": "在「空域监测」玩法中，找到并破坏所有的便携数据库。",
             "reward_level": 1,
             "game_version": "3.0"
           },
@@ -189,7 +189,7 @@
             "achievement_id": 3003041,
             "category": "勘域探境",
             "name": "疾驰所向之处",
-            "description": "发现[沉没回廊]的隐藏空间",
+            "description": "发现[沉没回廊]的隐藏空间。",
             "reward_level": 1,
             "game_version": "3.0"
           },
@@ -315,7 +315,7 @@
             "achievement_id": 2004054,
             "category": "战斗成就",
             "name": "拟境崩解协议",
-            "description": "在「拟境湮灭战」中，累计9次于3分钟内通关不同「极限」关卡",
+            "description": "在「拟境湮灭战」中，累计9次于3分钟内通关不同「极限」关卡。",
             "reward_level": 3,
             "game_version": "3.0"
           },
@@ -378,7 +378,7 @@
             "achievement_id": 4006005,
             "category": "布亚斯特",
             "name": "绿色出行",
-            "description": "在布亚斯特的每个巴士站台，都乘坐过一次浮空巴士",
+            "description": "在布亚斯特的每个巴士站台，都乘坐过一次浮空巴士。",
             "reward_level": 1,
             "game_version": "3.0"
           },
@@ -450,7 +450,7 @@
             "achievement_id": 4006013,
             "category": "布亚斯特",
             "name": "回应我吧瓶盖仙子！",
-            "description": "在艾玫尔中央公园的许愿喷泉，共计投入8枚「好运瓶盖」",
+            "description": "在艾玫尔中央公园的许愿喷泉，共计投入8枚「好运瓶盖」。",
             "reward_level": 1,
             "game_version": "3.0"
           },
