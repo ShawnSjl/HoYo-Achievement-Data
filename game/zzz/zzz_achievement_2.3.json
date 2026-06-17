@@ -24,7 +24,7 @@
         "values": [
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005517,
+            "achievement_id": 1005019,
             "category": "法厄同纪事",
             "name": "与梦同行",
             "description": "完成法厄同纪事「可曾记得梦」。",
@@ -33,7 +33,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1006516,
+            "achievement_id": 1006016,
             "category": "代理人秘闻",
             "name": "如暗影溶于夜色",
             "description": "完成卢西娅的代理人秘闻「失梦者奇谭」。",
@@ -42,7 +42,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003524,
+            "achievement_id": 3003024,
             "category": "勘域探境",
             "name": "蔓野的荒草",
             "description": "在航天城中，对[昔丘]的探索进度达到100%。",
@@ -51,7 +51,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003525,
+            "achievement_id": 3003025,
             "category": "勘域探境",
             "name": "再行一善",
             "description": "成功解救昔丘区域内受困的TOPS调查员。",
@@ -60,7 +60,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003527,
+            "achievement_id": 3003027,
             "category": "勘域探境",
             "name": "来自时间的侵蚀",
             "description": "在昔丘，遇见一位无名的老兵，并帮助他寻找曾经的队友。",
@@ -69,7 +69,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003541,
+            "achievement_id": 4003041,
             "category": "卫非地",
             "name": "相信绳网的「后果」",
             "description": "在澄辉坪，找到「请勿相信绳网」的招贴画，听听伊德海莉相信绳网的「后果」。",
@@ -78,7 +78,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003542,
+            "achievement_id": 4003042,
             "category": "卫非地",
             "name": "内心的选择",
             "description": "在「回声室」找到利蒂娅，尝试接受她的心理诊疗。",
@@ -87,7 +87,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1004560,
+            "achievement_id": 1004060,
             "category": "代理人信赖",
             "name": "夜魔使者来敲门",
             "description": "卢西娅对绳匠的信赖达到4阶。",
@@ -96,7 +96,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1004561,
+            "achievement_id": 1004061,
             "category": "代理人信赖",
             "name": "即使天无雨",
             "description": "伊德海莉对绳匠的信赖达到4阶。",
@@ -105,7 +105,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1004562,
+            "achievement_id": 1004062,
             "category": "代理人信赖",
             "name": "超企业校级大厨！",
             "description": "狛野真斗对绳匠的信赖达到4阶。",
@@ -114,7 +114,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003511,
+            "achievement_id": 2003011,
             "category": "敌对目标",
             "name": "请勿进行危险表演",
             "description": "与[凶魁愚者]作战时，发动[招架支援]、弹回它的飞刀。",
@@ -123,7 +123,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003512,
+            "achievement_id": 2003012,
             "category": "敌对目标",
             "name": "客串交通治安官",
             "description": "与[阿瓦鲁斯]作战时，在其直线冲刺期间连续完成3次[招架支援]。",
@@ -132,7 +132,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003513,
+            "achievement_id": 2003013,
             "category": "敌对目标",
             "name": "拒绝装神弄鬼！",
             "description": "与[赫由托]作战时，对其召唤出的巨大虚影完成3次[招架支援]。",
@@ -141,7 +141,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003514,
+            "achievement_id": 2003014,
             "category": "敌对目标",
             "name": "最后一次捉迷藏",
             "description": "与[彷徨猎手]作战时，在捉迷藏中找到错误的小卢西娅。",
@@ -150,7 +150,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008541,
+            "achievement_id": 1008043,
             "category": "际会之时",
             "name": "定下契约的绳匠",
             "description": "在「残梦未尽之时」中，用卢西娅的口令跟以骸定下契约。",
@@ -159,7 +159,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008542,
+            "achievement_id": 1008044,
             "category": "际会之时",
             "name": "蓝色有角三回合！",
             "description": "在「残梦未尽之时」中，在3回合内完成一场战斗。",
@@ -168,7 +168,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008543,
+            "achievement_id": 1008045,
             "category": "际会之时",
             "name": "Timing侠",
             "description": "在「残梦未尽之时」中，成功按出50次瞬时交互。",
@@ -177,7 +177,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008544,
+            "achievement_id": 1008046,
             "category": "际会之时",
             "name": "以骸，我抓到了！",
             "description": "在「残梦未尽之时」中，集齐所有己方怪物伙伴。",
@@ -186,7 +186,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008545,
+            "achievement_id": 1008047,
             "category": "际会之时",
             "name": "梦境模拟大师",
             "description": "在「残梦未尽之时」中，所有挑战关获得S评价。",
@@ -195,7 +195,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008546,
+            "achievement_id": 1008048,
             "category": "际会之时",
             "name": "残梦已尽",
             "description": "在「残梦未尽之时」中，唤醒伊德海莉。",
@@ -204,7 +204,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008547,
+            "achievement_id": 1008049,
             "category": "际会之时",
             "name": "我叫马晓第",
             "description": "在「残梦未尽之时」中，得知某位“码头小弟”的真名。",
@@ -222,7 +222,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1009511,
+            "achievement_id": 1009011,
             "category": "绳网热议",
             "name": "如果我有长长的耳朵",
             "description": "在对空六课的办公室，听到星见雅在了解联合绘画活动的事。",

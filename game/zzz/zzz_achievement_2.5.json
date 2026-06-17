@@ -24,7 +24,7 @@
         "values": [
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005519,
+            "achievement_id": 1005021,
             "category": "法厄同纪事",
             "name": "追上光芒",
             "description": "接住下落的叶瞬光。",
@@ -33,7 +33,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005520,
+            "achievement_id": 1005022,
             "category": "法厄同纪事",
             "name": "第一缕晨曦",
             "description": "与叶瞬光和照一同调查莱姆尼安空洞的异状。",
@@ -42,7 +42,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005521,
+            "achievement_id": 1005023,
             "category": "法厄同纪事",
             "name": "光的温度",
             "description": "帮助叶瞬光重拾五感。",
@@ -51,7 +51,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005522,
+            "achievement_id": 1005024,
             "category": "法厄同纪事",
             "name": "云霾散尽叩清溟",
             "description": "击败植根于莱姆尼安空洞深处的祸乱根源。",
@@ -60,7 +60,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005523,
+            "achievement_id": 1005025,
             "category": "法厄同纪事",
             "name": "「一直记得你」",
             "description": "完成法厄同纪事「微光引灯时」。",
@@ -69,7 +69,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001516,
+            "achievement_id": 4001016,
             "category": "绳匠业务",
             "name": "耳目一新",
             "description": "更换一次「功能导览」主题。",
@@ -78,7 +78,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001517,
+            "achievement_id": 4001017,
             "category": "绳匠业务",
             "name": "潮头浪尖",
             "description": "收集6套主题和挂坠。",
@@ -87,7 +87,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001518,
+            "achievement_id": 4001018,
             "category": "绳匠业务",
             "name": "萌新请问…",
             "description": "加入1个「站点」。",
@@ -96,7 +96,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001519,
+            "achievement_id": 4001019,
             "category": "绳匠业务",
             "name": "同行捧场",
             "description": "在绳网的「情报板」上发布1个委托。",
@@ -105,7 +105,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003528,
+            "achievement_id": 3003028,
             "category": "勘域探境",
             "name": "如见沧海桑田",
             "description": "对[港口工厂旧址]的探索进度达到100%。",
@@ -114,7 +114,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003529,
+            "achievement_id": 3003029,
             "category": "勘域探境",
             "name": "如历兴衰更迭",
             "description": "对[辉瓷加工基地]的探索进度达到100%。",
@@ -123,7 +123,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003530,
+            "achievement_id": 3003030,
             "category": "勘域探境",
             "name": "如越山峦叠嶂",
             "description": "对[辉岭石矿场]的探索进度达到100%。",
@@ -132,7 +132,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003531,
+            "achievement_id": 3003031,
             "category": "勘域探境",
             "name": "如入无人之境",
             "description": "对[青溟秘境]的探索进度达到100%。",
@@ -141,7 +141,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003549,
+            "achievement_id": 4003049,
             "category": "卫非地",
             "name": "一屋传家宝",
             "description": "获得所有「不掩」文玩小铺的收集品。",
@@ -150,7 +150,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003550,
+            "achievement_id": 4003050,
             "category": "卫非地",
             "name": "一瞬亦是永恒",
             "description": "在澄辉坪，查看叶瞬光房间内的照片墙。",
@@ -159,7 +159,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1004565,
+            "achievement_id": 1004065,
             "category": "代理人信赖",
             "name": "真正贵重之物无需估价",
             "description": "照对绳匠的信赖达到4阶。",
@@ -168,7 +168,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1004566,
+            "achievement_id": 1004066,
             "category": "代理人信赖",
             "name": "向着阳光灿烂的明天",
             "description": "叶瞬光对绳匠的信赖达到4阶。",
@@ -177,7 +177,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003517,
+            "achievement_id": 2003017,
             "category": "敌对目标",
             "name": "梦魇的梦魇",
             "description": "躲过[太初梦魇]控制技[秽灭烙印]的所有斩击，并打出完美反制。",
@@ -186,7 +186,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003518,
+            "achievement_id": 2003018,
             "category": "敌对目标",
             "name": "也讨厌秽息蝎子！",
             "description": "在与[秽息行者·蝎骸]的战斗中，使用招架支援或闪避反击总计格挡4次[拟态体]的攻击。",
@@ -195,7 +195,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003519,
+            "achievement_id": 2003019,
             "category": "敌对目标",
             "name": "「猪队友」",
             "description": "在与[秽蚀·捷足巡游者]和[秽蚀·重装侵袭者]的战斗中，见证他们「致命的误伤」。",
@@ -204,7 +204,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008548,
+            "achievement_id": 1008050,
             "category": "际会之时",
             "name": "青溟过客",
             "description": "在「空明寻剑录」中，集齐试炼所指引的三把剑，得到青溟剑的认可。",
@@ -213,7 +213,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008549,
+            "achievement_id": 1008051,
             "category": "际会之时",
             "name": "墨中真意",
             "description": "在「空明寻剑录」中，集齐所有「剑之追忆」，还原三名剑士的过往故事。",
@@ -222,7 +222,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008550,
+            "achievement_id": 1008052,
             "category": "际会之时",
             "name": "剑主的全力！",
             "description": "在「空明寻剑录」中，通关「剑主试炼」与「梦魇连战」的所有关卡。",
@@ -231,7 +231,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008551,
+            "achievement_id": 1008053,
             "category": "际会之时",
             "name": "彼岸的故人",
             "description": "在「空明寻剑录」中，找到「仪绛」遗落的三份手记。",
@@ -240,7 +240,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008552,
+            "achievement_id": 1008054,
             "category": "际会之时",
             "name": "不再晦暗的续篇",
             "description": "在「空明寻剑录」中，帮助神秘的老者找回他缺失的故事草稿。",
@@ -258,7 +258,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1009514,
+            "achievement_id": 1009014,
             "category": "绳网热议",
             "name": "你就说过没过吧",
             "description": "在绳网回复帖子「第一次玩玛瑟尔迷宫，感觉也不是很难」。",

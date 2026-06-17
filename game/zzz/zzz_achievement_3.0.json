@@ -24,7 +24,7 @@
         "values": [
           {
             "game_id": "ZZZ",
-            "achievement_id": 1005527,
+            "achievement_id": 1005029,
             "category": "法厄同纪事",
             "name": "苏醒之日",
             "description": "完成法厄同纪事「某个梦游者的自白」。",
@@ -33,7 +33,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001522,
+            "achievement_id": 4001022,
             "category": "绳匠业务",
             "name": "「连邦」的启航",
             "description": "「布连邦」账号等级达到20级。",
@@ -42,7 +42,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001523,
+            "achievement_id": 4001023,
             "category": "绳匠业务",
             "name": "伟大「连邦」计划",
             "description": "「布连邦」账号等级达到45级。",
@@ -51,7 +51,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2002506,
+            "achievement_id": 2002055,
             "category": "作战技巧",
             "name": "风起云涌Ⅰ",
             "description": "在战斗中，累计触发10次「风属性异常」效果。",
@@ -60,7 +60,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2002507,
+            "achievement_id": 2002056,
             "category": "作战技巧",
             "name": "风起云涌Ⅱ",
             "description": "在战斗中，累计触发50次「风属性异常」效果。",
@@ -69,7 +69,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2002508,
+            "achievement_id": 2002057,
             "category": "作战技巧",
             "name": "风起云涌Ⅲ",
             "description": "在战斗中，累计触发200次「风属性异常」效果。",
@@ -78,7 +78,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2002509,
+            "achievement_id": 2002058,
             "category": "作战技巧",
             "name": "星落云散Ⅰ",
             "description": "在战斗中，累计触发10次「乱流」效果。",
@@ -87,7 +87,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003010,
+            "achievement_id": 2002059,
             "category": "作战技巧",
             "name": "星落云散Ⅱ",
             "description": "在战斗中，累计触发50次「乱流」效果。",
@@ -96,7 +96,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003011,
+            "achievement_id": 2002060,
             "category": "作战技巧",
             "name": "星落云散Ⅲ",
             "description": "在战斗中，累计触发200次「乱流」效果。",
@@ -105,7 +105,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003532,
+            "achievement_id": 3003032,
             "category": "勘域探境",
             "name": "秘技：反复横跳",
             "description": "在「环空运轨」玩法中，成功切换轨道三次。",
@@ -114,7 +114,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003533,
+            "achievement_id": 3003033,
             "category": "勘域探境",
             "name": "人生呐，能不能放过…",
             "description": "在「环空运轨」玩法中，「不小心」撞飞其他滑行中的邦布机甲。",
@@ -123,7 +123,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003534,
+            "achievement_id": 3003034,
             "category": "勘域探境",
             "name": "定点爆破",
             "description": "在「空域监测」玩法中，破坏一次能量屏障。",
@@ -132,7 +132,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003535,
+            "achievement_id": 3003035,
             "category": "勘域探境",
             "name": "定点点点爆破",
             "description": "在「空域监测」玩法中，破坏所有能量屏障。",
@@ -141,7 +141,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003536,
+            "achievement_id": 3003036,
             "category": "勘域探境",
             "name": "Link Start！！",
             "description": "在「空域监测」玩法中，找到并破坏所有的便携数据库",
@@ -150,7 +150,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003537,
+            "achievement_id": 3003037,
             "category": "勘域探境",
             "name": "这才叫有力气",
             "description": "在沉没回廊中，暴力破解空洞的陷阱。",
@@ -159,7 +159,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003538,
+            "achievement_id": 3003038,
             "category": "勘域探境",
             "name": "请遵守飞行管理条例！",
             "description": "接管无人机并进行操作的过程中，因太过靠近代理人而被「提醒」。",
@@ -168,7 +168,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003539,
+            "achievement_id": 3003039,
             "category": "勘域探境",
             "name": "谜题所登之阶",
             "description": "发现[算枢局]的隐藏空间。",
@@ -177,7 +177,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003540,
+            "achievement_id": 3003040,
             "category": "勘域探境",
             "name": "窥视所及之物",
             "description": "发现[能源区]的隐藏空间。",
@@ -186,7 +186,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003541,
+            "achievement_id": 3003041,
             "category": "勘域探境",
             "name": "疾驰所向之处",
             "description": "发现[沉没回廊]的隐藏空间",
@@ -195,7 +195,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003542,
+            "achievement_id": 3003042,
             "category": "勘域探境",
             "name": "踏遍算枢局",
             "description": "[算枢局]的探索进度达到100%。",
@@ -204,7 +204,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003543,
+            "achievement_id": 3003043,
             "category": "勘域探境",
             "name": "踏遍能源区",
             "description": "[能源区]的探索进度达到100%。",
@@ -213,7 +213,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003544,
+            "achievement_id": 3003044,
             "category": "勘域探境",
             "name": "踏遍沉没回廊",
             "description": "[沉没回廊]的探索进度达到100%。",
@@ -222,7 +222,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1004572,
+            "achievement_id": 1004072,
             "category": "代理人信赖",
             "name": "特殊优待",
             "description": "维琳娜对绳匠的信赖达到4阶。",
@@ -231,7 +231,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1004573,
+            "achievement_id": 1004073,
             "category": "代理人信赖",
             "name": "邦布耳朵摸不得",
             "description": "诺姆对绳匠的信赖达到4阶。",
@@ -240,7 +240,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003524,
+            "achievement_id": 2003024,
             "category": "敌对目标",
             "name": "专业杀「虫」技巧",
             "description": "与[基塔布鲁]作战时，连续招架其开启[侵蚀壁垒]后的三次攻击，在最末一次触发连携招架。",
@@ -249,7 +249,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003525,
+            "achievement_id": 2003025,
             "category": "敌对目标",
             "name": "拆卸专家 · 空域版",
             "description": "与「空域戒戍者」作战时，在同一场战斗中通过攻击其核心造成两次「部位破坏」。",
@@ -258,7 +258,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003526,
+            "achievement_id": 2003026,
             "category": "敌对目标",
             "name": "「人来了！」",
             "description": "连续接近并恐吓同一只[畸变骸蚁]3次。",
@@ -267,7 +267,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008561,
+            "achievement_id": 1008063,
             "category": "际会之时",
             "name": "然后，我们去往明天",
             "description": "在「邦邦！天才与奇迹芯片」中，与邦布们圆满举办聚会。",
@@ -276,7 +276,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008562,
+            "achievement_id": 1008064,
             "category": "际会之时",
             "name": "好「邦手」的好帮手",
             "description": "在「邦邦！天才与奇迹芯片」中，「数域特训」通关第60关。",
@@ -285,7 +285,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008563,
+            "achievement_id": 1008065,
             "category": "际会之时",
             "name": "现在，谁是压力魔王？",
             "description": "在「邦邦！天才与奇迹芯片」中，挑战「高压测试」内所有60级强敌并获得挑战积分。",
@@ -294,7 +294,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008564,
+            "achievement_id": 1008066,
             "category": "际会之时",
             "name": "如有八卦，记得找我",
             "description": "在「邦邦！天才与奇迹芯片」中，收录全部「城市记闻」。",
@@ -303,7 +303,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1008565,
+            "achievement_id": 1008067,
             "category": "际会之时",
             "name": "人靠衣装「布」靠伪装",
             "description": "在「邦邦！天才与奇迹芯片」中，帮助杰克完成换装。",
@@ -339,7 +339,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001001,
+            "achievement_id": 4006001,
             "category": "布亚斯特",
             "name": "全域视野，启动！",
             "description": "在罗斯凯利法，解锁「全域终端权限」。",
@@ -348,7 +348,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001002,
+            "achievement_id": 4006002,
             "category": "布亚斯特",
             "name": "青春一页",
             "description": "在「琥珀馆」一楼，参与一次奥蕾莉亚学院学生们的沙龙聚会。",
@@ -357,7 +357,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001003,
+            "achievement_id": 4006003,
             "category": "布亚斯特",
             "name": "Radio Ga Ga",
             "description": "在「琥珀馆」房间内，完整收听一次收音机的节目。",
@@ -366,7 +366,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001004,
+            "achievement_id": 4006004,
             "category": "布亚斯特",
             "name": "被时间所遗忘的",
             "description": "在布亚斯特中，发现被「遗忘」的浮空巴士终点站。",
@@ -375,7 +375,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001005,
+            "achievement_id": 4006005,
             "category": "布亚斯特",
             "name": "绿色出行",
             "description": "在布亚斯特的每个巴士站台，都乘坐过一次浮空巴士",
@@ -384,7 +384,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001006,
+            "achievement_id": 4006006,
             "category": "布亚斯特",
             "name": "茶与猫",
             "description": "在「片刻闲」，收养四只小猫，见证茶屋变成猫咖。",
@@ -393,7 +393,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001007,
+            "achievement_id": 4006007,
             "category": "布亚斯特",
             "name": "嗯~幸福的味道！",
             "description": "在「布司康」，首次试吃枫糖大胆创新的试作面包。",
@@ -402,7 +402,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001008,
+            "achievement_id": 4006008,
             "category": "布亚斯特",
             "name": "第一发！",
             "description": "在「吼吼饼铺」，抽取一次零食盲盒并搜集其中的数据卡片。",
@@ -411,7 +411,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001009,
+            "achievement_id": 4006009,
             "category": "布亚斯特",
             "name": "吼吼！是全图鉴！",
             "description": "在「吼吼饼铺」抽取零食盲盒，完成全部数据卡片搜集任务。",
@@ -420,7 +420,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001010,
+            "achievement_id": 4006010,
             "category": "布亚斯特",
             "name": "登高望远",
             "description": "在布亚斯特，首次使用望远镜观景。",
@@ -429,7 +429,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001011,
+            "achievement_id": 4006011,
             "category": "布亚斯特",
             "name": "观棋不可不语",
             "description": "在艾玫尔中央公园，插手两场「国王邦邦棋」的对决。",
@@ -438,7 +438,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001012,
+            "achievement_id": 4006012,
             "category": "布亚斯特",
             "name": "交流还是直流？",
             "description": "利用「全域终端权限」，使邦布充电桩过载四次。",
@@ -447,7 +447,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001013,
+            "achievement_id": 4006013,
             "category": "布亚斯特",
             "name": "回应我吧瓶盖仙子！",
             "description": "在艾玫尔中央公园的许愿喷泉，共计投入8枚「好运瓶盖」",
@@ -456,7 +456,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001014,
+            "achievement_id": 4006014,
             "category": "布亚斯特",
             "name": "高雅的观剧人士",
             "description": "在「焦点剧场」，观看两场邦布戏剧。",
@@ -465,7 +465,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001015,
+            "achievement_id": 4006015,
             "category": "布亚斯特",
             "name": "老师集个邮！",
             "description": "在「焦点剧场」，和所有「角色扮演」的邦布交谈。",
@@ -474,7 +474,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001016,
+            "achievement_id": 4006016,
             "category": "布亚斯特",
             "name": "空岛赏金猎人",
             "description": "在布亚斯特，找到所有地图上的小卡格车。",
@@ -483,7 +483,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001017,
+            "achievement_id": 4006017,
             "category": "布亚斯特",
             "name": "考古专家",
             "description": "发现布亚斯特的所有建筑铭牌。",
@@ -492,7 +492,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001018,
+            "achievement_id": 4006018,
             "category": "布亚斯特",
             "name": "业余侦探琐事录",
             "description": "在「跛脚乌鸦奇闻录」中，完成科洛和阿跛的全部委托。",
