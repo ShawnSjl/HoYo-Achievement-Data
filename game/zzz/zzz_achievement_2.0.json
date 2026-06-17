@@ -87,7 +87,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001501,
+            "achievement_id": 4001001,
             "category": "绳匠业务",
             "name": "枯树生花时",
             "description": "随便观的[复兴等级]达到35级。",
@@ -96,7 +96,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001502,
+            "achievement_id": 4001002,
             "category": "绳匠业务",
             "name": "诚信经营致富计划",
             "description": "在随便观中，生产2000件货品。",
@@ -105,7 +105,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001503,
+            "achievement_id": 4001003,
             "category": "绳匠业务",
             "name": "积沙成塔致富计划",
             "description": "在随便观中，通过[拾遗]获得1500枚云纹徽。",
@@ -114,7 +114,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001504,
+            "achievement_id": 4001004,
             "category": "绳匠业务",
             "name": "随便观经营专家Ⅰ",
             "description": "随便观的累计营业额达到4000枚云纹徽。",
@@ -123,7 +123,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001505,
+            "achievement_id": 4001005,
             "category": "绳匠业务",
             "name": "随便观经营专家Ⅱ",
             "description": "随便观的累计营业额达到30000枚云纹徽。",
@@ -132,7 +132,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001506,
+            "achievement_id": 4001006,
             "category": "绳匠业务",
             "name": "随便观经营专家Ⅲ",
             "description": "随便观的累计营业额达到400000枚云纹徽。",
@@ -141,7 +141,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001507,
+            "achievement_id": 4001007,
             "category": "绳匠业务",
             "name": "流水线考察",
             "description": "在随便观的[游历]中，所有制造区的Ⅰ、Ⅱ、Ⅲ页签的评分都达到100。",
@@ -150,7 +150,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001508,
+            "achievement_id": 4001008,
             "category": "绳匠业务",
             "name": "旧社区调研",
             "description": "在随便观的[游历]中，所有社区旧址的Ⅰ、Ⅱ、Ⅲ页签的评分都达到100。",
@@ -159,7 +159,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001509,
+            "achievement_id": 4001009,
             "category": "绳匠业务",
             "name": "科研院重游",
             "description": "在随便观的[游历]中，所有研究院旧址的Ⅰ、Ⅱ、Ⅲ页签的评分都达到100。",
@@ -168,7 +168,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001510,
+            "achievement_id": 4001010,
             "category": "绳匠业务",
             "name": "得力助手·迷你版",
             "description": "为复兴随便观，从「邦巢」招募1只S级邦布。",
@@ -177,7 +177,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001511,
+            "achievement_id": 4001011,
             "category": "绳匠业务",
             "name": "迷你助手·进阶版",
             "description": "为复兴随便观，将1只邦布提升至30级。",
@@ -186,7 +186,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001512,
+            "achievement_id": 4001012,
             "category": "绳匠业务",
             "name": "新业务成立中",
             "description": "在「饮茶仙」，完成5次订单提交。",
@@ -195,7 +195,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001513,
+            "achievement_id": 4001013,
             "category": "绳匠业务",
             "name": "金融业的第一步",
             "description": "在「德丰大押」，消耗2500枚「百通宝」。",
@@ -204,7 +204,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001514,
+            "achievement_id": 4001014,
             "category": "绳匠业务",
             "name": "专业探索团队",
             "description": "在随便观的[游历]中，所有[深处] 的区域评分都达到100。",
@@ -222,7 +222,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4002501,
+            "achievement_id": 4002001,
             "category": "雅努斯区",
             "name": "「纪实向影片」",
             "description": "在引力电影院，和电影《下班神话》的宣传板合影。",
@@ -393,7 +393,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003505,
+            "achievement_id": 4003005,
             "category": "卫非地",
             "name": "应算尽算",
             "description": "在「问机算卜」中，收集「卦象集录」中的全部卦象。",
@@ -402,7 +402,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003506,
+            "achievement_id": 4003006,
             "category": "卫非地",
             "name": "复兴第一步！",
             "description": "与狮耶达成「复兴随便观」的共识。",
@@ -411,7 +411,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003507,
+            "achievement_id": 4003007,
             "category": "卫非地",
             "name": "邦布的旅途",
             "description": "派遣邦布[摆布]完成一次「游历」。",
@@ -420,7 +420,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003508,
+            "achievement_id": 4003008,
             "category": "卫非地",
             "name": "「得闲饮茶！」",
             "description": "解锁澄辉坪的「饮茶仙」。",
@@ -429,7 +429,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003509,
+            "achievement_id": 4003009,
             "category": "卫非地",
             "name": "三点几嘞，饮茶先嘞",
             "description": "在下午时段，光顾[饮茶仙]。",
@@ -438,7 +438,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003510,
+            "achievement_id": 4003010,
             "category": "卫非地",
             "name": "「物美价廉！」",
             "description": "解锁澄辉坪的「好物铺」。",
@@ -447,7 +447,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003511,
+            "achievement_id": 4003011,
             "category": "卫非地",
             "name": "「童叟无欺！」",
             "description": "解锁澄辉坪的「德丰大押」。",
@@ -456,7 +456,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003512,
+            "achievement_id": 4003012,
             "category": "卫非地",
             "name": "「邦布代班！」",
             "description": "解锁澄辉坪的「邦巢」。",
@@ -465,7 +465,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003513,
+            "achievement_id": 4003013,
             "category": "卫非地",
             "name": "「凉茶下火！」",
             "description": "到「平心堂」找壳哩布买凉茶。",
@@ -474,7 +474,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003514,
+            "achievement_id": 4003014,
             "category": "卫非地",
             "name": "另辟蹊径的激励计划",
             "description": "发现关于「辉瓷布」的真相。",
@@ -483,7 +483,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003515,
+            "achievement_id": 4003015,
             "category": "卫非地",
             "name": "飞往思念的地方",
             "description": "成功复兴随便观，重新举办伏汐会。",
@@ -492,7 +492,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003516,
+            "achievement_id": 4003016,
             "category": "卫非地",
             "name": "最终解释权归谁所有",
             "description": "在随便观的门前，听到关于奇怪雕塑设计意图的讨论。",
@@ -501,7 +501,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003517,
+            "achievement_id": 4003017,
             "category": "卫非地",
             "name": "咪咪？木头咪咪！",
             "description": "在「不掩」的橱窗外，偶遇和根雕造型相似的小猫。",
@@ -510,7 +510,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003522,
+            "achievement_id": 4003022,
             "category": "卫非地",
             "name": "「上次不算，再来！」",
             "description": "在澄辉坪，听到正林和「白衣女子」多次交手未果的故事。",
@@ -519,7 +519,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003523,
+            "achievement_id": 4003023,
             "category": "卫非地",
             "name": "卫非地平凡故事",
             "description": "在澄辉坪，听到春实和秋华努力打工的故事。",
@@ -528,7 +528,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003524,
+            "achievement_id": 4003024,
             "category": "卫非地",
             "name": "故人就错过",
             "description": "在澄辉坪，听到青云和沧海寻找彼此却遗憾错过的故事。",
@@ -537,7 +537,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003525,
+            "achievement_id": 4003025,
             "category": "卫非地",
             "name": "「侠之道」",
             "description": "在澄辉坪，见证阿吉的「大侠之路」。",
@@ -546,7 +546,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4003526,
+            "achievement_id": 4003026,
             "category": "卫非地",
             "name": "持家之熊",
             "description": "在澄辉坪，「学习」到潘引壶操持事务的节俭手段。",

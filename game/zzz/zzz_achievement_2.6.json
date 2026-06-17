@@ -114,7 +114,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001520,
+            "achievement_id": 4001020,
             "category": "绳匠业务",
             "name": "精选后的新世界",
             "description": "在绳网上阅读并回复1条「Fairy精选」帖子。",
@@ -123,7 +123,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001521,
+            "achievement_id": 4001021,
             "category": "绳匠业务",
             "name": "精选帖核心受众",
             "description": "在绳网上阅读并回复10条「Fairy精选」帖子",
@@ -132,7 +132,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4002502,
+            "achievement_id": 4002002,
             "category": "雅努斯区",
             "name": "鸡蛋的魅力时刻",
             "description": "在「404」帮助路过的老奶奶领到鸡蛋。",
@@ -141,7 +141,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4002503,
+            "achievement_id": 4002003,
             "category": "雅努斯区",
             "name": "天气晴朗，宜观演",
             "description": "与「妄想天使」的成员一起观看「天气预报」的演出。",
@@ -150,7 +150,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4002504,
+            "achievement_id": 4002004,
             "category": "雅努斯区",
             "name": "本场演出暂不开票",
             "description": "按照爱芮的提示，在早上来到「404」听塞西莉亚的独唱。",
@@ -159,7 +159,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4002505,
+            "achievement_id": 4002005,
             "category": "雅努斯区",
             "name": "还要再听亿次！",
             "description": "于早上的「404」中，再一次听塞西莉亚的独唱。",
@@ -168,7 +168,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4002506,
+            "achievement_id": 4002006,
             "category": "雅努斯区",
             "name": "Call声嘹亮",
             "description": "在「404」的门口，见到没能进场却依然热情十足的粉丝。",
@@ -177,7 +177,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4002507,
+            "achievement_id": 4002007,
             "category": "雅努斯区",
             "name": "邦布自有高招",
             "description": "在邦布演出日，找到自带垫脚物的鲨牙布和工程布。",
@@ -186,7 +186,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4002508,
+            "achievement_id": 4002008,
             "category": "雅努斯区",
             "name": "易拉宝巡礼",
             "description": "在「404」中，分别查看四个偶像组合的海报架。",
@@ -195,7 +195,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4002509,
+            "achievement_id": 4002009,
             "category": "雅努斯区",
             "name": "谁会不喜欢邦布呢？",
             "description": "在「satellite」的合影会上，与组合成员拍摄大合照。",
@@ -204,7 +204,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4002510,
+            "achievement_id": 4002010,
             "category": "雅努斯区",
             "name": "核心粉丝的基本操作",
             "description": "参加「天气预报」的合影会，分别与三名成员合照。",
@@ -213,7 +213,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4002511,
+            "achievement_id": 4002011,
             "category": "雅努斯区",
             "name": "我什么都不缺了！",
             "description": "参加「妄想天使」的合影会，分别与三名成员合照。",
@@ -222,7 +222,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4002512,
+            "achievement_id": 4002012,
             "category": "雅努斯区",
             "name": "「天气预报」的絮语",
             "description": "在下午时段的「404」中，累计触发7段与「天气预报」成员的对话。",
@@ -231,7 +231,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4002513,
+            "achievement_id": 4002013,
             "category": "雅努斯区",
             "name": "好多熟人呀",
             "description": "与来到「404」观看演出的代理人们聊天。",
@@ -240,11 +240,22 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 1001172,
+            "achievement_id": 4005005,
             "category": "索恩区",
             "name": "有借无还",
-            "description": "找南升询问典藏版「铅黄都市」的下落，得到租借小票/得到南升送来的典藏版「铅黄都市」录像带的租借小票。",
+            "description": "找南升询问典藏版「铅黄都市」的下落，得到租借小票。",
             "reward_level": 1,
+            "branch_id": 5,
+            "game_version": "2.6"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4005006,
+            "category": "索恩区",
+            "name": "有借无还",
+            "description": "得到南升送来的典藏版「铅黄都市」录像带的租借小票。",
+            "reward_level": 1,
+            "branch_id": 5,
             "game_version": "2.6"
           },
           {

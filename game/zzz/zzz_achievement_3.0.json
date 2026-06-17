@@ -33,7 +33,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001522,
+            "achievement_id": 4001022,
             "category": "绳匠业务",
             "name": "「连邦」的启航",
             "description": "「布连邦」账号等级达到20级。",
@@ -42,7 +42,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 4001523,
+            "achievement_id": 4001023,
             "category": "绳匠业务",
             "name": "伟大「连邦」计划",
             "description": "「布连邦」账号等级达到45级。",
@@ -339,7 +339,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001001,
+            "achievement_id": 4006001,
             "category": "布亚斯特",
             "name": "全域视野，启动！",
             "description": "在罗斯凯利法，解锁「全域终端权限」。",
@@ -348,7 +348,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001002,
+            "achievement_id": 4006002,
             "category": "布亚斯特",
             "name": "青春一页",
             "description": "在「琥珀馆」一楼，参与一次奥蕾莉亚学院学生们的沙龙聚会。",
@@ -357,7 +357,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001003,
+            "achievement_id": 4006003,
             "category": "布亚斯特",
             "name": "Radio Ga Ga",
             "description": "在「琥珀馆」房间内，完整收听一次收音机的节目。",
@@ -366,7 +366,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001004,
+            "achievement_id": 4006004,
             "category": "布亚斯特",
             "name": "被时间所遗忘的",
             "description": "在布亚斯特中，发现被「遗忘」的浮空巴士终点站。",
@@ -375,7 +375,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001005,
+            "achievement_id": 4006005,
             "category": "布亚斯特",
             "name": "绿色出行",
             "description": "在布亚斯特的每个巴士站台，都乘坐过一次浮空巴士",
@@ -384,7 +384,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001006,
+            "achievement_id": 4006006,
             "category": "布亚斯特",
             "name": "茶与猫",
             "description": "在「片刻闲」，收养四只小猫，见证茶屋变成猫咖。",
@@ -393,7 +393,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001007,
+            "achievement_id": 4006007,
             "category": "布亚斯特",
             "name": "嗯~幸福的味道！",
             "description": "在「布司康」，首次试吃枫糖大胆创新的试作面包。",
@@ -402,7 +402,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001008,
+            "achievement_id": 4006008,
             "category": "布亚斯特",
             "name": "第一发！",
             "description": "在「吼吼饼铺」，抽取一次零食盲盒并搜集其中的数据卡片。",
@@ -411,7 +411,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001009,
+            "achievement_id": 4006009,
             "category": "布亚斯特",
             "name": "吼吼！是全图鉴！",
             "description": "在「吼吼饼铺」抽取零食盲盒，完成全部数据卡片搜集任务。",
@@ -420,7 +420,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001010,
+            "achievement_id": 4006010,
             "category": "布亚斯特",
             "name": "登高望远",
             "description": "在布亚斯特，首次使用望远镜观景。",
@@ -429,7 +429,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001011,
+            "achievement_id": 4006011,
             "category": "布亚斯特",
             "name": "观棋不可不语",
             "description": "在艾玫尔中央公园，插手两场「国王邦邦棋」的对决。",
@@ -438,7 +438,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001012,
+            "achievement_id": 4006012,
             "category": "布亚斯特",
             "name": "交流还是直流？",
             "description": "利用「全域终端权限」，使邦布充电桩过载四次。",
@@ -447,7 +447,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001013,
+            "achievement_id": 4006013,
             "category": "布亚斯特",
             "name": "回应我吧瓶盖仙子！",
             "description": "在艾玫尔中央公园的许愿喷泉，共计投入8枚「好运瓶盖」",
@@ -456,7 +456,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001014,
+            "achievement_id": 4006014,
             "category": "布亚斯特",
             "name": "高雅的观剧人士",
             "description": "在「焦点剧场」，观看两场邦布戏剧。",
@@ -465,7 +465,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001015,
+            "achievement_id": 4006015,
             "category": "布亚斯特",
             "name": "老师集个邮！",
             "description": "在「焦点剧场」，和所有「角色扮演」的邦布交谈。",
@@ -474,7 +474,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001016,
+            "achievement_id": 4006016,
             "category": "布亚斯特",
             "name": "空岛赏金猎人",
             "description": "在布亚斯特，找到所有地图上的小卡格车。",
@@ -483,7 +483,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001017,
+            "achievement_id": 4006017,
             "category": "布亚斯特",
             "name": "考古专家",
             "description": "发现布亚斯特的所有建筑铭牌。",
@@ -492,7 +492,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 5001018,
+            "achievement_id": 4006018,
             "category": "布亚斯特",
             "name": "业余侦探琐事录",
             "description": "在「跛脚乌鸦奇闻录」中，完成科洛和阿跛的全部委托。",
