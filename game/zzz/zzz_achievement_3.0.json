@@ -105,7 +105,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003532,
+            "achievement_id": 3003032,
             "category": "勘域探境",
             "name": "秘技：反复横跳",
             "description": "在「环空运轨」玩法中，成功切换轨道三次。",
@@ -114,7 +114,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003533,
+            "achievement_id": 3003033,
             "category": "勘域探境",
             "name": "人生呐，能不能放过…",
             "description": "在「环空运轨」玩法中，「不小心」撞飞其他滑行中的邦布机甲。",
@@ -123,7 +123,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003534,
+            "achievement_id": 3003034,
             "category": "勘域探境",
             "name": "定点爆破",
             "description": "在「空域监测」玩法中，破坏一次能量屏障。",
@@ -132,7 +132,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003535,
+            "achievement_id": 3003035,
             "category": "勘域探境",
             "name": "定点点点爆破",
             "description": "在「空域监测」玩法中，破坏所有能量屏障。",
@@ -141,7 +141,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003536,
+            "achievement_id": 3003036,
             "category": "勘域探境",
             "name": "Link Start！！",
             "description": "在「空域监测」玩法中，找到并破坏所有的便携数据库",
@@ -150,7 +150,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003537,
+            "achievement_id": 3003037,
             "category": "勘域探境",
             "name": "这才叫有力气",
             "description": "在沉没回廊中，暴力破解空洞的陷阱。",
@@ -159,7 +159,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003538,
+            "achievement_id": 3003038,
             "category": "勘域探境",
             "name": "请遵守飞行管理条例！",
             "description": "接管无人机并进行操作的过程中，因太过靠近代理人而被「提醒」。",
@@ -168,7 +168,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003539,
+            "achievement_id": 3003039,
             "category": "勘域探境",
             "name": "谜题所登之阶",
             "description": "发现[算枢局]的隐藏空间。",
@@ -177,7 +177,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003540,
+            "achievement_id": 3003040,
             "category": "勘域探境",
             "name": "窥视所及之物",
             "description": "发现[能源区]的隐藏空间。",
@@ -186,7 +186,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003541,
+            "achievement_id": 3003041,
             "category": "勘域探境",
             "name": "疾驰所向之处",
             "description": "发现[沉没回廊]的隐藏空间",
@@ -195,7 +195,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003542,
+            "achievement_id": 3003042,
             "category": "勘域探境",
             "name": "踏遍算枢局",
             "description": "[算枢局]的探索进度达到100%。",
@@ -204,7 +204,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003543,
+            "achievement_id": 3003043,
             "category": "勘域探境",
             "name": "踏遍能源区",
             "description": "[能源区]的探索进度达到100%。",
@@ -213,7 +213,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003544,
+            "achievement_id": 3003044,
             "category": "勘域探境",
             "name": "踏遍沉没回廊",
             "description": "[沉没回廊]的探索进度达到100%。",

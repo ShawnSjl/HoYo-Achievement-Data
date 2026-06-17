@@ -338,7 +338,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003520,
+            "achievement_id": 3003020,
             "category": "勘域探境",
             "name": "「箱」不厌诈",
             "description": "在[航天城]的材料实验室废墟中，帮助两名盗洞客击败渔人蟹。",
@@ -347,7 +347,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003521,
+            "achievement_id": 3003021,
             "category": "勘域探境",
             "name": "又行一善",
             "description": "在[航天城]中，找到材料实验室废墟内受困的TOPS调查员，与其对话并成功解救她。",
@@ -356,7 +356,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003522,
+            "achievement_id": 3003022,
             "category": "勘域探境",
             "name": "干涸的试剂",
             "description": "在航天城中，对[幽闭密所·材料实验室]的探索进度达到100%。",
@@ -365,7 +365,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003523,
+            "achievement_id": 3003023,
             "category": "勘域探境",
             "name": "无主的货箱",
             "description": "在航天城中，对[社区储运站]的探索进度达到100%。",

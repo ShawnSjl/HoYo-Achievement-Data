@@ -231,7 +231,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003501,
+            "achievement_id": 3003001,
             "category": "勘域探境",
             "name": "新视界",
             "description": "首次开启[觉感术]能力。",
@@ -240,7 +240,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003502,
+            "achievement_id": 3003002,
             "category": "勘域探境",
             "name": "「打一下试试」",
             "description": "击败[渔人蟹]并获得意外奖励。",
@@ -249,7 +249,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003503,
+            "achievement_id": 3003003,
             "category": "勘域探境",
             "name": "门可以从这一侧打开",
             "description": "从正确的方向打开单向机械制动门扉。",
@@ -258,7 +258,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003504,
+            "achievement_id": 3003004,
             "category": "勘域探境",
             "name": "另类解压法",
             "description": "运用[觉感术]快速连击破坏多个[秽息瘿]。",
@@ -267,7 +267,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003505,
+            "achievement_id": 3003005,
             "category": "勘域探境",
             "name": "堂堂正正的对战",
             "description": "成功关闭屏障发生器。",
@@ -276,7 +276,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003506,
+            "achievement_id": 3003006,
             "category": "勘域探境",
             "name": "拒绝返场演出",
             "description": "与[阿卡沃尔]交锋，并在其复活后再次将其击败。",
@@ -285,7 +285,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003507,
+            "achievement_id": 3003007,
             "category": "勘域探境",
             "name": "拒绝山顶观演",
             "description": "与[阿卡沃尔]交锋，并在其处于远程模式下时将其击败。",
@@ -294,7 +294,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003508,
+            "achievement_id": 3003008,
             "category": "勘域探境",
             "name": "日行一善",
             "description": "成功解救科研院旧址内受困的TOPS调查员。",
@@ -303,7 +303,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003509,
+            "achievement_id": 3003009,
             "category": "勘域探境",
             "name": "欢庆之跃！",
             "description": "在[玛瑟尔档案]中，收集1个[欢庆之旗]。",
@@ -312,7 +312,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003511,
+            "achievement_id": 3003011,
             "category": "勘域探境",
             "name": "迷你冒险大胜利！",
             "description": "在[玛瑟尔档案]中，收集6个[欢庆之旗]。",
@@ -321,7 +321,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003512,
+            "achievement_id": 3003012,
             "category": "勘域探境",
             "name": "辉瓷的心脏",
             "description": "在航天城中，完成[中央制造区]区域的全收集。",
@@ -330,7 +330,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003513,
+            "achievement_id": 3003013,
             "category": "勘域探境",
             "name": "停摆的时钟",
             "description": "在航天城中，完成[职工社区旧址]区域的全收集。",
@@ -339,7 +339,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003514,
+            "achievement_id": 3003014,
             "category": "勘域探境",
             "name": "蒙尘的图纸",
             "description": "在航天城中，完成[科研院旧址]区域的全收集。",
@@ -348,7 +348,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003515,
+            "achievement_id": 3003015,
             "category": "勘域探境",
             "name": "锈蚀的器械",
             "description": "在航天城中，完成[粗加工中心]区域的全收集。",
@@ -357,7 +357,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003516,
+            "achievement_id": 3003016,
             "category": "勘域探境",
             "name": "沉默的磁带",
             "description": "在航天城中，完成[轻松公寓]区域的全收集。",
@@ -366,7 +366,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003517,
+            "achievement_id": 3003017,
             "category": "勘域探境",
             "name": "封缄的眺望",
             "description": "在航天城中，完成[航天科学站]区域的全收集。",
@@ -375,7 +375,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003518,
+            "achievement_id": 3003018,
             "category": "勘域探境",
             "name": "「曾想摘星辰」",
             "description": "在航天城中，对所有区域的总探索进度达到100%。",
@@ -384,7 +384,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 3003519,
+            "achievement_id": 3003019,
             "category": "勘域探境",
             "name": "踏遍昔日回响",
             "description": "在航天城中，找到12处承载「航天城记忆」的特殊物件，并进行调查。",
