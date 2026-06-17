@@ -51,7 +51,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2002506,
+            "achievement_id": 2002055,
             "category": "作战技巧",
             "name": "风起云涌Ⅰ",
             "description": "在战斗中，累计触发10次「风属性异常」效果。",
@@ -60,7 +60,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2002507,
+            "achievement_id": 2002056,
             "category": "作战技巧",
             "name": "风起云涌Ⅱ",
             "description": "在战斗中，累计触发50次「风属性异常」效果。",
@@ -69,7 +69,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2002508,
+            "achievement_id": 2002057,
             "category": "作战技巧",
             "name": "风起云涌Ⅲ",
             "description": "在战斗中，累计触发200次「风属性异常」效果。",
@@ -78,7 +78,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2002509,
+            "achievement_id": 2002058,
             "category": "作战技巧",
             "name": "星落云散Ⅰ",
             "description": "在战斗中，累计触发10次「乱流」效果。",
@@ -87,7 +87,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003010,
+            "achievement_id": 2002059,
             "category": "作战技巧",
             "name": "星落云散Ⅱ",
             "description": "在战斗中，累计触发50次「乱流」效果。",
@@ -96,7 +96,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003011,
+            "achievement_id": 2002060,
             "category": "作战技巧",
             "name": "星落云散Ⅲ",
             "description": "在战斗中，累计触发200次「乱流」效果。",
@@ -240,7 +240,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003524,
+            "achievement_id": 2003024,
             "category": "敌对目标",
             "name": "专业杀「虫」技巧",
             "description": "与[基塔布鲁]作战时，连续招架其开启[侵蚀壁垒]后的三次攻击，在最末一次触发连携招架。",
@@ -249,7 +249,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003525,
+            "achievement_id": 2003025,
             "category": "敌对目标",
             "name": "拆卸专家 · 空域版",
             "description": "与「空域戒戍者」作战时，在同一场战斗中通过攻击其核心造成两次「部位破坏」。",
@@ -258,7 +258,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003526,
+            "achievement_id": 2003026,
             "category": "敌对目标",
             "name": "「人来了！」",
             "description": "连续接近并恐吓同一只[畸变骸蚁]3次。",

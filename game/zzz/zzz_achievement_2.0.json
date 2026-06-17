@@ -51,7 +51,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2005527,
+            "achievement_id": 2005027,
             "category": "迷失之地",
             "name": "副业凶险但实在值得",
             "description": "在［以太活性 15］的难度下，通关「特遣调查」。",
@@ -60,7 +60,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2005528,
+            "achievement_id": 2005028,
             "category": "迷失之地",
             "name": "熟练焊工",
             "description": "在通关「特遣调查」的单局内，累计获得2个[射吸式焊炬]。",
@@ -69,7 +69,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2005529,
+            "achievement_id": 2005029,
             "category": "迷失之地",
             "name": "惊险「见面会」",
             "description": "在「特遣调查」中，使用特定代理人出战并偶遇她们的追随者。",
@@ -78,7 +78,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2005530,
+            "achievement_id": 2005030,
             "category": "迷失之地",
             "name": "防卫军科研顾问",
             "description": "在单局「特遣调查」中，为3名代理人解锁[战术棱镜方案]的分支方案。",
@@ -582,7 +582,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003508,
+            "achievement_id": 2003008,
             "category": "敌对目标",
             "name": "斩断秽浊之源",
             "description": "在[秽息司祭]开启[秽浊流界]之前，就将其击败。",

@@ -114,7 +114,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003511,
+            "achievement_id": 2003011,
             "category": "敌对目标",
             "name": "请勿进行危险表演",
             "description": "与[凶魁愚者]作战时，发动[招架支援]、弹回它的飞刀。",
@@ -123,7 +123,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003512,
+            "achievement_id": 2003012,
             "category": "敌对目标",
             "name": "客串交通治安官",
             "description": "与[阿瓦鲁斯]作战时，在其直线冲刺期间连续完成3次[招架支援]。",
@@ -132,7 +132,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003513,
+            "achievement_id": 2003013,
             "category": "敌对目标",
             "name": "拒绝装神弄鬼！",
             "description": "与[赫由托]作战时，对其召唤出的巨大虚影完成3次[招架支援]。",
@@ -141,7 +141,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003514,
+            "achievement_id": 2003014,
             "category": "敌对目标",
             "name": "最后一次捉迷藏",
             "description": "与[彷徨猎手]作战时，在捉迷藏中找到错误的小卢西娅。",

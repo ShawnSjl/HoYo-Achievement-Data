@@ -260,7 +260,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2005532,
+            "achievement_id": 2005032,
             "category": "迷失之地",
             "name": "空洞消费主义陷阱",
             "description": "通关[矩阵行动·消费陷阱]时，花费的齿轮硬币数量超过6000枚。",
@@ -269,7 +269,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2005533,
+            "achievement_id": 2005033,
             "category": "迷失之地",
             "name": "玻璃大炮",
             "description": "通关[矩阵行动·风中残烛]时，无任何代理人陷入不可战斗状态。",
@@ -278,7 +278,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2005534,
+            "achievement_id": 2005034,
             "category": "迷失之地",
             "name": "生命化作筹码",
             "description": "通关[矩阵行动·猩红渴求]时，在邦布商店购买的商品数量不少于10件。",
@@ -287,7 +287,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2005535,
+            "achievement_id": 2005035,
             "category": "迷失之地",
             "name": "空洞漫步享受者",
             "description": "通关[矩阵行动·以和为贵]时，经过的非战斗区域大于10个。",
@@ -296,7 +296,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2005536,
+            "achievement_id": 2005036,
             "category": "迷失之地",
             "name": "纵有万难仍抵巅峰",
             "description": "在[以太活性 12]的难度下，通关任意主题的[矩阵行动]。",
@@ -305,7 +305,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2005537,
+            "achievement_id": 2005037,
             "category": "迷失之地",
             "name": "多样化解题思路",
             "description": "通关全部9种不同主题的[矩阵行动]。",
@@ -314,7 +314,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003520,
+            "achievement_id": 2003020,
             "category": "敌对目标",
             "name": "贯穿拦截大师",
             "description": "与[叛律孤歌·薇丝珀]作战时，使用[招架支援]完美反制控制技。",
@@ -323,7 +323,7 @@
           },
           {
             "game_id": "ZZZ",
-            "achievement_id": 2003521,
+            "achievement_id": 2003021,
             "category": "敌对目标",
             "name": "40米激光大剑",
             "description": "在[终曲之愿]或[幻矢单元]释放控制技时，触发完美反制。",
