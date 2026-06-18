@@ -360,7 +360,7 @@
             "achievement_id": 4006003,
             "category": "布亚斯特",
             "name": "Radio Ga Ga",
-            "description": "在「琥珀馆」房间内，完整收听一次收音机的节目。",
+            "description": "在「琥珀馆」，收听收音机的三种不同频道。",
             "reward_level": 1,
             "game_version": "3.0"
           },
@@ -378,7 +378,7 @@
             "achievement_id": 4006005,
             "category": "布亚斯特",
             "name": "绿色出行",
-            "description": "在布亚斯特的每个巴士站台，都乘坐过一次浮空巴士。",
+            "description": "在布亚斯特的每个巴士站台等待一次浮空巴士。",
             "reward_level": 1,
             "game_version": "3.0"
           },
