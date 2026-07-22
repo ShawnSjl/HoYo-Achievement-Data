@@ -1,0 +1,497 @@
+{
+  "name": "sr_achievement_4.4",
+  "type": "data",
+  "depends": [
+    "sr_achievement_4.3"
+  ],
+  "payload": {
+    "operations": [
+      {
+        "action": "update",
+        "table": "game_info",
+        "values": [
+          {
+            "target": {
+              "game_id": "HSR"
+            },
+            "game_version": "4.4"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "achievement",
+        "values": [
+          {
+            "game_id": "HSR",
+            "achievement_id": 2029001,
+            "category": "通往群星的轨道",
+            "name": "异兽魔都",
+            "description": "见证二相乐园的未来堕入末日黑暗。",
+            "reward_level": 2,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2029002,
+            "category": "通往群星的轨道",
+            "name": "地铁1999",
+            "description": "与战友们在泊地站会合。",
+            "reward_level": 2,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2029003,
+            "category": "通往群星的轨道",
+            "name": "名为「姬子」的起点",
+            "description": "所有的一切，从这里开始……※见证姬子旅程的起点。",
+            "reward_level": 2,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2029004,
+            "category": "通往群星的轨道",
+            "name": "永不消逝的重力波",
+            "description": "开拓，是超越重力的旅程。※将归寂的情报传递给列车组。",
+            "reward_level": 2,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2029005,
+            "category": "通往群星的轨道",
+            "name": "名为「开拓」的自画像",
+            "description": "旅程若是开心，也不负人间走这一遭。※完成归寂揭露真相的挑战。",
+            "reward_level": 2,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2029006,
+            "category": "通往群星的轨道",
+            "name": "万色归一",
+            "description": "明王开眼，诸相非相。※洞破归寂的万千化身。",
+            "reward_level": 2,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2029007,
+            "category": "通往群星的轨道",
+            "name": "寂",
+            "description": "寂静，万物的终局。※落地的头颅凝视着落败的自我，他突然想笑。",
+            "reward_level": 2,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3029001,
+            "category": "战意奔涌",
+            "name": "苍天航路绒绒号",
+            "description": "单场战斗内，除姬子•启行外，有3名【开拓同行】角色使用过助战技",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3029002,
+            "category": "战意奔涌",
+            "name": "四点的下午茶",
+            "description": "姬子•启行在自身第4个回合时施放终结技",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3029003,
+            "category": "战意奔涌",
+            "name": "一路同行",
+            "description": "单场战斗内，姬子•启行通过终结技，触发过4名【开拓同行】角色的特殊语音",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3029004,
+            "category": "战意奔涌",
+            "name": "三分之二为神",
+            "description": "战斗胜利时，吉尔伽美什的生命值百分比处于64%~68%之间",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3029005,
+            "category": "战意奔涌",
+            "name": "宝具储量充足",
+            "description": "吉尔伽美什施放秘技命中5名或以上敌人",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3029006,
+            "category": "战意奔涌",
+            "name": "开天辟地，理所当然",
+            "description": "吉尔伽美什为队伍中第一个施放终结技的角色",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3029007,
+            "category": "战意奔涌",
+            "name": "预算超支",
+            "description": "单场战斗内，远坂凛消耗的【宝石能量】超过100",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3029008,
+            "category": "战意奔涌",
+            "name": "黄金律（伪）",
+            "description": "使用我方角色远坂凛一次性拾取8枚金币",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3029009,
+            "category": "战意奔涌",
+            "name": "运去英雄不自由",
+            "description": "使用同时包含远坂凛与Archer的队伍获得一场战斗的胜利，且Archer在战斗中被击倒3次及以上",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3029010,
+            "category": "战意奔涌",
+            "name": "临终大合唱",
+            "description": "在与「喜剧学家」的战斗中，同时使四个及以上「喜剧学家」施放【谢幕】",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3029011,
+            "category": "战意奔涌",
+            "name": "拆弹专家",
+            "description": "在与「归寂」的战斗中，使「归寂」施放【爆梗狂欢】时，没有【爆梗】可以引爆",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3029012,
+            "category": "战意奔涌",
+            "name": "现学现卖",
+            "description": "在与「归寂」的战斗中，使用【收束命运的博弈】中获得的【屏障】抵抗【好戏开场】的伤害",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 7029001,
+            "category": "瞬息欢愉",
+            "name": "渡劫失败",
+            "description": "在末日妖都被雷电劈中1次",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 7029002,
+            "category": "瞬息欢愉",
+            "name": "快不过光速",
+            "description": "在末日妖都的「二次元JUMP！」中，被雷电劈中1次",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029001,
+            "category": "与你同行的回忆",
+            "name": "最长情的告白",
+            "description": "在街角见证两位路人命中注定的重逢",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029002,
+            "category": "与你同行的回忆",
+            "name": "末日妄想曲",
+            "description": "在末日妖都，抓到一只逃班的黑猫",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029003,
+            "category": "与你同行的回忆",
+            "name": "启程吧，「星间飞行号」",
+            "description": "支持咻咻舰长的启程计划",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029004,
+            "category": "与你同行的回忆",
+            "name": "这个照是非拍不可吗？",
+            "description": "在雷云压城的妖都，顶着滚滚天雷，雷厉风行地使用黑猫拍立得",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029005,
+            "category": "与你同行的回忆",
+            "name": "我不受欢迎…应该不怪你",
+            "description": "在妖都帮助茧居的尘灵",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029006,
+            "category": "与你同行的回忆",
+            "name": "雷霆特工队",
+            "description": "在妖都与雷虬完成一场精彩的演奏",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029007,
+            "category": "与你同行的回忆",
+            "name": "传奇之始",
+            "description": "在反贪「砖」家中，通关全部关卡",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029008,
+            "category": "与你同行的回忆",
+            "name": "征服无限",
+            "description": "在反贪「砖」家中，成功通关无尽模式关卡",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029009,
+            "category": "与你同行的回忆",
+            "name": "黑墙彼岸",
+            "description": "在反贪「砖」家中，所有关卡获得4星",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029010,
+            "category": "与你同行的回忆",
+            "name": "程序大师",
+            "description": "在反贪「砖」家中，单局内使用40次技能",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029011,
+            "category": "与你同行的回忆",
+            "name": "程序专家",
+            "description": "在反贪「砖」家中，单局内使用20次技能",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029012,
+            "category": "与你同行的回忆",
+            "name": "哈哈，哈哈哈，哈哈哈哈哈！",
+            "description": "在幻造圣杯战争中使用吉尔伽美什，一次性打出10张「王之财宝！」",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029013,
+            "category": "与你同行的回忆",
+            "name": "全宇宙最打动人心的开拓者",
+            "description": "在幻造圣杯战争中使用开拓者，于同一我方回合打出8张「阿哈打击！」",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029014,
+            "category": "与你同行的回忆",
+            "name": "散装无限剑制",
+            "description": "在幻造圣杯战争中使用Archer，于同一我方回合生成4张投影牌",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029015,
+            "category": "与你同行的回忆",
+            "name": "星穹双克胜利剑",
+            "description": "在幻造圣杯战争中使用Saber，于同一我方回合施放两次终结技",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029016,
+            "category": "与你同行的回忆",
+            "name": "世人啊，冀以锁系神明",
+            "description": "在幻造圣杯战争中，使奇美拉达到最大等级",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029017,
+            "category": "与你同行的回忆",
+            "name": "不忠之人曰可杀",
+            "description": "在幻造圣杯战争中，使用「万符必应破戒」消灭1名敌人",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8029018,
+            "category": "与你同行的回忆",
+            "name": "我全部防出去了，啊",
+            "description": "在幻造圣杯战争中，打出「炽天覆七重圆环」",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9029001,
+            "category": "众秘探奇",
+            "name": "大富翁",
+            "description": "开启400次二相乐园战利品",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9029002,
+            "category": "众秘探奇",
+            "name": "再会了，雷虬",
+            "description": "在妖都的「Jump时刻」暂时击退雷虬",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9029003,
+            "category": "众秘探奇",
+            "name": "请叫我绝缘体",
+            "description": "通关妖都的「Jump时刻」时，被雷电击中的次数少于20次",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9029004,
+            "category": "众秘探奇",
+            "name": "通往繁星之桥",
+            "description": "在坠星的摇篮的「二次元JUMP！」中建造出桥梁",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9029005,
+            "category": "众秘探奇",
+            "name": "最初的绘本",
+            "description": "在坠星的摇篮中，掌握描摹故事的画笔",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9029006,
+            "category": "众秘探奇",
+            "name": "闪光的生命",
+            "description": "在坠星的摇篮中，绘制出「你」的过往",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9029007,
+            "category": "众秘探奇",
+            "name": "乐园谱系学",
+            "description": "在海原市和妖都异变中集齐《浮脂记事》新发现的内容，并完成「浮脂溯源•二次元ROTATE！」中的所有收集要素",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9029008,
+            "category": "众秘探奇",
+            "name": "浣熊奔月",
+            "description": "通过「二次元JUMP！」，从妖都的电视塔飞往幻月内部",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9029009,
+            "category": "众秘探奇",
+            "name": "月亮病",
+            "description": "在「二次元JUMP！」中揍扁「妖月的倒影」",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9029010,
+            "category": "众秘探奇",
+            "name": "乐园变奏：眨眼的星星",
+            "description": "演奏奇异乐章，找到藏在坠星的摇篮中的迷之生物",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9029011,
+            "category": "众秘探奇",
+            "name": "乐园变奏：公主的月亮",
+            "description": "演奏奇异乐章，找到藏在妖都的迷之生物",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9029012,
+            "category": "众秘探奇",
+            "name": "飘灵半生，未逢明主",
+            "description": "在坠星的摇篮的「二次元JUMP！」中，击败超超超大号飘浮灵",
+            "reward_level": 1,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9029013,
+            "category": "众秘探奇",
+            "name": "拾荒者统治",
+            "description": "在末日妖都的「二次元JUMP！」中，打捞起1件废品",
+            "reward_level": 1,
+            "game_version": "4.4"
+          }
+        ]
+      }
+    ]
+  }
+}
