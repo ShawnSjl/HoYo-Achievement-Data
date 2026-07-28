@@ -1,0 +1,71 @@
+{
+  "name": "sr_achievement_4.4.1",
+  "type": "data",
+  "depends": [
+    "sr_achievement_4.4"
+  ],
+  "payload": {
+    "operations": [
+      {
+        "action": "insert",
+        "table": "achievement",
+        "values": [
+          {
+            "game_id": "HSR",
+            "achievement_id": 2029008,
+            "category": "通往群星的轨道",
+            "name": "幻造圣杯战争，结案…？",
+            "description": "「既然是我的从者，那就一定是最强的」※目送远坂凛重返群星",
+            "reward_level": 2,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2029009,
+            "category": "通往群星的轨道",
+            "name": "幻造圣杯战争，结案",
+            "description": "「我们如人那般生，如人那般行走，直到死亡，尝尽世间全部『欢愉』」※见证幻造圣杯战争落幕",
+            "reward_level": 2,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2029010,
+            "category": "通往群星的轨道",
+            "name": "王之财宝，民之睿智",
+            "description": "「本王自有妙计」※成为乌鲁克文化遗产基金会联合创始人",
+            "reward_level": 2,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2029011,
+            "category": "通往群星的轨道",
+            "name": "行于长夜的少女们",
+            "description": "「请一直、一直、一直闪耀下去吧」※获赠「死亡」泰坦姐妹的魔力",
+            "reward_level": 2,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2029012,
+            "category": "通往群星的轨道",
+            "name": "超越晨星的少女们",
+            "description": "「那，约好了——」※与伊什塔尔和解",
+            "reward_level": 2,
+            "game_version": "4.4"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2029013,
+            "category": "通往群星的轨道",
+            "name": "宛若晨星的少女们",
+            "description": "「就算我们都深受各自神明青睐，自己的人生也还是要亲手开拓」※与远坂凛契约",
+            "reward_level": 2,
+            "game_version": "4.4"
+          }
+        ]
+      }
+    ]
+  }
+}
