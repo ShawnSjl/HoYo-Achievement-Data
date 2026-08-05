@@ -1,0 +1,470 @@
+{
+  "name": "zzz_achievement_3.1",
+  "type": "data",
+  "depends": [
+    "zzz_achievement_3.0"
+  ],
+  "payload": {
+    "operations": [
+      {
+        "action": "update",
+        "table": "game_info",
+        "values": [
+          {
+            "target": {
+              "game_id": "ZZZ"
+            },
+            "game_version": "3.1"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "achievement",
+        "values": [
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1005030,
+            "category": "法厄同纪事",
+            "name": "战场「出片」指南",
+            "description": "面对结茧进化的基塔布鲁时，受到爆炸冲击波的伤害/成功回避每一次爆炸冲击波并击破茧。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1005031,
+            "category": "法厄同纪事",
+            "name": "天空的统御者",
+            "description": "操纵蕾米埃尔，在与基塔布鲁·滞变畸兽的空中对决中胜利。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1005032,
+            "category": "法厄同纪事",
+            "name": "「共犯」圆舞曲",
+            "description": "完成法厄同纪事「漫长的告别」。",
+            "reward_level": 3,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1005033,
+            "category": "法厄同纪事",
+            "name": "「共犯」的真心",
+            "description": "风波平息后，在蕾米埃尔的房间，找到她留下的信。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2002061,
+            "category": "作战技巧",
+            "name": "流光折镜Ⅰ",
+            "description": "在战斗中，累计触发10次「流明」属性「异化」效果。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2002062,
+            "category": "作战技巧",
+            "name": "流光折镜Ⅱ",
+            "description": "在战斗中，累计触发50次「流明」属性「异化」效果。",
+            "reward_level": 2,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2002063,
+            "category": "作战技巧",
+            "name": "流光折镜Ⅲ",
+            "description": "在战斗中，累计触发200次「流明」属性「异化」效果。",
+            "reward_level": 3,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 3003045,
+            "category": "勘域探境",
+            "name": "大大方方往里进",
+            "description": "发现[回流区]的隐藏空间。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 3003046,
+            "category": "勘域探境",
+            "name": "只是来串个门",
+            "description": "发现[子午馆]的隐藏空间。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 3003047,
+            "category": "勘域探境",
+            "name": "地下迷宫探索者",
+            "description": "[回流区]的探索进度达到100%。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 3003048,
+            "category": "勘域探境",
+            "name": "扭曲空间探索者",
+            "description": "[子午馆]的探索进度达到100%。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1004074,
+            "category": "代理人信赖",
+            "name": "勿忘我",
+            "description": "蕾米埃尔对绳匠的信赖达到4阶。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1004075,
+            "category": "代理人信赖",
+            "name": "传说中的骑士",
+            "description": "希格莉德对绳匠的信赖达到4阶。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2003027,
+            "category": "敌对目标",
+            "name": "势如破竹",
+            "description": "与[滞变畸兽]作战时，在第一和第二阶段内各击破其[侵蚀壁垒]一次。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2003028,
+            "category": "敌对目标",
+            "name": "让这火雨不要落下",
+            "description": "在与[熔狱行赭]的战斗中，火雨状态的总持续时间不超过20秒。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1008068,
+            "category": "际会之时",
+            "name": "浪潮与焰火未息",
+            "description": "在「恰浪花逐夏而至」中，见证希格莉德与诺姆的赌约结果。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1008069,
+            "category": "际会之时",
+            "name": "大海的承包商",
+            "description": "在「恰浪花逐夏而至」中，单次「踏滩赶海」收获的海产数量超过400。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1008070,
+            "category": "际会之时",
+            "name": "「蟹蟹招待」",
+            "description": "在「恰浪花逐夏而至」中，抓住巨大面包蟹。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1008071,
+            "category": "际会之时",
+            "name": "毋庸置疑的销冠",
+            "description": "在「恰浪花逐夏而至」中，单次「珍品巧售」获得的营业额达到80000。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1008072,
+            "category": "际会之时",
+            "name": "纪念品从未滞销",
+            "description": "在「恰浪花逐夏而至」中，纪念品店铺总计营业额达到900000。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1008073,
+            "category": "际会之时",
+            "name": "问问神奇海螺吧！",
+            "description": "在绮梦度假村，聆听「最不无聊的演奏」。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4006019,
+            "category": "布亚斯特",
+            "name": "顺手的事",
+            "description": "在布亚斯特，收集1枚散落的瓶盖。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4006020,
+            "category": "布亚斯特",
+            "name": "多顺几次手的事",
+            "description": "在布亚斯特，收集15枚散落的瓶盖。",
+            "reward_level": 3,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4006021,
+            "category": "布亚斯特",
+            "name": "一球成名",
+            "description": "在齿轮街，成功踢进一粒进球。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4006022,
+            "category": "布亚斯特",
+            "name": "完美的黄金回旋",
+            "description": "在布亚斯特，使摩天轮和滚筒洗布机各加速1次。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4006023,
+            "category": "布亚斯特",
+            "name": "心愿水晶球",
+            "description": "帮助「布狄亚」和「占布布」完成心愿。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4006024,
+            "category": "布亚斯特",
+            "name": "齿轮街之狼",
+            "description": "投资「富布斯」建立瓶盖帝国。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4006025,
+            "category": "布亚斯特",
+            "name": "台面下的存在",
+            "description": "向「邦事通」提供三次情报。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4006026,
+            "category": "布亚斯特",
+            "name": "科目一二三",
+            "description": "完成全部的浮空巴士培训课。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006001,
+            "category": "迷宫诡域",
+            "name": "一位主人的使命",
+            "description": "击败[熔狱行赭]，救回伊埃斯。",
+            "reward_level": 2,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006002,
+            "category": "迷宫诡域",
+            "name": "溜了溜了",
+            "description": "首次成功撤离。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006003,
+            "category": "迷宫诡域",
+            "name": "吃饱饱",
+            "description": "首次达成[满载撤离]。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006004,
+            "category": "迷宫诡域",
+            "name": "寂寞的人伤心的歌",
+            "description": "累计达成5次[满载撤离]。",
+            "reward_level": 2,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006005,
+            "category": "迷宫诡域",
+            "name": "这就是我的逃跑路线",
+            "description": "首次在高危难度下完成撤离。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006006,
+            "category": "迷宫诡域",
+            "name": "还追？还追！",
+            "description": "累计击退3次猎犬[乌利迪姆]。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006007,
+            "category": "迷宫诡域",
+            "name": "五路财神",
+            "description": "在一次调查中成功带回5件收藏品。",
+            "reward_level": 2,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006008,
+            "category": "迷宫诡域",
+            "name": "勇敢勇敢我的朋友",
+            "description": "在高危难度中，在15分钟内成功带回价值1000000的物资。",
+            "reward_level": 2,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006009,
+            "category": "迷宫诡域",
+            "name": "大富豪认证",
+            "description": "获得迷宫财富勋章的最高等级。",
+            "reward_level": 3,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006010,
+            "category": "迷宫诡域",
+            "name": "攻守易型",
+            "description": "成功击败一次恶噪状态下的猎犬[乌利迪姆]。",
+            "reward_level": 2,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006011,
+            "category": "迷宫诡域",
+            "name": "开造！",
+            "description": "获得一次桶之愚者制造的回礼。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006012,
+            "category": "迷宫诡域",
+            "name": "这不是肚子",
+            "description": "将桶之愚者等级提升至3级。",
+            "reward_level": 2,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006013,
+            "category": "迷宫诡域",
+            "name": "研究站的一小步",
+            "description": "将辉金中枢提升至1级。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006014,
+            "category": "迷宫诡域",
+            "name": "基建狂魔",
+            "description": "将辉金中枢、仓储枢纽、商店、工坊和研发中心升至最高等级。",
+            "reward_level": 2,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006015,
+            "category": "迷宫诡域",
+            "name": "亿万富豪",
+            "description": "仓储枢纽的资产总价值达到一亿齿轮硬币。",
+            "reward_level": 3,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006016,
+            "category": "迷宫诡域",
+            "name": "开电视，宝友",
+            "description": "首次激活奥蒙德研究站的收藏展示屏。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006017,
+            "category": "迷宫诡域",
+            "name": "老吃家",
+            "description": "成功带出[贝果计划]中46个收藏品。",
+            "reward_level": 3,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006018,
+            "category": "迷宫诡域",
+            "name": "《杜拉罕的微笑》",
+            "description": "成功带出收藏品[《杜拉罕的微笑》]。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006019,
+            "category": "迷宫诡域",
+            "name": "异桶来客",
+            "description": "成功带出收藏品[王下一桶]。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006020,
+            "category": "迷宫诡域",
+            "name": "纯金冰淇淋",
+            "description": "成功带出收藏品[纯金冰淇淋]。",
+            "reward_level": 1,
+            "game_version": "3.1"
+          }
+        ]
+      }
+    ]
+  }
+}
