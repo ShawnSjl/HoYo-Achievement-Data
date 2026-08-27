@@ -1,0 +1,500 @@
+{
+  "name": "sr_achievement_4.5",
+  "type": "data",
+  "depends": [
+    "sr_achievement_4.4"
+  ],
+  "payload": {
+    "operations": [
+      {
+        "action": "update",
+        "table": "game_info",
+        "values": [
+          {
+            "target": {
+              "game_id": "HSR"
+            },
+            "game_version": "4.5"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "achievement",
+        "values": [
+          {
+            "game_id": "HSR",
+            "achievement_id": 2030001,
+            "category": "通往群星的轨道",
+            "name": "千星城首富",
+            "description": "先完成一个小目标※人可以在极端愤怒的情况下，一天花掉88亿信用点",
+            "reward_level": 2,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2030002,
+            "category": "通往群星的轨道",
+            "name": "后室",
+            "description": "假如你不小心在错误的地方从现实中切出…※坠入审片室——不剪完片子就不许离开的房间",
+            "reward_level": 2,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2030003,
+            "category": "通往群星的轨道",
+            "name": "1 VS 20亿",
+            "description": "最后的大逆转机会！※知更鸟接受了挑战，她的对手将是大禽20亿粉丝",
+            "reward_level": 2,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2030004,
+            "category": "通往群星的轨道",
+            "name": "悠长假期",
+            "description": "所有人都是冠军，或者所有人都不是冠军※你们赢下了挑战，还给星穹列车买下了天价车险",
+            "reward_level": 2,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2030005,
+            "category": "通往群星的轨道",
+            "name": "跃向千星",
+            "description": "星穹列车，启动！※跃迁去往千星城",
+            "reward_level": 2,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2030006,
+            "category": "通往群星的轨道",
+            "name": "重版出来！",
+            "description": "在哪儿都别忘了，搞个最佳头条！※于千星城建立《狸狸周刊》分部",
+            "reward_level": 2,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2030007,
+            "category": "通往群星的轨道",
+            "name": "开拓者不掷骰子",
+            "description": "你们所有人都应该庆幸，代理领航员不掷骰子※向所有人展示归寂的骰子，然后仁慈地收起它",
+            "reward_level": 2,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2030008,
+            "category": "通往群星的轨道",
+            "name": "第二次入画",
+            "description": "琥珀垂眸，画界重现※时隔千年，二相乐园再度被封存",
+            "reward_level": 2,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 2030009,
+            "category": "通往群星的轨道",
+            "name": "啊哈！阿哈？",
+            "description": "所以你这家伙到底是谁啊！※本来想用普通人的身份和你们相处…现在，我摊牌了",
+            "reward_level": 2,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3030001,
+            "category": "战意奔涌",
+            "name": "你不当讲！",
+            "description": "在与「灯塔」的战斗中，通过攻击解除其【除恶】状态",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3030002,
+            "category": "战意奔涌",
+            "name": "POV：一起去KTV但你哥坚决不唱",
+            "description": "单场战斗中，使用我方角色知更鸟•晴歌的晴空乐手，对「齐响诗班」神主日造成最后一击",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3030003,
+            "category": "战意奔涌",
+            "name": "THIS IS IT",
+            "description": "单场战斗中，知更鸟•晴歌拥有的气氛值达到上限",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3030004,
+            "category": "战意奔涌",
+            "name": "不可战胜的夏天",
+            "description": "单场战斗中，砂金•戏浪在热意达到上限的状态下施放【Allin！敬炽烈一夏】",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 3030005,
+            "category": "战意奔涌",
+            "name": "POV：派对遇到了对手但不想翻脸",
+            "description": "单场战斗中，砂金•戏浪施放【举杯！敬炽烈一夏】或【Allin！敬炽烈一夏】对「惊梦剧团的气泡锂犬」造成最后一击",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030001,
+            "category": "与你同行的回忆",
+            "name": "You and I, We Like Durians",
+            "description": "旁观千星城海滩上的「另类」带货直播",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030002,
+            "category": "与你同行的回忆",
+            "name": "莫愁前路无知己",
+            "description": "在千星城与四位故人重逢※维利特、明曦、塔米拉、波波特…你还记得这些人吗？",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030003,
+            "category": "与你同行的回忆",
+            "name": "天下谁人不识君",
+            "description": "与叽米和卡美丽聊聊天吧",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030004,
+            "category": "与你同行的回忆",
+            "name": "成名要趁早",
+            "description": "如果有一个成为巨星的机会，你愿意为此付出多少？※见证一位银幕新星的诞生",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030005,
+            "category": "与你同行的回忆",
+            "name": "欢迎来到活死人的世界",
+            "description": "工作，死亡，然后，继续工作※见证斯科特与老友的爱恨情仇",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030006,
+            "category": "与你同行的回忆",
+            "name": "只是一名侦探",
+            "description": "泥土能捏塑偶像，虚伪亦成就公义※解开鲍勃十五世的失踪之谜",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030007,
+            "category": "与你同行的回忆",
+            "name": "致循环往复的美好日子",
+            "description": "放任幽灵与侦探的故事自然发展",
+            "reward_level": 1,
+            "branch_id": 51,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030008,
+            "category": "与你同行的回忆",
+            "name": "爱爱爱不完",
+            "description": "推选爱死王成为新一任的鸡窝头侦探",
+            "reward_level": 1,
+            "branch_id": 51,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030009,
+            "category": "与你同行的回忆",
+            "name": "滚滚银河东逝水",
+            "description": "报复幽灵们的背叛，令幽灵界天下三分",
+            "reward_level": 1,
+            "branch_id": 51,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030010,
+            "category": "与你同行的回忆",
+            "name": "沙雕英雄传",
+            "description": "打碎任意一个沙雕城堡",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030011,
+            "category": "与你同行的回忆",
+            "name": "日常生活中的自我呈现",
+            "description": "阅读任何一块「人设工牌」",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030012,
+            "category": "与你同行的回忆",
+            "name": "还真有",
+            "description": "你瞧？叽米我没唬你吧？哈哈，哈…话说，参观也参观完了，这钱…能还给我了不？…没这系统？",
+            "reward_level": 2,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030013,
+            "category": "与你同行的回忆",
+            "name": "终于知道谁在买了",
+            "description": "获得任意一个千星城特产文创纪念品",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030014,
+            "category": "与你同行的回忆",
+            "name": "银河杯：狂飙飞车",
+            "description": "在「超限：狂飙大奖赛」中获得银河杯冠军",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030015,
+            "category": "与你同行的回忆",
+            "name": "左前胎、左后胎、右前胎、右后胎和千斤顶",
+            "description": "在「超限：狂飙大奖赛」中进行9次研发行动",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030016,
+            "category": "与你同行的回忆",
+            "name": "车祸模拟器",
+            "description": "在「超限：狂飙大奖赛」中累计击飞20辆对手车辆",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 8030017,
+            "category": "与你同行的回忆",
+            "name": "千星城车神",
+            "description": "在「超限：狂飙大奖赛」中任意圈速挑战中，成功打破赛道记录",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030001,
+            "category": "众秘探奇",
+            "name": "星际特工：千星之城",
+            "description": "开启70次千星城战利品",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030002,
+            "category": "众秘探奇",
+            "name": "琥珀中的足迹",
+            "description": "你见证了自己被收藏在时空连续体中的足迹",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030003,
+            "category": "众秘探奇",
+            "name": "出门在外，学会做菜",
+            "description": "你进入了在田先生仿制的幻造书中，并拿到隐藏的书页",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030004,
+            "category": "众秘探奇",
+            "name": "夏日友晴歌",
+            "description": "完成千星城的「Jump时刻」",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030005,
+            "category": "众秘探奇",
+            "name": "节奏的天国与地牢",
+            "description": "在千星城的「Jump时刻」拿到所有的音符",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030006,
+            "category": "众秘探奇",
+            "name": "乐园变奏：云朵工厂",
+            "description": "演奏奇异乐章，找到藏在千星城中心城区的迷之生物",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030007,
+            "category": "众秘探奇",
+            "name": "乐园变奏：狐狸与葡萄",
+            "description": "演奏奇异乐章，找到藏在指针塔的迷之生物",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030008,
+            "category": "众秘探奇",
+            "name": "阳光侠客，倒转千星",
+            "description": "在二相乐园和千星城累计收集180个金色尘灵",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030009,
+            "category": "众秘探奇",
+            "name": "放…放生了？",
+            "description": "将沙滩排球踢到海里，再也拿不回来",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030010,
+            "category": "众秘探奇",
+            "name": "跳帮作战",
+            "description": "在「二次元JUMP！」中连续触碰6个及以上的冲刺球",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030011,
+            "category": "众秘探奇",
+            "name": "火箭飞拳",
+            "description": "在「二次元JUMP！」中使用升级后的冲刺能力撞飞怪物",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030012,
+            "category": "众秘探奇",
+            "name": "星空清理者",
+            "description": "在「二次元JUMP！」中使用冲刺能力撞碎易碎模块",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030013,
+            "category": "众秘探奇",
+            "name": "循此苦旅，直抵工位",
+            "description": "初次搭乘接驳车，从千星城抵达指针塔",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030014,
+            "category": "众秘探奇",
+            "name": "切入",
+            "description": "通过环形工位的秘密通道，抵达神秘的后室",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030015,
+            "category": "众秘探奇",
+            "name": "此心安处",
+            "description": "在后室中见证一位受困者的末路",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030016,
+            "category": "众秘探奇",
+            "name": "劲道Q弹的我",
+            "description": "在「二次元JUMP！」中，于两个冲刺球间来回弹跳6秒以上",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030017,
+            "category": "众秘探奇",
+            "name": "太空军校生",
+            "description": "在「二次元JUMP！」中，使用冲刺击飞5个及以上的刺猬和飘浮灵，且中途没有落地",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030018,
+            "category": "众秘探奇",
+            "name": "今天又不用██梦打赢了…",
+            "description": "不使用长按冲刺，完成「二次元JUMP！」的冲刺训练",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030019,
+            "category": "众秘探奇",
+            "name": "闪避刺客",
+            "description": "在「二次元JUMP！」中，使用冲刺技能打断冲刺球的冲刺，并回到原本的冲刺球",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030020,
+            "category": "众秘探奇",
+            "name": "超越时间之影",
+            "description": "在千星城「二次元JUMP！」的影子竞速赛中取得第一名",
+            "reward_level": 1,
+            "game_version": "4.5"
+          },
+          {
+            "game_id": "HSR",
+            "achievement_id": 9030021,
+            "category": "众秘探奇",
+            "name": "飞行冠军",
+            "description": "在「二次元JUMP！」中完成「千星城特技飞行大奖赛」",
+            "reward_level": 1,
+            "game_version": "4.5"
+          }
+        ]
+      }
+    ]
+  }
+}
