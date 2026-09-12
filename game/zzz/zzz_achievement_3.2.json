@@ -1,0 +1,446 @@
+{
+  "name": "zzz_achievement_3.2",
+  "type": "data",
+  "depends": [
+    "zzz_achievement_3.1"
+  ],
+  "payload": {
+    "operations": [
+      {
+        "action": "update",
+        "table": "game_info",
+        "values": [
+          {
+            "target": {
+              "game_id": "ZZZ"
+            },
+            "game_version": "3.2"
+          }
+        ]
+      },
+      {
+        "action": "update",
+        "table": "achievement",
+        "values": [
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006001
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006002
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006003
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006004
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006005
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006006
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006007
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006008
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006009
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006010
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006011
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006012
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006013
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006014
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006015
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006016
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006017
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006018
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006019
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006020
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006021
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006022
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006023
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006024
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006025
+            },
+            "category": "罗斯凯利法"
+          },
+          {
+            "target": {
+              "game_id": "ZZZ",
+              "achievement_id": 4006026
+            },
+            "category": "罗斯凯利法"
+          }
+        ]
+      },
+      {
+        "action": "insert",
+        "table": "achievement",
+        "values": [
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1005034,
+            "category": "法厄同纪事",
+            "name": "以往昔为证",
+            "description": "完成法厄同纪事「她与她的隐秘往事」。",
+            "reward_level": 3,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1005035,
+            "category": "法厄同纪事",
+            "name": "潜入搜查：潜行专家",
+            "description": "协助克拉蕾潜入南侧警戒区并顺利进入监控室。",
+            "reward_level": 1,
+            "game_version": "3.2",
+            "branch_id": 6
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1005036,
+            "category": "法厄同纪事",
+            "name": "潜入搜查：不留余地",
+            "description": "在潜入搜查中解决掉所有警戒区外侧看守后进入监控室。",
+            "reward_level": 1,
+            "game_version": "3.2",
+            "branch_id": 6
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1005037,
+            "category": "法厄同纪事",
+            "name": "潜入搜查：销声匿影",
+            "description": "在不解决任何看守的情况下进入监控室（教学看守除外）。",
+            "reward_level": 1,
+            "game_version": "3.2",
+            "branch_id": 6
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1005038,
+            "category": "法厄同纪事",
+            "name": "潜入搜查：邦布救星",
+            "description": "在南侧警戒区解救被困住的邦布后进入监控室。",
+            "reward_level": 1,
+            "game_version": "3.2",
+            "branch_id": 6
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1004076,
+            "category": "代理人信赖",
+            "name": "我的家主不可能这么可爱",
+            "description": "克拉蕾对绳匠的信赖达到4阶。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1004077,
+            "category": "代理人信赖",
+            "name": "愿你夜夜都好眠",
+            "description": "洛克茜对绳匠的信赖达到4阶。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1009025,
+            "category": "绳网热议",
+            "name": "同人大神发力了！",
+            "description": "在绳网回复帖子「萌萌星见雅堂堂登场！」。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 1009026,
+            "category": "绳网热议",
+            "name": "你好，同担！",
+            "description": "在绳网回复帖子「求问，今天阿饭老师为什么有点反常？」。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2002064,
+            "category": "作战技巧",
+            "name": "断金裂石Ⅰ",
+            "description": "在战斗中，累计触发10次「毁伤」效果。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2002065,
+            "category": "作战技巧",
+            "name": "断金裂石Ⅱ",
+            "description": "在战斗中，累计触发50次「毁伤」效果。",
+            "reward_level": 2,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2002066,
+            "category": "作战技巧",
+            "name": "断金裂石Ⅲ",
+            "description": "在战斗中，累计触发200次「毁伤」效果。",
+            "reward_level": 3,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2003029,
+            "category": "敌对目标",
+            "name": "片闪不沾身",
+            "description": "与[库萨里库]作战时，累计3次使用[招架支援]应对其发动的[裂界闪袭]。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2003030,
+            "category": "敌对目标",
+            "name": "无所遁形",
+            "description": "与[征服者]作战时，累计2次成功应对光学迷彩状态下的攻击。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006021,
+            "category": "迷宫诡域",
+            "name": "慈善鼠王",
+            "description": "成功携带价值1000000的物资撤离，且调查全程不对敌人造成伤害。",
+            "reward_level": 2,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006022,
+            "category": "迷宫诡域",
+            "name": "目标是骸影大师",
+            "description": "在战术道具栏位装备12个骸影时进入调查。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006023,
+            "category": "迷宫诡域",
+            "name": "给我擦皮鞋",
+            "description": "成功携带价值10000000的物资撤离。",
+            "reward_level": 2,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 2006024,
+            "category": "迷宫诡域",
+            "name": "梭哈是一种智慧",
+            "description": "在高危难度投资3000000齿轮硬币，并携带总价值超过10000000的物资成功撤离。",
+            "reward_level": 3,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 3003049,
+            "category": "勘域探境",
+            "name": "「明礁」",
+            "description": "对[隐礁中转站]的探索进度达到100%。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 3003050,
+            "category": "勘域探境",
+            "name": "科研人的散步路线",
+            "description": "对[辉金研究所]的探索进度达到100%。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4006027,
+            "category": "罗斯凯利法",
+            "name": "「是萝卜！真棒！」",
+            "description": "在「跛脚乌鸦奇探录」中，完成科洛和阿跛的全部委托。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4006028,
+            "category": "罗斯凯利法",
+            "name": "妥协的艺术",
+            "description": "把熔光馆庭院内的绿雕修剪为两位园艺邦布都满意的造型。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4006029,
+            "category": "罗斯凯利法",
+            "name": "晚安，邦布大小姐",
+            "description": "在维尔乌姆，了解两位「角色扮演」邦布的全部活动。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4006030,
+            "category": "罗斯凯利法",
+            "name": "伊芙莉塔的书架",
+            "description": "在凌晨时段，调查熔光馆的书架暗门。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          },
+          {
+            "game_id": "ZZZ",
+            "achievement_id": 4006031,
+            "category": "罗斯凯利法",
+            "name": "已读，乱回",
+            "description": "在维尔乌姆的沙滩处，回复所有的漂流瓶。",
+            "reward_level": 1,
+            "game_version": "3.2"
+          }
+        ]
+      }
+    ]
+  }
+}
